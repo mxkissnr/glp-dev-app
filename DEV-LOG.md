@@ -1,3 +1,8 @@
+## dev-7 — 2026-08-05
+
+- Back up shot photos too, by scanning the image directory instead of a hand-maintained entity list (1517cae)
+- Show the dev-channel build tag next to the app version, on GLP DEV only (3435b47)
+
 ## dev-6 — 2026-08-05
 
 - Give the restore dry-run preview its own rate-limit budget (87700f6)
