@@ -1,3 +1,7 @@
+## dev-6 — 2026-08-05
+
+- Give the restore dry-run preview its own rate-limit budget (87700f6)
+
 ## dev-5 — 2026-08-05
 
 - Mirror the status dot's tooltip on the rail footer dot too (#655 follow-up) (8ab9be0)
