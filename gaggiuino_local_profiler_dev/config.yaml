@@ -1,0 +1,48 @@
+name: "GLP DEV — Gaggiuino Local Profiler (unstable)"
+# Rewritten automatically by .github/workflows/build-dev.yaml in the main
+# repository on every push to `dev`. Home Assistant offers an add-on update
+# when this value changes, so it must be unique per build -- it is NOT the
+# app's own semantic version (that still lives in the main repo's
+# config.yaml and lib/constants.js).
+version: "dev-0"
+slug: "gaggiuino_local_profiler_dev"
+description: "UNSTABLE dev builds of GLP, for maintainer testing only. Runs alongside the stable add-on with its own database. Not for end users."
+url: "https://github.com/mxkissnr/glp-dev-addon"
+# Same image repository as stable -- only the tag differs. The dev tag is
+# built from the `dev` branch and pinned via `version` above.
+image: "ghcr.io/mxkissnr/gaggiuino-local-profiler/{arch}"
+arch:
+  - amd64
+  - armv7
+  - aarch64
+startup: application
+boot: manual
+homeassistant_api: true
+hassio_api: true
+init: false
+ingress: true
+# Ingress is add-on-scoped, so the in-container port can stay 8099 and only
+# the host-side mapping below has to avoid colliding with the stable add-on.
+ingress_port: 8099
+services:
+  - mqtt:want
+ports:
+  8099/tcp: 8098
+ports_description:
+  8099/tcp: "GLP DEV web interface (8098 on the host, so it never collides with the stable add-on on 8099)"
+panel_icon: mdi:flask-outline
+panel_title: "GLP DEV"
+options:
+  machine_host: "gaggiuino.local"
+  sync_interval: 5
+  switch_entity: ""
+  preheat_time: 20
+  enable_orders: false
+  debug_logging: true
+schema:
+  machine_host: str
+  sync_interval: int(1,60)
+  switch_entity: str?
+  preheat_time: int(1,120)?
+  enable_orders: bool?
+  debug_logging: bool?
