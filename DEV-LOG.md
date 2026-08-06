@@ -1,3 +1,7 @@
+## dev-16 — 2026-08-06
+
+- Retry release-existence check to tolerate merge-to-publish gap (3d739e4)
+
 ## dev-15 — 2026-08-06
 
 - Merge pull request #664 from mxkissnr/release/v2.30.0 (1f51041)
