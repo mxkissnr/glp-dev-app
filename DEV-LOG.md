@@ -1,3 +1,7 @@
+## dev-11 — 2026-08-06
+
+- Clear backup modal passphrase fields on close, not just its bundle state (6f74993)
+
 ## dev-10 — 2026-08-06
 
 - Fix dev-9 regression: attribute-based file input selector broke on the new accept value (48d5c9e)
