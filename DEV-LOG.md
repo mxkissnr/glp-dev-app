@@ -1,3 +1,7 @@
+## dev-12 — 2026-08-06
+
+- Add time to backup filenames, not just the date (8acdb2d)
+
 ## dev-11 — 2026-08-06
 
 - Clear backup modal passphrase fields on close, not just its bundle state (6f74993)
