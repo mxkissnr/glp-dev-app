@@ -1,3 +1,10 @@
+## dev-15 — 2026-08-06
+
+- Merge pull request #664 from mxkissnr/release/v2.30.0 (1f51041)
+- Use Array.isArray, not just Buffer.isBuffer, as the CodeQL barrier (#665) (788afc1)
+- Add explicit type/format barriers for CodeQL false positives (#665) (e201f9c)
+- Release v2.30.0 (93fec89)
+
 ## dev-14 — 2026-08-06
 
 - Retry the post-power-on sync a few times instead of a single attempt (#663) (8da82c7)
