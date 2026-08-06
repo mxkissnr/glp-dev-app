@@ -1,3 +1,7 @@
+## dev-9 — 2026-08-06
+
+- Export backup as a real .zip instead of base64-embedding images in JSON (c2a6a9d)
+
 ## dev-8 — 2026-08-06
 
 - Fix Enter key in backup passphrase field; log skipped images in export (935c524)
