@@ -1,3 +1,7 @@
+## dev-8 — 2026-08-06
+
+- Fix Enter key in backup passphrase field; log skipped images in export (935c524)
+
 ## dev-7 — 2026-08-05
 
 - Back up shot photos too, by scanning the image directory instead of a hand-maintained entity list (1517cae)
