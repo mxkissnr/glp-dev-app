@@ -1,3 +1,7 @@
+## dev-13 — 2026-08-06
+
+- Reconcile machine host/switch entity after backup restore (#661) (dbafc14)
+
 ## dev-12 — 2026-08-06
 
 - Add time to backup filenames, not just the date (8acdb2d)
