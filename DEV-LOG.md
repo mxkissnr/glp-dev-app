@@ -1,3 +1,7 @@
+## dev-14 — 2026-08-06
+
+- Retry the post-power-on sync a few times instead of a single attempt (#663) (8da82c7)
+
 ## dev-13 — 2026-08-06
 
 - Reconcile machine host/switch entity after backup restore (#661) (dbafc14)
