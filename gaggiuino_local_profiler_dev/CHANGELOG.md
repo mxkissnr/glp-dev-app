@@ -1,3 +1,7 @@
+## dev-20260807_0625 — 2026-08-07
+
+- chore(dev): switch dev build version to a UTC timestamp (#690) (6fd52c3)
+
 ## dev-22 — 2026-08-07
 
 - fix: dev-banner overlay + wrong changelog path for GLP DEV updates (#688) (07f40c8)
