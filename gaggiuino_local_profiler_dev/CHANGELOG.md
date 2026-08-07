@@ -1,3 +1,7 @@
+## dev-22 — 2026-08-07
+
+- fix: dev-banner overlay + wrong changelog path for GLP DEV updates (#688) (07f40c8)
+
 ## dev-21 — 2026-08-07
 
 - feat: on-duration status, edge-swipe drawer, dev-build banner, restore reload (#685) (1056bd1)
