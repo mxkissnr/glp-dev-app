@@ -1,3 +1,7 @@
+## dev-20260807_1040 — 2026-08-07
+
+- chore: firmware-check pagination + grinder-stats dedup (#673, #674) (#694) (d3c993a)
+
 ## dev-20260807_1005 — 2026-08-07
 
 - fix: wire autocomplete onto the shot-defaults Grinder field (#692) (893849f)
