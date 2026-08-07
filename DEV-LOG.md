@@ -1,3 +1,7 @@
+## dev-21 — 2026-08-07
+
+- feat: on-duration status, edge-swipe drawer, dev-build banner, restore reload (#685) (1056bd1)
+
 ## dev-20 — 2026-08-07
 
 - refactor: consolidate resolveMachine()/requireSettingsProxySupport() into their canonical files (#680) (45f96f8)
