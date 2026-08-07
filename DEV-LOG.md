@@ -1,3 +1,7 @@
+## dev-19 — 2026-08-07
+
+- fix: allow same-origin camera access so the barcode/QR scanner works (#678) (f79ff6a)
+
 ## dev-18 — 2026-08-07
 
 - fix: add SIGTERM/SIGINT handler so add-on stop exits cleanly (#676) (0b59de4)
