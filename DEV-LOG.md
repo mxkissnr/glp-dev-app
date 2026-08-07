@@ -1,3 +1,7 @@
+## dev-20 — 2026-08-07
+
+- refactor: consolidate resolveMachine()/requireSettingsProxySupport() into their canonical files (#680) (45f96f8)
+
 ## dev-19 — 2026-08-07
 
 - fix: allow same-origin camera access so the barcode/QR scanner works (#678) (f79ff6a)
