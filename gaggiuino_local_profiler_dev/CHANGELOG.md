@@ -1,3 +1,7 @@
+## dev-20260807_1005 — 2026-08-07
+
+- fix: wire autocomplete onto the shot-defaults Grinder field (#692) (893849f)
+
 ## dev-20260807_0625 — 2026-08-07
 
 - chore(dev): switch dev build version to a UTC timestamp (#690) (6fd52c3)
