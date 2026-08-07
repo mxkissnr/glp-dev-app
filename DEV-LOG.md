@@ -1,3 +1,9 @@
+## dev-18 — 2026-08-07
+
+- fix: add SIGTERM/SIGINT handler so add-on stop exits cleanly (#676) (0b59de4)
+- docs: document dev-first branch workflow in CLAUDE.md (#672) (db0d708)
+- Round 08-06: release-check retry, shot defaults, firmware version check, basket/puck-screen analytics (#669) (225da8a)
+
 ## dev-16 — 2026-08-06
 
 - Retry release-existence check to tolerate merge-to-publish gap (3d739e4)
