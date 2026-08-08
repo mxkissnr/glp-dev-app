@@ -1,3 +1,7 @@
+## dev-20260808_1540 — 2026-08-08
+
+- fix: bump nanoid to patch GHSA-2v37-7h3g-55p8 DoS vulnerability (4980db6)
+
 ## dev-20260808_1533 — 2026-08-08
 
 - feat: deprecate machine_host/switch_entity add-on options (#662) (#697) (5297a84)
