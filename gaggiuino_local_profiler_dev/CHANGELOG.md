@@ -1,3 +1,8 @@
+## dev-20260808_1533 — 2026-08-08
+
+- feat: deprecate machine_host/switch_entity add-on options (#662) (#697) (5297a84)
+- docs: remove personal attribution from CHANGELOG entries (#695) (32ebc66)
+
 ## dev-20260807_1040 — 2026-08-07
 
 - chore: firmware-check pagination + grinder-stats dedup (#673, #674) (#694) (d3c993a)
