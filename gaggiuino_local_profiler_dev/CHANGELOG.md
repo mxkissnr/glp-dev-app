@@ -1,3 +1,7 @@
+## dev-20260808_1545 — 2026-08-08
+
+- fix: wire live pump-flow reading into the live-shot accumulator (24b1570)
+
 ## dev-20260808_1540 — 2026-08-08
 
 - fix: bump nanoid to patch GHSA-2v37-7h3g-55p8 DoS vulnerability (4980db6)
