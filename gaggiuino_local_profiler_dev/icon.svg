@@ -17,8 +17,11 @@
   <rect x="8" y="8" width="496" height="496" rx="88" fill="none" stroke="#f5c518" stroke-width="16"/>
 
   <!-- MDI coffee icon (mdi:coffee) centered, recolored to the same
-       warning-yellow instead of the stable app's amber -->
-  <g transform="translate(86, 60) scale(14.17)" fill="#f5c518">
+       warning-yellow instead of the stable app's amber, and flipped upside
+       down (rotate 180 around its own 24x24 center before the outer
+       translate/scale): makes GLP DEV unmistakable at a glance instead of
+       relying on color alone. -->
+  <g transform="translate(86, 60) scale(14.17) rotate(180, 12, 12)" fill="#f5c518">
     <path d="M2,21V19H20V21H2M20,8V5H18V8H20M20,3A2,2 0 0,1 22,5V8A2,2 0 0,1 20,10H18V13A4,4 0 0,1 14,17H8A4,4 0 0,1 4,13V3H20M16,5H6V13A2,2 0 0,0 8,15H14A2,2 0 0,0 16,13V5Z"/>
   </g>
 
