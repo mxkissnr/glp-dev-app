@@ -1,3 +1,7 @@
+## dev-20260809_1827 — 2026-08-09
+
+- Allow an empty machine host, skip cleanly instead of a placeholder fallback (c049e11)
+
 ## dev-20260809_1808 — 2026-08-09
 
 - Log raw /latest response body from the machine (a62b690)
