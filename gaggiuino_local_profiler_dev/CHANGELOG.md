@@ -1,3 +1,7 @@
+## dev-20260809_1723 — 2026-08-09
+
+- Fix startup log's Machine URL line to read the registry, not raw options.json (7621f39)
+
 ## dev-20260809_1620 — 2026-08-09
 
 - Show dev build tag in the startup log line (507adcf)
