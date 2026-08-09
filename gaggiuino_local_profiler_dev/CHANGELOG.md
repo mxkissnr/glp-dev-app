@@ -1,3 +1,7 @@
+## dev-20260809_1801 — 2026-08-09
+
+- Log per-shot response time during backfill (e09da76)
+
 ## dev-20260809_1728 — 2026-08-09
 
 - Add registry snapshot + full request tracing to debug logging (0a91814)
