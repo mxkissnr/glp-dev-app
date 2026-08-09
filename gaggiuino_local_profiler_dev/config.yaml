@@ -11,12 +11,13 @@ url: "https://github.com/mxkissnr/glp-dev-app"
 # Same image repository as stable -- only the tag differs. The dev tag is
 # built from the `dev` branch and pinned via `version` above.
 image: "ghcr.io/mxkissnr/gaggiuino-local-profiler/{arch}"
-# amd64 only -- the dev channel is built for the maintainer's HAOS box and
-# build-dev.yaml publishes no other architecture. Listing one here that has no
-# image would let Home Assistant offer an install that then fails on pull.
-# The stable app still ships all three.
+# #702: matches build-dev.yaml's matrix -- listing an arch here that has no
+# published image would let Home Assistant offer an install that then fails
+# on pull, so this list must always agree with what that workflow builds.
 arch:
   - amd64
+  - armv7
+  - aarch64
 startup: application
 boot: manual
 homeassistant_api: true

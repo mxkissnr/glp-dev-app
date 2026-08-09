@@ -32,8 +32,8 @@ write to the stable app's shot archive or coffee library. Both can run at the
 same time. Point them at the same machine only if you accept that both will
 sync shots from it.
 
-Dev builds are published for **amd64 only** — the stable app still ships
-amd64, armv7 and aarch64.
+Dev builds are published for **amd64, armv7 and aarch64** — same architecture
+coverage as the stable app.
 
 ## Maintainer setup
 
