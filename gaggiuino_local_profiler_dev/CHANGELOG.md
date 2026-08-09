@@ -1,3 +1,7 @@
+## dev-20260809_1620 — 2026-08-09
+
+- Show dev build tag in the startup log line (507adcf)
+
 ## dev-20260809_1534 — 2026-08-09
 
 - Add periodic connectivity summary log for machine host (f5cdd56)
