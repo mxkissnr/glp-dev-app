@@ -1,3 +1,9 @@
+## dev-20260809_0817 — 2026-08-09
+
+- fix: suppress stable-release update banner on dev builds, show build id in dev banner (aaaf183)
+- feat: expose each machine's theme in GET /api/status machines[] (954a40f)
+- ci: build armv7 and aarch64 images for the dev channel too (81749ce)
+
 ## dev-20260809_0737 — 2026-08-09
 
 - fix: getMachineUrl() always appends /api/shots regardless of input format (91077d0)
