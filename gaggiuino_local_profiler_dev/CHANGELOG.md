@@ -1,3 +1,8 @@
+## dev-20260809_0737 — 2026-08-09
+
+- fix: getMachineUrl() always appends /api/shots regardless of input format (91077d0)
+- fix: await loadLibrary() before loadData() to fix stale Basket/Puck Screen on first load (34f397c)
+
 ## dev-20260808_1545 — 2026-08-08
 
 - fix: wire live pump-flow reading into the live-shot accumulator (24b1570)
