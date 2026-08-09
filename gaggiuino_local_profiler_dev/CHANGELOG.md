@@ -1,3 +1,7 @@
+## dev-20260809_1808 — 2026-08-09
+
+- Log raw /latest response body from the machine (a62b690)
+
 ## dev-20260809_1801 — 2026-08-09
 
 - Log per-shot response time during backfill (e09da76)
