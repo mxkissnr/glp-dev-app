@@ -35,17 +35,18 @@ ports_description:
   8099/tcp: "GLP DEV web interface (8098 on the host, so it never collides with the stable app on 8099)"
 panel_icon: mdi:flask-outline
 panel_title: "GLP DEV"
+# #703: machine_host/switch_entity dropped, matching the stable app's own
+# #662 deprecation (config.yaml's options/schema aren't touched by
+# build-dev.yaml's auto-bump -- only `version:` is -- so this drifted out
+# of sync until fixed by hand here). Machine #1 configures only in-app now,
+# via Settings -> Machines, same as every other machine.
 options:
-  machine_host: "gaggiuino.local"
   sync_interval: 5
-  switch_entity: ""
   preheat_time: 20
   enable_orders: false
   debug_logging: true
 schema:
-  machine_host: str
   sync_interval: int(1,60)
-  switch_entity: str?
   preheat_time: int(1,120)?
   enable_orders: bool?
   debug_logging: bool?
