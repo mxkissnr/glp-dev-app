@@ -1,3 +1,7 @@
+## dev-20260809_1534 — 2026-08-09
+
+- Add periodic connectivity summary log for machine host (f5cdd56)
+
 ## dev-20260809_1516 — 2026-08-09
 
 - Add debug-gated logging for sync 404s and brew-event flapping (db19341)
