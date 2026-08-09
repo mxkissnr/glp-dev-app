@@ -1,3 +1,7 @@
+## dev-20260809_0836 — 2026-08-09
+
+- ci: decouple dev manifest publish from armv7/aarch64 builds (6c92680)
+
 ## dev-20260809_0817 — 2026-08-09
 
 - fix: suppress stable-release update banner on dev builds, show build id in dev banner (aaaf183)
