@@ -1,3 +1,7 @@
+## dev-20260809_0923 — 2026-08-09
+
+- Log options.json key set at startup for stale-schema diagnosis (#707) (24de8ea)
+
 ## dev-20260809_0836 — 2026-08-09
 
 - ci: decouple dev manifest publish from armv7/aarch64 builds (6c92680)
