@@ -1,3 +1,7 @@
+## dev-20260809_1516 — 2026-08-09
+
+- Add debug-gated logging for sync 404s and brew-event flapping (db19341)
+
 ## dev-20260809_0923 — 2026-08-09
 
 - Log options.json key set at startup for stale-schema diagnosis (#707) (24de8ea)
