@@ -1,3 +1,8 @@
+## dev-20260810_2037 — 2026-08-10
+
+- Merge pull request #754 from mxkissnr/feature/753-machine-default-delete (8269a23)
+- Allow changing the default machine and deleting any machine (76ede8d)
+
 ## dev-20260810_2021 — 2026-08-10
 
 - Merge pull request #751 from mxkissnr/fix/750-wizard-install-id-reset (9249d8e)
