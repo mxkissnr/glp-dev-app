@@ -1,3 +1,8 @@
+## dev-20260810_2021 — 2026-08-10
+
+- Merge pull request #751 from mxkissnr/fix/750-wizard-install-id-reset (9249d8e)
+- Fix setup wizard staying suppressed after an add-on data wipe (53984b8)
+
 ## dev-20260810_1951 — 2026-08-10
 
 - Merge pull request #749 from mxkissnr/fix/748-wizard-test-connection-closes (67aa094)
