@@ -1,3 +1,10 @@
+## dev-20260810_0519 — 2026-08-10
+
+- Merge main into dev: resync after v2.31.0 release + post-release CHANGELOG cleanup (93589b9)
+- docs: remove personal attribution from CHANGELOG entries (#696) (ae724be)
+- Release v2.31.0 (41f6217)
+- release: v2.31.0 (0ddc38d)
+
 ## dev-20260809_1827 — 2026-08-09
 
 - Allow an empty machine host, skip cleanly instead of a placeholder fallback (c049e11)
