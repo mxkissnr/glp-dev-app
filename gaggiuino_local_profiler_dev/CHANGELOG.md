@@ -1,3 +1,7 @@
+## dev-20260810_0559 — 2026-08-10
+
+- Add dev-channel-only raw SQLite DB export endpoint (#724) (adf12db)
+
 ## dev-20260810_0550 — 2026-08-10
 
 - Skip permanently-missing (404) shot ids during backfill instead of aborting sync forever (#723) (2d3b95c)
