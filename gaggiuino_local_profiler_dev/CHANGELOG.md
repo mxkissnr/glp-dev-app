@@ -1,3 +1,7 @@
+## dev-20260810_1116 — 2026-08-10
+
+- Simplify machine test button to save-then-test, sync on every save, add import progress (#730) (657500b)
+
 ## dev-20260810_1005 — 2026-08-10
 
 - Stop an out-of-range shot id from wedging default-machine sync forever (#720) (7f37676)
