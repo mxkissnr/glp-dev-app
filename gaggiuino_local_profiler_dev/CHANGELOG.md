@@ -1,3 +1,7 @@
+## dev-20260810_0550 — 2026-08-10
+
+- Skip permanently-missing (404) shot ids during backfill instead of aborting sync forever (#723) (2d3b95c)
+
 ## dev-20260810_0519 — 2026-08-10
 
 - Merge main into dev: resync after v2.31.0 release + post-release CHANGELOG cleanup (93589b9)
