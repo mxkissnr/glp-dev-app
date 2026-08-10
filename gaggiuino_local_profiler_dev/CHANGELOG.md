@@ -1,3 +1,7 @@
+## dev-20260810_0625 — 2026-08-10
+
+- Trigger an immediate sync on reachability recovery and on machine-config save (#726) (a1aa12a)
+
 ## dev-20260810_0559 — 2026-08-10
 
 - Add dev-channel-only raw SQLite DB export endpoint (#724) (adf12db)
