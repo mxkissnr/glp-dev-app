@@ -1,3 +1,7 @@
+## dev-20260810_1515 — 2026-08-10
+
+- Fix SSE sync-progress still updating in blocks over HA Ingress (#739) (185fb51)
+
 ## dev-20260810_1503 — 2026-08-10
 
 - Push shot-import progress over SSE, with automatic polling fallback (#737) (93c08ba)
