@@ -1,3 +1,9 @@
+## dev-20260810_2054 — 2026-08-10
+
+- Merge pull request #756 from mxkissnr/feature/755-raw-db-import (801b4b7)
+- Fix CodeQL type-confusion false positive in import-db route (b810356)
+- Add raw database import counterpart to the dev-only DB export (6d93df2)
+
 ## dev-20260810_2037 — 2026-08-10
 
 - Merge pull request #754 from mxkissnr/feature/753-machine-default-delete (8269a23)
