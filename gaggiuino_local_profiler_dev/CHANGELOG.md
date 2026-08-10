@@ -1,3 +1,7 @@
+## dev-20260810_1217 — 2026-08-10
+
+- Fix machine settings follow-ups: keep test dialog open, fix stale shot count, catch backgrounded sync toasts (#734) (5e58da7)
+
 ## dev-20260810_1141 — 2026-08-10
 
 - Fix machine setup UX follow-ups: sync only on explicit save, progress-bar layout, completion toast (#732) (8f719d0)
