@@ -1,3 +1,7 @@
+## dev-20260810_1554 — 2026-08-10
+
+- Try two SSE hardening techniques against HA Ingress buffering (#741) (0641e85)
+
 ## dev-20260810_1515 — 2026-08-10
 
 - Fix SSE sync-progress still updating in blocks over HA Ingress (#739) (185fb51)
