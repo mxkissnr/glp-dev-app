@@ -1,3 +1,7 @@
+## dev-20260810_1141 — 2026-08-10
+
+- Fix machine setup UX follow-ups: sync only on explicit save, progress-bar layout, completion toast (#732) (8f719d0)
+
 ## dev-20260810_1116 — 2026-08-10
 
 - Simplify machine test button to save-then-test, sync on every save, add import progress (#730) (657500b)
