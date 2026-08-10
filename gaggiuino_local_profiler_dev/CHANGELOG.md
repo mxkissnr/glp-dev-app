@@ -1,3 +1,8 @@
+## dev-20260810_1655 — 2026-08-10
+
+- Push Live view telemetry/preheat and shot counter over SSE (#743) (06bda45)
+- Document multi-machine state invariant after third recurrence (823cb03)
+
 ## dev-20260810_1554 — 2026-08-10
 
 - Try two SSE hardening techniques against HA Ingress buffering (#741) (0641e85)
