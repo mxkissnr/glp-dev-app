@@ -1,3 +1,9 @@
+## dev-20260810_1750 — 2026-08-10
+
+- Merge pull request #745 from mxkissnr/feature/744-setup-wizard (e0338c8)
+- Merge remote-tracking branch 'origin/dev' into feature/744-setup-wizard (b1c3cbd)
+- Add guided first-run setup wizard (274e2de)
+
 ## dev-20260810_1655 — 2026-08-10
 
 - Push Live view telemetry/preheat and shot counter over SSE (#743) (06bda45)
