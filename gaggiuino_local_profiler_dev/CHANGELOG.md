@@ -1,3 +1,7 @@
+## dev-20260810_2111 — 2026-08-10
+
+- Fix syncInstallId() never actually firing on its first run (#758) (366f9ac)
+
 ## dev-20260810_2054 — 2026-08-10
 
 - Merge pull request #756 from mxkissnr/feature/755-raw-db-import (801b4b7)
