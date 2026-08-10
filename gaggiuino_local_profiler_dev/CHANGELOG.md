@@ -1,3 +1,9 @@
+## dev-20260810_1806 — 2026-08-10
+
+- Merge pull request #747 from mxkissnr/fix/746-wizard-trigger-empty-host (afd0656)
+- Trim whats-new.js back to MAX_ENTRIES=8 (drop oldest, v2.27.3) (32d9574)
+- Fix setup wizard never auto-opening on a real fresh install (#746) (a8c18e4)
+
 ## dev-20260810_1750 — 2026-08-10
 
 - Merge pull request #745 from mxkissnr/feature/744-setup-wizard (e0338c8)
