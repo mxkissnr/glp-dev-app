@@ -1,3 +1,7 @@
+## dev-20260810_1005 — 2026-08-10
+
+- Stop an out-of-range shot id from wedging default-machine sync forever (#720) (7f37676)
+
 ## dev-20260810_1001 — 2026-08-10
 
 - Add "Save & test" combined action to the machine form (#728) (d4910f3)
