@@ -1,3 +1,8 @@
+## dev-20260810_1951 — 2026-08-10
+
+- Merge pull request #749 from mxkissnr/fix/748-wizard-test-connection-closes (67aa094)
+- Fix setup wizard closing itself on Test connection, duplicate machine (#748) (dc796c0)
+
 ## dev-20260810_1806 — 2026-08-10
 
 - Merge pull request #747 from mxkissnr/fix/746-wizard-trigger-empty-host (afd0656)
