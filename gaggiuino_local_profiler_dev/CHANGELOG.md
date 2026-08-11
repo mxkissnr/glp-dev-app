@@ -1,3 +1,10 @@
+## dev-20260811_0753 — 2026-08-11
+
+- Bump the dev-dependencies group (#766) (6ae7f80)
+- Bump better-sqlite3 from 13.0.2 to 13.0.3 in /gaggiuino-local-profiler (#767) (a7172b7)
+- Bump express-rate-limit from 8.6.1 to 8.6.2 in /gaggiuino-local-profiler (#768) (023c0e1)
+- Bump ws from 8.21.1 to 8.21.3 in /gaggiuino-local-profiler (#769) (1cd1856)
+
 ## dev-20260811_0722 — 2026-08-11
 
 - feat: standalone Docker install support (Unraid, TrueNAS, HA Container) (#765) (6997c1c)
