@@ -1,3 +1,7 @@
+## dev-20260811_1801 — 2026-08-11
+
+- test: add Playwright E2E smoke test on top of the screenshots harness (#798) (#800) (b5eb8a1)
+
 ## dev-20260811_1710 — 2026-08-11
 
 - perf: split vendor libraries into separate chunks (#795) (#796) (8f13a79)
