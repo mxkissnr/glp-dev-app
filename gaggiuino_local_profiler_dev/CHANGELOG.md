@@ -1,3 +1,7 @@
+## dev-20260811_1056 — 2026-08-11
+
+- fix: remove redundant sidebar shot count, reorder flap counter before label (#777) (f3ba5a5)
+
 ## dev-20260811_1027 — 2026-08-11
 
 - fix: theme swatch gradient clipping and overlapping sync-progress race (#774) (01d414f)
