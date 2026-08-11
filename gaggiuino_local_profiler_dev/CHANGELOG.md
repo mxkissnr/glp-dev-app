@@ -1,3 +1,7 @@
+## dev-20260811_1805 — 2026-08-11
+
+- perf: lazy-load echarts/topojson-client/qrcode behind dynamic import() (#799) (f153ecb)
+
 ## dev-20260811_1801 — 2026-08-11
 
 - test: add Playwright E2E smoke test on top of the screenshots harness (#798) (#800) (b5eb8a1)
