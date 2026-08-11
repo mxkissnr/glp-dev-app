@@ -1,3 +1,10 @@
+## dev-20260811_0615 — 2026-08-11
+
+- Merge pull request #759 from mxkissnr/release/v2.32.0 (99a0593)
+- fix: restore whats-new.js release history lost during dev-cycle squash (d4a1934)
+- fix: use hostname parsing instead of substring match in GitHub API fetch stub (75c0453)
+- release: v2.32.0 (8e5e12c)
+
 ## dev-20260810_2111 — 2026-08-10
 
 - Fix syncInstallId() never actually firing on its first run (#758) (366f9ac)
