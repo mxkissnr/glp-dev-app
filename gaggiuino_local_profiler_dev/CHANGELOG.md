@@ -1,3 +1,7 @@
+## dev-20260811_1233 — 2026-08-11
+
+- fix: push LIVE_SNAPSHOT immediately on transport arrival, not just the 1s tick (df553bd)
+
 ## dev-20260811_1056 — 2026-08-11
 
 - fix: remove redundant sidebar shot count, reorder flap counter before label (#777) (f3ba5a5)
