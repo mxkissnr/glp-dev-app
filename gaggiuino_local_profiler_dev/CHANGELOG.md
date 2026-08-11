@@ -1,3 +1,7 @@
+## dev-20260811_1027 — 2026-08-11
+
+- fix: theme swatch gradient clipping and overlapping sync-progress race (#774) (01d414f)
+
 ## dev-20260811_0833 — 2026-08-11
 
 - chore: add local Docker smoke test for standalone install (#771) (3ba35c4)
