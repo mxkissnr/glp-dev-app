@@ -1,3 +1,7 @@
+## dev-20260811_1527 — 2026-08-11
+
+- Hardening: bean-math parity test, apparmor.txt, coverage gate refresh, drop dead root lib/ (#786) (d58b239)
+
 ## dev-20260811_1338 — 2026-08-11
 
 - chore: CI/build config hygiene — dependabot grouping, stale comment, dead root manifest (#781) (18e781e)
