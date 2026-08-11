@@ -1,3 +1,14 @@
+## dev-20260811_0722 — 2026-08-11
+
+- feat: standalone Docker install support (Unraid, TrueNAS, HA Container) (#765) (6997c1c)
+- Merge main into dev: resync after CHANGELOG duplicate-content fix (0d11f94)
+- Merge pull request #763 from mxkissnr/fix/changelog-duplicate-content (db9263a)
+- fix: remove duplicated full-detail block left over in CHANGELOG.md's v2.32.0 entry (02092f3)
+- fix: remove duplicated full-detail block left over in CHANGELOG.md's v2.32.0 entry (0564055)
+- Merge main into dev: resync after v2.32.0 release + CHANGELOG condense fix (3f5ad5d)
+- Merge pull request #762 from mxkissnr/docs/760-changelog-condense-2.32.0 (4c25de9)
+- docs: condense CHANGELOG.md's v2.32.0 entry, adopt short-entry convention (2a7219d)
+
 ## dev-20260811_0633 — 2026-08-11
 
 - Merge pull request #761 from mxkissnr/fix/760-codeql-xss-suppression (d82845b)
