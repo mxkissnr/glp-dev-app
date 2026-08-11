@@ -1,3 +1,7 @@
+## dev-20260811_1638 — 2026-08-11
+
+- ci: sync apparmor.txt into the dev manifest repo (#790) (c9fa589)
+
 ## dev-20260811_1631 — 2026-08-11
 
 - Add AppArmor profile for the add-on (needs complain-mode validation) (#787) (0deca1b)
