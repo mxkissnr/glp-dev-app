@@ -1,3 +1,7 @@
+## dev-20260811_1338 — 2026-08-11
+
+- chore: CI/build config hygiene — dependabot grouping, stale comment, dead root manifest (#781) (18e781e)
+
 ## dev-20260811_1233 — 2026-08-11
 
 - fix: push LIVE_SNAPSHOT immediately on transport arrival, not just the 1s tick (df553bd)
