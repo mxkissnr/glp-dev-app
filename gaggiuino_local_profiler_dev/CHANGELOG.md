@@ -1,3 +1,8 @@
+## dev-20260811_0633 — 2026-08-11
+
+- Merge pull request #761 from mxkissnr/fix/760-codeql-xss-suppression (d82845b)
+- chore: add CodeQL in-source suppression comments for verified false positives (#760) (96c0834)
+
 ## dev-20260811_0615 — 2026-08-11
 
 - Merge pull request #759 from mxkissnr/release/v2.32.0 (99a0593)
