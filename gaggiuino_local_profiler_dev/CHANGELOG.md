@@ -1,3 +1,7 @@
+## dev-20260811_1919 — 2026-08-11
+
+- Add expose_api_port option to close the token endpoint to the LAN (#804) (51faa32)
+
 ## dev-20260811_1841 — 2026-08-11
 
 - fix: match X-Ingress-Path by prefix, not by pinned add-on slug (#802) (395c082)
