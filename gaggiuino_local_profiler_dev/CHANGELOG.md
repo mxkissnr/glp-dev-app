@@ -1,3 +1,7 @@
+## dev-20260811_0833 — 2026-08-11
+
+- chore: add local Docker smoke test for standalone install (#771) (3ba35c4)
+
 ## dev-20260811_0753 — 2026-08-11
 
 - Bump the dev-dependencies group (#766) (6ae7f80)
