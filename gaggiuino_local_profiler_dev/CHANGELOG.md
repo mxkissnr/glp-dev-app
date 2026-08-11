@@ -1,3 +1,7 @@
+## dev-20260811_1631 — 2026-08-11
+
+- Add AppArmor profile for the add-on (needs complain-mode validation) (#787) (0deca1b)
+
 ## dev-20260811_1527 — 2026-08-11
 
 - Hardening: bean-math parity test, apparmor.txt, coverage gate refresh, drop dead root lib/ (#786) (d58b239)
