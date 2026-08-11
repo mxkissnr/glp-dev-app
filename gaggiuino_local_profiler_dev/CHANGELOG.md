@@ -1,3 +1,7 @@
+## dev-20260811_1841 — 2026-08-11
+
+- fix: match X-Ingress-Path by prefix, not by pinned add-on slug (#802) (395c082)
+
 ## dev-20260811_1805 — 2026-08-11
 
 - perf: lazy-load echarts/topojson-client/qrcode behind dynamic import() (#799) (f153ecb)
