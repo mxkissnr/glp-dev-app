@@ -1,3 +1,9 @@
+## dev-20260811_1710 — 2026-08-11
+
+- perf: split vendor libraries into separate chunks (#795) (#796) (8f13a79)
+- fix: bundle Figtree locally instead of loading from fonts.bunny.net (#793) (#794) (c315be6)
+- fix: resolve bag-scoped consumption with the same rule as remaining stock (#788) (#792) (6a66a9e)
+
 ## dev-20260811_1638 — 2026-08-11
 
 - ci: sync apparmor.txt into the dev manifest repo (#790) (c9fa589)
