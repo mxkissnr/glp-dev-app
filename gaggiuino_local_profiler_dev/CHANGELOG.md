@@ -1,3 +1,7 @@
+## dev-20260812_1501 — 2026-08-12
+
+- fix(dev-channel): sync options/schema into the dev manifest's config.yaml (#806) (8679840)
+
 ## dev-20260811_1919 — 2026-08-11
 
 - Add expose_api_port option to close the token endpoint to the LAN (#804) (51faa32)
