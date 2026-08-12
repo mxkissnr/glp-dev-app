@@ -1,3 +1,7 @@
+## dev-20260812_1543 — 2026-08-12
+
+- ci(dev-channel): retry the GHCR push once after a rate-limit failure (#810) (73129b9)
+
 ## dev-20260812_1530 — 2026-08-12
 
 - Explain a closed direct port instead of showing a bare HTTP 401 (#808) (d882599)
