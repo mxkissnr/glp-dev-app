@@ -1,3 +1,7 @@
+## dev-20260812_1530 — 2026-08-12
+
+- Explain a closed direct port instead of showing a bare HTTP 401 (#808) (d882599)
+
 ## dev-20260812_1501 — 2026-08-12
 
 - fix(dev-channel): sync options/schema into the dev manifest's config.yaml (#806) (8679840)
