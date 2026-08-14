@@ -1,3 +1,33 @@
+## dev-20260814_2041 — 2026-08-14
+
+- Merge pull request #815 from mxkissnr/feat/811-instrument-tokens (8d37538)
+- Catch the orders_types_saved sibling the icon sweep missed (550d94c)
+- Replace the last text-glyph buttons and status glyphs with drawn icons (7108259)
+- Add the missing CHANGELOG entry for the score-colour fix (f266d2d)
+- Match the share card's score colour to the app's own rule (2febf53)
+- Pull the share card onto the #811 tokens and always show an install code (357021e)
+- Stop a comment from breaking the stylesheet, and guard the class (47fd1af)
+- Add the stamp card view for the achievement catalogue (6e71ffd)
+- Add achievement copy in six languages, and the tests that were missing (d73f9ad)
+- Merge the chart theming work into the redesign branch (318ae9a)
+- Wire the animated machine icon into the Live view (a851221)
+- Add the achievements backend: schema, registry and event evaluation (2bac080)
+- Add animated machine icon with live states (#811) (bbb98c3)
+- Resolve chart and banner colours from the theme tokens (2e67197)
+- Give the fill-styled buttons a themed surface (f091b87)
+- Replace the shot view's tile walls and score ring with type (82aec2e)
+- Replace the remaining emoji UI glyphs with drawn icons (03e0e3b)
+- Regenerate the README screenshots for the new token layer (888d9f3)
+- Make text on a semantic fill readable, and audit that direction (ee91032)
+- docs: log the stylesheet token-application work in CHANGELOG (bde8f87)
+- style: map padding/margin/gap onto the --sp spacing ladder (19bdfab)
+- style: replace inline #52525b with the themed --gray-600 token (f9a13f3)
+- style: collapse repeated font-family declarations to one inherited rule (fc1e7c3)
+- style: border diet -- full borders only around clickable things (218d3a6)
+- style: replace hardcoded #fff with themed role tokens (ba8236a)
+- style: map font-size literals onto the --fs scale, drop uppercase labels (410c226)
+- Move the token layer to cool graphite and fix the contrast failures under it (b5e665b)
+
 ## dev-20260812_1543 — 2026-08-12
 
 - ci(dev-channel): retry the GHCR push once after a rate-limit failure (#810) (73129b9)
