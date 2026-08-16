@@ -1,3 +1,7 @@
+## dev-20260816_1205 — 2026-08-16
+
+- Reduce duplicate info on shot detail screen and sidebar (7426508)
+
 ## dev-20260816_1142 — 2026-08-16
 
 - Close out #760: escape the one real gap the CodeQL false-positive audit surfaced (a183c79)
