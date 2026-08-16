@@ -1,3 +1,7 @@
+## dev-20260816_1705 — 2026-08-16
+
+- fix: migrate raw font-size:.85rem literals onto the type scale (#832) (#833) (0b64949)
+
 ## dev-20260816_1205 — 2026-08-16
 
 - Reduce duplicate info on shot detail screen and sidebar (7426508)
