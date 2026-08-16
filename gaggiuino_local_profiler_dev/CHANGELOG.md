@@ -1,3 +1,8 @@
+## dev-20260816_0657 — 2026-08-16
+
+- Merge pull request #818 from mxkissnr/fix/811-shots-view-boxes (98ae9cb)
+- Shots view: de-box the verdict line, grind-advice colors, sidebar avatar, topnav pill (581885d)
+
 ## dev-20260814_2041 — 2026-08-14
 
 - Merge pull request #815 from mxkissnr/feat/811-instrument-tokens (8d37538)
