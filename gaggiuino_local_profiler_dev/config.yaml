@@ -4,7 +4,7 @@ name: "GLP DEV — Gaggiuino Local Profiler (unstable)"
 # this value changes, so it must be unique per build -- it is NOT the app's
 # own semantic version (that still lives in the main repo's config.yaml and
 # lib/constants.js).
-version: "dev-20260816_0725"
+version: "dev-20260816_0730"
 slug: "gaggiuino_local_profiler_dev"
 description: "UNSTABLE dev builds of GLP, for maintainer testing only. Runs alongside the stable app with its own database. Not for end users."
 url: "https://github.com/mxkissnr/glp-dev-app"

@@ -1,3 +1,7 @@
+## dev-20260816_0730 — 2026-08-16
+
+- fix: flatten sidebar shot-count header from split-flap odometer to plain text (#823) (#825) (2754bce)
+
 ## dev-20260816_0725 — 2026-08-16
 
 - Merge pull request #821 from mxkissnr/fix/820-chip-active-fill (b148878)
