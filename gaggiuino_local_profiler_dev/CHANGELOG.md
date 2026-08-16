@@ -1,3 +1,10 @@
+## dev-20260816_0725 — 2026-08-16
+
+- Merge pull request #821 from mxkissnr/fix/820-chip-active-fill (b148878)
+- Merge pull request #824 from mxkissnr/feat/822-static-machine-icon (4ea0e3d)
+- Give static machine icons per-type geometry (Gaggiuino vs GaggiMate) (5a2326b)
+- Convert three remaining filled-pill toggles to the bordered chip pattern (d6cc238)
+
 ## dev-20260816_0701 — 2026-08-16
 
 - Merge pull request #819 from mxkissnr/fix/811-share-card-verdict (b0f3cb1)
