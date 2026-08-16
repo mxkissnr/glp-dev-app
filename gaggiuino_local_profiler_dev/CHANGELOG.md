@@ -1,3 +1,8 @@
+## dev-20260816_1128 — 2026-08-16
+
+- Remove dead shot-count DOM lookups left over from the flap-board flattening (c28af70)
+- Show last-used grind setting in the Library bean list (7e7cbc0)
+
 ## dev-20260816_1112 — 2026-08-16
 
 - Merge pull request #826 from mxkissnr/release/v2.34.0 (dfb8342)
