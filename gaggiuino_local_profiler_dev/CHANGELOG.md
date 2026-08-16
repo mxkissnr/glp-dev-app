@@ -1,3 +1,8 @@
+## dev-20260816_0701 — 2026-08-16
+
+- Merge pull request #819 from mxkissnr/fix/811-share-card-verdict (b0f3cb1)
+- Share Card: score ring becomes typographic verdict, chart loses its box (6ec2f6d)
+
 ## dev-20260816_0657 — 2026-08-16
 
 - Merge pull request #818 from mxkissnr/fix/811-shots-view-boxes (98ae9cb)
