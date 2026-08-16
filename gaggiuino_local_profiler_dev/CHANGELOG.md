@@ -1,3 +1,7 @@
+## dev-20260816_1142 — 2026-08-16
+
+- Close out #760: escape the one real gap the CodeQL false-positive audit surfaced (a183c79)
+
 ## dev-20260816_1128 — 2026-08-16
 
 - Remove dead shot-count DOM lookups left over from the flap-board flattening (c28af70)
