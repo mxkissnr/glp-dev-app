@@ -1,3 +1,8 @@
+## dev-20260816_1112 — 2026-08-16
+
+- Merge pull request #826 from mxkissnr/release/v2.34.0 (dfb8342)
+- Release v2.34.0: finalize CHANGELOG, bump version, refresh docs/screenshots/dev-stats (590e4f9)
+
 ## dev-20260816_0730 — 2026-08-16
 
 - fix: flatten sidebar shot-count header from split-flap odometer to plain text (#823) (#825) (2754bce)
