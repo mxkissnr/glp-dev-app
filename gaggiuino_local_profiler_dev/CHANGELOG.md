@@ -1,3 +1,9 @@
+## dev-20260817_1813 — 2026-08-17
+
+- fix(docs): crop screenshots to view container instead of full viewport (#836) (4cbd9e9)
+- chore: second empty commit for clean Gitea Actions guard verification (#834) (77c955e)
+- chore: empty commit to verify Gitea Actions guard (#834) (86b3d31)
+
 ## dev-20260817_1635 — 2026-08-17
 
 - fix: skip GitHub-only CI workflows on the local Gitea mirror (a0bc913)
