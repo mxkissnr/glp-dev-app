@@ -1,3 +1,7 @@
+## dev-20260817_1904 — 2026-08-17
+
+- Add animated machine icon as an ambient topbar widget + click easter egg (#837) (#838) (e2582f4)
+
 ## dev-20260817_1813 — 2026-08-17
 
 - fix(docs): crop screenshots to view container instead of full viewport (#836) (4cbd9e9)
