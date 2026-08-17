@@ -1,3 +1,7 @@
+## dev-20260817_1952 — 2026-08-17
+
+- Remove redundant verdictSubline duplicating topTitle and beanGrinderVal (#844) (ddba421)
+
 ## dev-20260817_1938 — 2026-08-17
 
 - style: render the steam knob black instead of chrome (#843) (0657e8e)
