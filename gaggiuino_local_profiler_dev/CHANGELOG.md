@@ -1,3 +1,7 @@
+## dev-20260817_1913 — 2026-08-17
+
+- fix: constrain topbar machine icon to 44px via ID specificity (#840) (865cf2c)
+
 ## dev-20260817_1904 — 2026-08-17
 
 - Add animated machine icon as an ambient topbar widget + click easter egg (#837) (#838) (e2582f4)
