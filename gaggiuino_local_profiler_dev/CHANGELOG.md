@@ -1,3 +1,7 @@
+## dev-20260817_2040 — 2026-08-17
+
+- fix: dedupe topbar machine icon, fix rainbow coverage (#847) (c3b958a)
+
 ## dev-20260817_1952 — 2026-08-17
 
 - Remove redundant verdictSubline duplicating topTitle and beanGrinderVal (#844) (ddba421)
