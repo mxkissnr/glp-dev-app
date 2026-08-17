@@ -1,3 +1,7 @@
+## dev-20260817_1635 — 2026-08-17
+
+- fix: skip GitHub-only CI workflows on the local Gitea mirror (a0bc913)
+
 ## dev-20260816_1705 — 2026-08-16
 
 - fix: migrate raw font-size:.85rem literals onto the type scale (#832) (#833) (0b64949)
