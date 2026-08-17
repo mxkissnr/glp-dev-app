@@ -1,3 +1,7 @@
+## dev-20260817_1938 — 2026-08-17
+
+- style: render the steam knob black instead of chrome (#843) (0657e8e)
+
 ## dev-20260817_1913 — 2026-08-17
 
 - fix: constrain topbar machine icon to 44px via ID specificity (#840) (865cf2c)
