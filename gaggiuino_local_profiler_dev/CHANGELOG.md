@@ -1,3 +1,7 @@
+## dev-20260817_2052 — 2026-08-17
+
+- fix: clip easter egg panel rainbow to icon, make colour uniform (#849) (2be28e0)
+
 ## dev-20260817_2040 — 2026-08-17
 
 - fix: dedupe topbar machine icon, fix rainbow coverage (#847) (c3b958a)
