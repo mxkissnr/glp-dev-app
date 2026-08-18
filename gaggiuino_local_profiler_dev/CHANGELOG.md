@@ -1,3 +1,7 @@
+## dev-20260818_1820 — 2026-08-18
+
+- fix: drop basket/puck screen from shot detail bean/grinder line (#868) (5c90d6d)
+
 ## dev-20260818_1749 — 2026-08-18
 
 - fix: move shot score between title and hero photo on mobile (#866) (b99d6f0)
