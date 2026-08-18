@@ -1,3 +1,7 @@
+## dev-20260818_1444 — 2026-08-18
+
+- fix: shot hero photo panel renders as a circle again (ba2e14d)
+
 ## dev-20260817_2119 — 2026-08-17
 
 - Add shot detail hero photo panel and split puck screen onto its own line (#852) (ecfd40a)
