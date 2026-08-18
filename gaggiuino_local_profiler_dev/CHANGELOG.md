@@ -1,3 +1,7 @@
+## dev-20260818_1553 — 2026-08-18
+
+- fix: push #main/#sidebar down below the dev-build banner on mobile (#862) (fbc2656)
+
 ## dev-20260818_1532 — 2026-08-18
 
 - fix: wrap Coffee Library action buttons instead of overflowing off-screen on mobile (#860) (1cbcd4e)
