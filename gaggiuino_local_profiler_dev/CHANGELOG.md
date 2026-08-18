@@ -1,3 +1,7 @@
+## dev-20260818_1833 — 2026-08-18
+
+- fix: replace ice-cube grid icon with a geometric snowflake (#870) (be67055)
+
 ## dev-20260818_1820 — 2026-08-18
 
 - fix: drop basket/puck screen from shot detail bean/grinder line (#868) (5c90d6d)
