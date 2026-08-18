@@ -1,3 +1,7 @@
+## dev-20260818_1721 — 2026-08-18
+
+- feat: show the shot hero photo on mobile instead of the tiny thumb (#864) (35b8a56)
+
 ## dev-20260818_1553 — 2026-08-18
 
 - fix: push #main/#sidebar down below the dev-build banner on mobile (#862) (fbc2656)
