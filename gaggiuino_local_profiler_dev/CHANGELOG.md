@@ -1,3 +1,7 @@
+## dev-20260818_1532 — 2026-08-18
+
+- fix: wrap Coffee Library action buttons instead of overflowing off-screen on mobile (#860) (1cbcd4e)
+
 ## dev-20260818_1518 — 2026-08-18
 
 - feat: show a visible paused-age badge on frozen coffee portions (#856) (#857) (21c444f)
