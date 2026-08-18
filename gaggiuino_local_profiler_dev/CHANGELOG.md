@@ -1,3 +1,7 @@
+## dev-20260818_2104 — 2026-08-18
+
+- Share card: band-system stats grid and corrected chart phase tint (#874) (abb62ce)
+
 ## dev-20260818_2001 — 2026-08-18
 
 - fix: split Bohne & Mühle into two separate recipe cards (#872) (8ec7a2c)
