@@ -1,3 +1,7 @@
+## dev-20260818_1518 — 2026-08-18
+
+- feat: show a visible paused-age badge on frozen coffee portions (#856) (#857) (21c444f)
+
 ## dev-20260818_1444 — 2026-08-18
 
 - fix: shot hero photo panel renders as a circle again (ba2e14d)
