@@ -1,3 +1,7 @@
+## dev-20260818_1749 — 2026-08-18
+
+- fix: move shot score between title and hero photo on mobile (#866) (b99d6f0)
+
 ## dev-20260818_1721 — 2026-08-18
 
 - feat: show the shot hero photo on mobile instead of the tiny thumb (#864) (35b8a56)
