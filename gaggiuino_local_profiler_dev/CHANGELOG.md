@@ -1,3 +1,7 @@
+## dev-20260818_2001 — 2026-08-18
+
+- fix: split Bohne & Mühle into two separate recipe cards (#872) (8ec7a2c)
+
 ## dev-20260818_1833 — 2026-08-18
 
 - fix: replace ice-cube grid icon with a geometric snowflake (#870) (be67055)
