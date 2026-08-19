@@ -1,3 +1,8 @@
+## dev-20260819_2059 — 2026-08-19
+
+- chore(deps): update node.js to d649c27 (#894) (e56db27)
+- chore(deps): update github/codeql-action digest to ff2f1c6 (#893) (55cc5f4)
+
 ## dev-20260819_2050 — 2026-08-19
 
 - chore(deps): update dependency node to v24 (#898) (e4d96a4)
