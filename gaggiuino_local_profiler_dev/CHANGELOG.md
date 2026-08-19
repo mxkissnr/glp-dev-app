@@ -1,3 +1,7 @@
+## dev-20260819_1518 — 2026-08-19
+
+- chore: switch from Dependabot to Renovate (#876) (f61619e)
+
 ## dev-20260818_2104 — 2026-08-18
 
 - Share card: band-system stats grid and corrected chart phase tint (#874) (abb62ce)
