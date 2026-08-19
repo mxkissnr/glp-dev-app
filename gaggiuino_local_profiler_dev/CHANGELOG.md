@@ -1,3 +1,7 @@
+## dev-20260819_1749 — 2026-08-19
+
+- fix: correct stale dependency-review-action version comment (#884) (939f036)
+
 ## dev-20260819_1738 — 2026-08-19
 
 - chore: consolidate test.yaml and version-release-check.yaml (#881) (0e37101)
