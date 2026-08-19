@@ -1,3 +1,7 @@
+## dev-20260819_1930 — 2026-08-19
+
+- fix: RGB easter egg rotates the icon's own colour, clip topbar icon, floor bean stock display at 0 (#889) (2ec0976)
+
 ## dev-20260819_1749 — 2026-08-19
 
 - fix: correct stale dependency-review-action version comment (#884) (939f036)
