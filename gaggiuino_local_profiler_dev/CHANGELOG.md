@@ -1,3 +1,12 @@
+## dev-20260819_2148 — 2026-08-19
+
+- Merge main into dev: resolve release v2.35.0 conflicts (5120716)
+- fix: put Renovate config on main with baseBranches: dev (#879) (1a51367)
+- chore(deps): Bump js-yaml in /gaggiuino-local-profiler (#854) (296bc46)
+- chore(deps): Bump @napi-rs/canvas in /gaggiuino-local-profiler (#853) (fd5ad8d)
+- chore(deps): Bump @napi-rs/canvas in /gaggiuino-local-profiler (#828) (edabe36)
+- chore(deps-dev): Bump globals (#827) (2908d82)
+
 ## dev-20260819_2142 — 2026-08-19
 
 - Release v2.35.0: finalize CHANGELOG, bump version, refresh docs/screenshots/dev-stats (118a9aa)
