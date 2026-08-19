@@ -1,3 +1,7 @@
+## dev-20260819_2015 — 2026-08-19
+
+- chore: bump version only at release time, not per dev commit (#891) (f443bb8)
+
 ## dev-20260819_1930 — 2026-08-19
 
 - fix: RGB easter egg rotates the icon's own colour, clip topbar icon, floor bean stock display at 0 (#889) (2ec0976)
