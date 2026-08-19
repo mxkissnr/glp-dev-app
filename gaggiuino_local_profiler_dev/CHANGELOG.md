@@ -1,3 +1,7 @@
+## dev-20260819_1735 — 2026-08-19
+
+- chore: add job timeout, retry-wrap the Playwright Chromium install step (#883) (e11907a)
+
 ## dev-20260819_1518 — 2026-08-19
 
 - chore: switch from Dependabot to Renovate (#876) (f61619e)
