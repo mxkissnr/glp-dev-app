@@ -1,3 +1,7 @@
+## dev-20260819_1738 — 2026-08-19
+
+- chore: consolidate test.yaml and version-release-check.yaml (#881) (0e37101)
+
 ## dev-20260819_1735 — 2026-08-19
 
 - chore: add job timeout, retry-wrap the Playwright Chromium install step (#883) (e11907a)
