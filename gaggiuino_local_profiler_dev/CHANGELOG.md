@@ -1,3 +1,7 @@
+## dev-20260819_2142 — 2026-08-19
+
+- Release v2.35.0: finalize CHANGELOG, bump version, refresh docs/screenshots/dev-stats (118a9aa)
+
 ## dev-20260819_2121 — 2026-08-19
 
 - chore(deps): update docker/setup-buildx-action digest to 37fe631 (#892) (ac2605c)
