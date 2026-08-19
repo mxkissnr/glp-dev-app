@@ -1,3 +1,10 @@
+## dev-20260819_2050 — 2026-08-19
+
+- chore(deps): update dependency node to v24 (#898) (e4d96a4)
+- chore(deps): update dependency js-yaml to v5.3.0 (#897) (15f1a9f)
+- chore(deps): update dev-dependencies (#896) (b535114)
+- chore(deps): update dependency @napi-rs/canvas to v1.0.7 (#895) (8aae389)
+
 ## dev-20260819_2015 — 2026-08-19
 
 - chore: bump version only at release time, not per dev commit (#891) (f443bb8)
