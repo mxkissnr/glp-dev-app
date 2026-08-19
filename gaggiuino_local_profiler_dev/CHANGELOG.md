@@ -1,3 +1,7 @@
+## dev-20260819_2121 — 2026-08-19
+
+- chore(deps): update docker/setup-buildx-action digest to 37fe631 (#892) (ac2605c)
+
 ## dev-20260819_2104 — 2026-08-19
 
 - chore(deps): update node.js to v24 (#900) (896641b)
