@@ -1,3 +1,7 @@
+## dev-20260819_2104 — 2026-08-19
+
+- chore(deps): update node.js to v24 (#900) (896641b)
+
 ## dev-20260819_2059 — 2026-08-19
 
 - chore(deps): update node.js to d649c27 (#894) (e56db27)
