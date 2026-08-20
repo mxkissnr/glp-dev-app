@@ -1,3 +1,7 @@
+## dev-20260820_0502 — 2026-08-20
+
+- fix: revert Docker base image from node:24-slim to node:22-slim, restoring armv7 support (490ad6b)
+
 ## dev-20260819_2148 — 2026-08-19
 
 - Merge main into dev: resolve release v2.35.0 conflicts (5120716)
