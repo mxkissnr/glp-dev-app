@@ -1,3 +1,8 @@
+## dev-20260824_1023 — 2026-08-24
+
+- feat: Live tab idle machine stats + steam/flush live states (#908) (07f778b)
+- chore(deps): update dev-dependencies (#911) (57766c1)
+
 ## dev-20260824_1017 — 2026-08-24
 
 - fix: end the live brew immediately on BREW_AUTO auto-stop (#907) (a4ed788)
