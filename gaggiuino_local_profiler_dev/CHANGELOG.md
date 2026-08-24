@@ -1,3 +1,8 @@
+## dev-20260824_1141 — 2026-08-24
+
+- Merge pull request #919 from mxkissnr/release/v2.36.0 (aafe7bd)
+- Release v2.36.0: idle Live stats, steam/flush live states, docs/screenshots/dev-stats refresh (2be925b)
+
 ## dev-20260824_1112 — 2026-08-24
 
 - Merge pull request #918 from mxkissnr/fix/913-live-catch-unreachable (9a680fb)
