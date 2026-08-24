@@ -1,3 +1,8 @@
+## dev-20260824_1103 — 2026-08-24
+
+- Merge pull request #916 from mxkissnr/fix/914-mobile-power-button (5a536b5)
+- fix: add mobile topbar power toggle (#railPowerBtn) (c097fc7)
+
 ## dev-20260824_1023 — 2026-08-24
 
 - feat: Live tab idle machine stats + steam/flush live states (#908) (07f778b)
