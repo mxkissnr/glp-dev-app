@@ -1,3 +1,9 @@
+## dev-20260824_1112 — 2026-08-24
+
+- Merge pull request #918 from mxkissnr/fix/913-live-catch-unreachable (9a680fb)
+- Merge dev into fix/913-live-catch-unreachable (393d8dc)
+- fix: clear stale live data on a network-level fetch failure (d9b6aee)
+
 ## dev-20260824_1110 — 2026-08-24
 
 - Merge pull request #917 from mxkissnr/fix/915-bean-picker-exhausted-stock (163d2f1)
