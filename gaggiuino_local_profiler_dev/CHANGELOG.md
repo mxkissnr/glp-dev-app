@@ -1,3 +1,9 @@
+## dev-20260824_1110 — 2026-08-24
+
+- Merge pull request #917 from mxkissnr/fix/915-bean-picker-exhausted-stock (163d2f1)
+- Merge dev into fix/915-bean-picker-exhausted-stock (3f6c553)
+- fix: hide exhausted beans from the shot-annotation bean picker (2f3d6ca)
+
 ## dev-20260824_1103 — 2026-08-24
 
 - Merge pull request #916 from mxkissnr/fix/914-mobile-power-button (5a536b5)
