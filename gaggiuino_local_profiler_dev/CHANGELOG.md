@@ -1,3 +1,8 @@
+## dev-20260824_1522 — 2026-08-24
+
+- chore(deps): update github/codeql-action digest to db488dd (#909) (7581a72)
+- chore(deps): update dependency @napi-rs/canvas to v1.0.8 (#910) (4722d81)
+
 ## dev-20260824_1141 — 2026-08-24
 
 - Merge pull request #919 from mxkissnr/release/v2.36.0 (aafe7bd)
