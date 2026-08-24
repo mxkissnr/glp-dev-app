@@ -1,3 +1,8 @@
+## dev-20260824_1017 — 2026-08-24
+
+- fix: end the live brew immediately on BREW_AUTO auto-stop (#907) (a4ed788)
+- Merge pull request #902 from mxkissnr/dev (c116c3b)
+
 ## dev-20260820_0502 — 2026-08-20
 
 - fix: revert Docker base image from node:24-slim to node:22-slim, restoring armv7 support (490ad6b)
