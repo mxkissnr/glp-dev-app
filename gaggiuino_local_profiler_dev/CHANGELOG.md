@@ -1,3 +1,7 @@
+## dev-20260825_1355 — 2026-08-25
+
+- fix: harden .lib-item-sub against WebView text-overflow ellipsis failures (#920) (6579ba6)
+
 ## dev-20260825_1352 — 2026-08-25
 
 - fix: neutralize browser autofill white background on dark-theme inputs (#922) (0fe8e61)
