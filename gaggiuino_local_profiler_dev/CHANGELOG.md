@@ -1,3 +1,8 @@
+## dev-20260825_1352 — 2026-08-25
+
+- fix: neutralize browser autofill white background on dark-theme inputs (#922) (0fe8e61)
+- docs: add CHANGELOG entries for napi-rs/canvas and codeql-action bumps (#910, #909) (c946458)
+
 ## dev-20260824_1522 — 2026-08-24
 
 - chore(deps): update github/codeql-action digest to db488dd (#909) (7581a72)
