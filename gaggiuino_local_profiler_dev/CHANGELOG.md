@@ -1,3 +1,7 @@
+## dev-20260826_1813 — 2026-08-26
+
+- chore(deps): update dependency eslint to v10.9.1 (#924) (ab524e5)
+
 ## dev-20260825_1355 — 2026-08-25
 
 - fix: harden .lib-item-sub against WebView text-overflow ellipsis failures (#920) (6579ba6)
