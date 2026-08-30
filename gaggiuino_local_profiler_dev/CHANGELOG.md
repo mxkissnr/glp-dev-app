@@ -1,3 +1,10 @@
+## dev-20260830_1725 — 2026-08-30
+
+- Merge pull request #935 from mxkissnr/release/v2.36.1 (f76c652)
+- Merge origin/main into release/v2.36.1 (0b53f90)
+- release: v2.36.1 — bean/milk stock fixes, exhausted bean picker, dark-theme autofill (b1fcd35)
+- chore(config): migrate config renovate.json (#929) (ccc5ab6)
+
 ## dev-20260830_1637 — 2026-08-30
 
 - fix: keep exhausted beans selectable in the shot annotator (#934) (95d689c)
