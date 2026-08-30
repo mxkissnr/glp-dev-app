@@ -1,3 +1,11 @@
+## dev-20260830_1617 — 2026-08-30
+
+- chore(deps): lock file maintenance (#926) (e128003)
+- chore(deps): update node.js to 83f487e (#923) (4e28a75)
+- chore(deps): update dependency js-yaml to v5.4.1 (#925) (dc689f6)
+- chore(deps): update github/codeql-action digest to cdf488f (#927) (ad844c5)
+- fix(deps): update dependency axios to v1.20.0 (#928) (7e0926d)
+
 ## dev-20260826_1813 — 2026-08-26
 
 - chore(deps): update dependency eslint to v10.9.1 (#924) (ab524e5)
