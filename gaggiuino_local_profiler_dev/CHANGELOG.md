@@ -1,3 +1,7 @@
+## dev-20260830_1637 — 2026-08-30
+
+- fix: keep exhausted beans selectable in the shot annotator (#934) (95d689c)
+
 ## dev-20260830_1633 — 2026-08-30
 
 - fix: correcting bean/milk stock now sets the actual amount, not an overwrite (#932) (dcbf4f4)
