@@ -1,3 +1,7 @@
+## dev-20260830_1633 — 2026-08-30
+
+- fix: correcting bean/milk stock now sets the actual amount, not an overwrite (#932) (dcbf4f4)
+
 ## dev-20260830_1617 — 2026-08-30
 
 - chore(deps): lock file maintenance (#926) (e128003)
