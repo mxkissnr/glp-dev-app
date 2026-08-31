@@ -1,3 +1,7 @@
+## dev-20260831_1626 — 2026-08-31
+
+- fix: audit follow-up — secret-safe gitignore, ready-by scope comment, coverage thresholds (#943) (94d75e5)
+
 ## dev-20260830_1725 — 2026-08-30
 
 - Merge pull request #935 from mxkissnr/release/v2.36.1 (f76c652)
