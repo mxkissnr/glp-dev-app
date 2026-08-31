@@ -1,3 +1,7 @@
+## dev-20260831_1637 — 2026-08-31
+
+- fix(deps): update dependency zod to v4.5.4 (#936) (0440922)
+
 ## dev-20260831_1626 — 2026-08-31
 
 - fix: audit follow-up — secret-safe gitignore, ready-by scope comment, coverage thresholds (#943) (94d75e5)
