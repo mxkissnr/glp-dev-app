@@ -1,3 +1,8 @@
+## dev-20260831_1658 — 2026-08-31
+
+- chore: hold Node v24 bump, announce armv7 deprecation (#945) (626e021)
+- chore(deps): lock file maintenance (#938) (5c5dff5)
+
 ## dev-20260831_1637 — 2026-08-31
 
 - fix(deps): update dependency zod to v4.5.4 (#936) (0440922)
