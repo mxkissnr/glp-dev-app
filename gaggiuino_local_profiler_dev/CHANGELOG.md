@@ -1,3 +1,7 @@
+## dev-20260902_1208 — 2026-09-02
+
+- docs+ci: add PR guidelines and mandatory AI assistance disclosure (#950) (1a29543)
+
 ## dev-20260831_1658 — 2026-08-31
 
 - chore: hold Node v24 bump, announce armv7 deprecation (#945) (626e021)
