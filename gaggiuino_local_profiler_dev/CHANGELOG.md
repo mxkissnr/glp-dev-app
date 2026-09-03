@@ -1,3 +1,7 @@
+## dev-20260903_0709 — 2026-09-03
+
+- fix: dispatch GaggiMate default machine live poll + sync by adapter type (#955) (40570ce)
+
 ## dev-20260902_1208 — 2026-09-02
 
 - docs+ci: add PR guidelines and mandatory AI assistance disclosure (#950) (1a29543)
