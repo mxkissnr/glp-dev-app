@@ -1,3 +1,7 @@
+## dev-20260903_1835 — 2026-09-03
+
+- fix: build annotation library <select>s via DOM API, not innerHTML (#966) (801ca0b)
+
 ## dev-20260903_0709 — 2026-09-03
 
 - fix: dispatch GaggiMate default machine live poll + sync by adapter type (#955) (40570ce)
