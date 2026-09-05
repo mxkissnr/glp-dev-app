@@ -1,3 +1,7 @@
+## dev-20260905_0946 — 2026-09-05
+
+- fix: stop achievement re-evaluation storm from hanging bulk restore (#979) (7747a8f)
+
 ## dev-20260905_0852 — 2026-09-05
 
 - perf(sidebar): debounce shot search input (#976) (117afd3)
