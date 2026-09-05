@@ -1,3 +1,7 @@
+## dev-20260905_0852 — 2026-09-05
+
+- perf(sidebar): debounce shot search input (#976) (117afd3)
+
 ## dev-20260905_0825 — 2026-09-05
 
 - perf: lazy-build collapsed month groups + index sidebar search by id (#969) (#970) (6087de8)
