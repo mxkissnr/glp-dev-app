@@ -1,3 +1,9 @@
+## dev-20260907_0630 — 2026-09-07
+
+- fix: resync package-lock.json to fix npm ci in CI (#1010) (b220306)
+- chore(deps): lock file maintenance (#1006) (71cc1da)
+- chore(deps): update dev-dependencies to v5 (#1005) (6fd7683)
+
 ## dev-20260907_0532 — 2026-09-07
 
 - chore(deps): update docker/setup-qemu-action digest to 1f40c72 (#1003) (3a1e763)
