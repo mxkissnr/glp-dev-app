@@ -1,3 +1,9 @@
+## dev-20260907_0532 — 2026-09-07
+
+- chore(deps): update docker/setup-qemu-action digest to 1f40c72 (#1003) (3a1e763)
+- chore(deps): update dev-dependencies (#1004) (2bd7a90)
+- docs: fix uneven screenshot grid in README (#985) (d193d9a)
+
 ## dev-20260905_0946 — 2026-09-05
 
 - fix: stop achievement re-evaluation storm from hanging bulk restore (#979) (7747a8f)
