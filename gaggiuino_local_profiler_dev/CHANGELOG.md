@@ -1,3 +1,8 @@
+## dev-20260907_1040 — 2026-09-07
+
+- Merge pull request #1014 from mxkissnr/fix/codeql-alerts-94-95-96-98-100 (feebc6f)
+- fix: resolve 5 pre-existing CodeQL alerts (#94, #95, #96, #98, #100) (4757b31)
+
 ## dev-20260907_0940 — 2026-09-07
 
 - Merge pull request #1012 from mxkissnr/sync/dev-into-go-migration-0907 (7aae0f0)
