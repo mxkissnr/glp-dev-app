@@ -1,3 +1,9 @@
+## dev-20260907_2040 — 2026-09-07
+
+- Merge pull request #1025 from mxkissnr/fix/1024-worldmap-light-theme (e7a79db)
+- fix: resolve bean-label text-outline halo from theme too (484185e)
+- fix: resolve world map colors from the active theme instead of dark literals (b297e39)
+
 ## dev-20260907_1858 — 2026-09-07
 
 - Merge pull request #1023 from mxkissnr/fix/1021-accent-ink-contrast-audit (4cf4a1a)
