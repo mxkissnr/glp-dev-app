@@ -1,3 +1,7 @@
+## dev-20260907_1358 — 2026-09-07
+
+- fix: detect mid-session SSE staleness, not just first-connect failure (#1017) (f1aa5fb)
+
 ## dev-20260907_1046 — 2026-09-07
 
 - Merge pull request #1015 from mxkissnr/chore/go-preview-trigger-dev (3e2b654)
