@@ -1,3 +1,8 @@
+## dev-20260907_1046 — 2026-09-07
+
+- Merge pull request #1015 from mxkissnr/chore/go-preview-trigger-dev (3e2b654)
+- chore(ci): trigger go-preview-publish from dev instead of go-migration (188f3f3)
+
 ## dev-20260907_1040 — 2026-09-07
 
 - Merge pull request #1014 from mxkissnr/fix/codeql-alerts-94-95-96-98-100 (feebc6f)
