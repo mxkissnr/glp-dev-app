@@ -1,3 +1,9 @@
+## dev-20260907_1858 — 2026-09-07
+
+- Merge pull request #1023 from mxkissnr/fix/1021-accent-ink-contrast-audit (4cf4a1a)
+- fix: sync DOCS.md wording, trim verbose CHANGELOG entry, drop redundant accent apply call (8dc5787)
+- fix: light-theme --accent-ink contrast audit for the 8 THEME_PRESETS (ca7e56b)
+
 ## dev-20260907_1818 — 2026-09-07
 
 - Merge pull request #1022 from mxkissnr/feat/1019-unify-accent-theme-presets (8f1ddb8)
