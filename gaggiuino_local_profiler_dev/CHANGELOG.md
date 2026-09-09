@@ -1,3 +1,7 @@
+## dev-20260909_1939 — 2026-09-09
+
+- Remove the legacy Node.js backend (Go-only for 3.0.0) (#1029) (ff18bc3)
+
 ## dev-20260909_1810 — 2026-09-09
 
 - Merge pull request #1026 from mxkissnr/cutover/977-go-backend-flip (137ea62)
