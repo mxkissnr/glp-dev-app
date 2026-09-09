@@ -1,3 +1,9 @@
+## dev-20260909_2007 — 2026-09-09
+
+- Resync dev with main after v3.0.0 release (de04591)
+- Merge pull request #1030 from mxkissnr/release/v3.0.0 (4aabcf4)
+- Release v3.0.0 (5c34e3e)
+
 ## dev-20260909_1939 — 2026-09-09
 
 - Remove the legacy Node.js backend (Go-only for 3.0.0) (#1029) (ff18bc3)
