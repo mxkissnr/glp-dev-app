@@ -1,3 +1,17 @@
+## dev-20260909_1810 — 2026-09-09
+
+- Merge pull request #1026 from mxkissnr/cutover/977-go-backend-flip (137ea62)
+- Fix 7th round of code review findings on #977 backend cutover (9e07ccf)
+- Fix 6th round of code review findings on #977 backend cutover (2243be0)
+- Fix 5th round of code review findings on #977 backend cutover (df79ef0)
+- Fix code review findings on #977 backend cutover (chown handling, config dedup) (4th review pass) (77efdec)
+- Finish 3rd review-pass fixes (previous commit missed the modified files) (3fb6183)
+- Atomic marker-based DB backup, cache registry debug check, drop dead go/ files (3rd review pass) (74729d4)
+- Multi-arch docker-smoke, needs:go-test, required-checks fix (2nd review pass) (bdaf173)
+- Fix code review findings on #977 backend cutover (WAL backup, CI smoke test, dedup) (fb9fdb2)
+- Wire debug_logging, delete obsolete Go CI workflows, harden AppArmor notice (#977 follow-up) (4d463fa)
+- Cutover production image to the Go backend (#977) (2d1c4a5)
+
 ## dev-20260907_2040 — 2026-09-07
 
 - Merge pull request #1025 from mxkissnr/fix/1024-worldmap-light-theme (e7a79db)
