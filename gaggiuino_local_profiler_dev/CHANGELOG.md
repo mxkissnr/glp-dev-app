@@ -1,3 +1,7 @@
+## dev-20260910_1557 — 2026-09-10
+
+- Fix README screenshots, bump to Node 24, dev-stats SVG charts (#1035) (7a784bc)
+
 ## dev-20260909_2007 — 2026-09-09
 
 - Resync dev with main after v3.0.0 release (de04591)
