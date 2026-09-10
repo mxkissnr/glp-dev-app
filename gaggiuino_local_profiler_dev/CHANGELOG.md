@@ -1,3 +1,7 @@
+## dev-20260910_2022 — 2026-09-10
+
+- fix: machine firmware check degrades gracefully when GitHub is unreachable (#1038) (d0b2d59)
+
 ## dev-20260910_1611 — 2026-09-10
 
 - Merge remote-tracking branch 'origin/main' into dev (efe5659)
