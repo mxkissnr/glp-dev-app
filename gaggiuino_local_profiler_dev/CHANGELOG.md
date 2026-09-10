@@ -1,3 +1,8 @@
+## dev-20260910_1611 — 2026-09-10
+
+- Merge remote-tracking branch 'origin/main' into dev (efe5659)
+- Release v3.0.1 (#1036) (fe6fa8b)
+
 ## dev-20260910_1557 — 2026-09-10
 
 - Fix README screenshots, bump to Node 24, dev-stats SVG charts (#1035) (7a784bc)
