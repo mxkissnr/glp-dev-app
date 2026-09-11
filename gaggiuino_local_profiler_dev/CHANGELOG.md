@@ -1,3 +1,9 @@
+## dev-20260911_1942 — 2026-09-11
+
+- Add Gaggiuino firmware update UI and release-channel selector (#1045) (e6501ff)
+- fix(go): log and fast-retry a silent firmware-release match miss (#1043) (4929e47)
+- docs: "app" terminology, trimmed armv7 note, README screenshot grid, machine valve fields (#1040) (7fe9efa)
+
 ## dev-20260910_2022 — 2026-09-10
 
 - fix: machine firmware check degrades gracefully when GitHub is unreachable (#1038) (d0b2d59)
