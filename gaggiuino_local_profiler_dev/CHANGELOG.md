@@ -1,3 +1,7 @@
+## dev-20260912_0548 — 2026-09-12
+
+- Move Gaggiuino firmware update status/trigger onto the machines list row (#1047) (b537d5d)
+
 ## dev-20260911_1942 — 2026-09-11
 
 - Add Gaggiuino firmware update UI and release-channel selector (#1045) (e6501ff)
