@@ -1,3 +1,7 @@
+## dev-20260914_1557 — 2026-09-14
+
+- fix: guard SSRF-exposed HTTP clients, fix dev-only route gate, pin builder digest (#1072) (820aabd)
+
 ## dev-20260914_1552 — 2026-09-14
 
 - Release v3.0.2 (#1041) (#1073) (69a71e0)
