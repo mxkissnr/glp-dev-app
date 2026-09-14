@@ -1,3 +1,7 @@
+## dev-20260914_0841 — 2026-09-14
+
+- chore(deps): update dependency vite to v8.3.0 (#1067) (54c2504)
+
 ## dev-20260913_1748 — 2026-09-13
 
 - Escape world-map tooltip names and consolidate HTML-escaping helpers (#1059) (dd66853)
