@@ -1,3 +1,8 @@
+## dev-20260914_1552 — 2026-09-14
+
+- Release v3.0.2 (#1041) (#1073) (69a71e0)
+- fix: allow explicitly clearing a stored MQTT broker password (#1071) (4c00850)
+
 ## dev-20260914_1514 — 2026-09-14
 
 - chore(deps): update docker/setup-qemu-action digest to 1f40c72 (#1064) (ef95881)
