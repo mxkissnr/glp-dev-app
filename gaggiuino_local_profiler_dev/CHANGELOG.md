@@ -1,3 +1,7 @@
+## dev-20260915_1855 — 2026-09-15
+
+- fix(deps): update go-dependencies (#1069) (d52e508)
+
 ## dev-20260915_1848 — 2026-09-15
 
 - Migrate off deprecated nhooyr.io/websocket to coder/websocket (#1076) (cd61de7)
