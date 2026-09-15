@@ -1,3 +1,8 @@
+## dev-20260915_1842 — 2026-09-15
+
+- Add per-route rate limits to GET /api/backup and image uploads (#1075) (4887d2c)
+- fix: correct false claim in Go builder Dockerfile comment (#1074) (bc238b2)
+
 ## dev-20260914_1557 — 2026-09-14
 
 - fix: guard SSRF-exposed HTTP clients, fix dev-only route gate, pin builder digest (#1072) (820aabd)
