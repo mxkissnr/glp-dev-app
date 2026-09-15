@@ -1,3 +1,7 @@
+## dev-20260915_1848 — 2026-09-15
+
+- Migrate off deprecated nhooyr.io/websocket to coder/websocket (#1076) (cd61de7)
+
 ## dev-20260915_1842 — 2026-09-15
 
 - Add per-route rate limits to GET /api/backup and image uploads (#1075) (4887d2c)
