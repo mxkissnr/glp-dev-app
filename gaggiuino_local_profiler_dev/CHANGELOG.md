@@ -1,3 +1,8 @@
+## dev-20260917_2245 — 2026-09-17
+
+- Merge pull request #1101 from mxkissnr/fix/1100-ai-model-breakdown (e4cfb70)
+- Generalize dev-stats AI model breakdown beyond Claude (fcb6014)
+
 ## dev-20260917_1847 — 2026-09-17
 
 - Merge pull request #1099 from mxkissnr/release/v3.1.0 (c1d687b)
