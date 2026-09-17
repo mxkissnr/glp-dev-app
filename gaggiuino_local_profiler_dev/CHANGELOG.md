@@ -1,3 +1,8 @@
+## dev-20260917_0909 — 2026-09-17
+
+- chore: ignore .graphify_root symlink (#1082) (162c03b)
+- build(frontend): bundle the SPA from Go with esbuild, drop the Node stage (#1080) (01137df)
+
 ## dev-20260915_1855 — 2026-09-15
 
 - fix(deps): update go-dependencies (#1069) (d52e508)
