@@ -1,3 +1,7 @@
+## dev-20260917_1256 — 2026-09-17
+
+- fix: record the AppArmor profile's completed complain-mode validation (#1084) (45903c0)
+
 ## dev-20260917_1050 — 2026-09-17
 
 - fix: describe the AppArmor profile as shipped and unvalidated (#1078) (8da0af6)
