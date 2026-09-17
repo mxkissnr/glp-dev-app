@@ -1,3 +1,7 @@
+## dev-20260917_1314 — 2026-09-17
+
+- ci: close issues referenced by PRs merged into dev (#1089) (dd9b5c7)
+
 ## dev-20260917_1256 — 2026-09-17
 
 - fix: record the AppArmor profile's completed complain-mode validation (#1084) (45903c0)
