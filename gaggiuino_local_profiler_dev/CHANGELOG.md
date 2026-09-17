@@ -1,3 +1,7 @@
+## dev-20260917_1436 — 2026-09-17
+
+- fix(ui): name the firmware component in the update progress label (#1088) (0b34d57)
+
 ## dev-20260917_1314 — 2026-09-17
 
 - ci: close issues referenced by PRs merged into dev (#1089) (dd9b5c7)
