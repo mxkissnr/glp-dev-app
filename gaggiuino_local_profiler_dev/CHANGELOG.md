@@ -1,3 +1,12 @@
+## dev-20260917_1818 — 2026-09-17
+
+- chore(deps): update docker/build-push-action digest to c3c9e26 (#1092) (a8d4713)
+- chore(deps): update docker/setup-buildx-action digest to f87e599 (#1093) (1e6f671)
+- chore(deps): update docker/setup-qemu-action digest to 9901266 (#1094) (4a3bcfc)
+- chore(deps): update dev-dependencies to v5.0.1 (#1095) (85e3393)
+- fix(deps): update module modernc.org/sqlite to v1.59.0 (#1096) (d66b986)
+- chore(deps): update actions/github-script action to v9 (#1097) (5a727f5)
+
 ## dev-20260917_1436 — 2026-09-17
 
 - fix(ui): name the firmware component in the update progress label (#1088) (0b34d57)
