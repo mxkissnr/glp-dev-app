@@ -1,3 +1,7 @@
+## dev-20260917_1050 — 2026-09-17
+
+- fix: describe the AppArmor profile as shipped and unvalidated (#1078) (8da0af6)
+
 ## dev-20260917_0909 — 2026-09-17
 
 - chore: ignore .graphify_root symlink (#1082) (162c03b)
