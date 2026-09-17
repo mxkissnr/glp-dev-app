@@ -1,3 +1,13 @@
+## dev-20260917_1847 — 2026-09-17
+
+- Merge pull request #1099 from mxkissnr/release/v3.1.0 (c1d687b)
+- Remove duplicate test after main resync merge (b802758)
+- Merge remote-tracking branch 'origin/main' into release/v3.1.0 (653ab03)
+- Regenerate screenshots/dev-stats after What's New trim (ffdde8e)
+- Trim in-app What's New to MAX_ENTRIES after adding v3.1.0 (027e33a)
+- Release v3.1.0: bump version, retitle CHANGELOG, regenerate docs (c05bfde)
+- Release v3.0.2 (#1041) (d63a22f)
+
 ## dev-20260917_1818 — 2026-09-17
 
 - chore(deps): update docker/build-push-action digest to c3c9e26 (#1092) (a8d4713)
