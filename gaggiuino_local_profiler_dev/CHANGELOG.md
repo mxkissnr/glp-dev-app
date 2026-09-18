@@ -1,3 +1,7 @@
+## dev-20260918_1145 — 2026-09-18
+
+- TypeScript migration package A2: core modules, state split, chart/timer registries (#1109) (5e81a81)
+
 ## dev-20260918_0728 — 2026-09-18
 
 - Merge pull request #1107 from mxkissnr/ts-migration (d9cb552)
