@@ -1,3 +1,15 @@
+## dev-20260918_0728 — 2026-09-18
+
+- Merge pull request #1107 from mxkissnr/ts-migration (d9cb552)
+- Complete package A1: rename main.js to main.ts, wire CI typecheck gate (847620e)
+- docs: main.ts in CONTRIBUTING.md's frontend source row (#1106) (47100f9)
+- docs: main.ts in CONTRIBUTING.md's frontend source row (#1106) (4e8a0f6)
+- test(frontend-build): expect main.ts as the entry point (#1106) (8780049)
+- build(frontend): point the esbuild entry at public-src/main.ts (#1106) (fa35ea1)
+- chore(lint): add TypeScript-aware ESLint blocks (#1106) (f41ca94)
+- chore(frontend): add TS toolchain devDeps and typecheck/types:api scripts (#1106) (1e52794)
+- Add tsconfig.json (TypeScript migration package A1, #1106) (4212aee)
+
 ## dev-20260917_2245 — 2026-09-17
 
 - Merge pull request #1101 from mxkissnr/fix/1100-ai-model-breakdown (e4cfb70)
