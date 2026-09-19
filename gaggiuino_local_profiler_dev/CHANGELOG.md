@@ -1,3 +1,7 @@
+## dev-20260919_1803 — 2026-09-19
+
+- Migrate components/ (~20 files) from JS to TS/TSX. See https://github. (#1114) (5ddebd0)
+
 ## dev-20260919_1222 — 2026-09-19
 
 - TypeScript migration package A3: generated API types + typed client (#1112) (af5bdca)
