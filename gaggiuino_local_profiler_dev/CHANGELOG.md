@@ -1,3 +1,7 @@
+## dev-20260919_1222 — 2026-09-19
+
+- TypeScript migration package A3: generated API types + typed client (#1112) (af5bdca)
+
 ## dev-20260918_1145 — 2026-09-18
 
 - TypeScript migration package A2: core modules, state split, chart/timer registries (#1109) (5e81a81)
