@@ -1,3 +1,12 @@
+## dev-20260920_1716 — 2026-09-20
+
+- fix: validate since, define duplicate-since behavior for retroactive zero-point (2e20a95)
+- fix: escape grinder id/since in zero-point history delete button (CodeQL DOM-XSS) (5fdf2e4)
+- feat: retroactive zero-point — optional since parameter for grinder zero-point history (eb1ced1)
+- fix: regenerate schema.gen.ts to include zero-point route/field (21af0d8)
+- fix: use typed API for grinder zero-point, remove undefined apiFetch call (96be49c)
+- feat: grinder zero-point tracking for grind-setting suggestions (3affdee)
+
 ## dev-20260920_1211 — 2026-09-20
 
 - TypeScript migration A6: convert top-level and shared modules to TS (#1128) (19844b4)
