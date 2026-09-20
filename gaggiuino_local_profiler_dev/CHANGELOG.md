@@ -1,3 +1,7 @@
+## dev-20260920_1211 — 2026-09-20
+
+- TypeScript migration A6: convert top-level and shared modules to TS (#1128) (19844b4)
+
 ## dev-20260920_1202 — 2026-09-20
 
 - TypeScript migration A5: convert views/ to TS (15 of 18 files) (#1127) (a84056b)
