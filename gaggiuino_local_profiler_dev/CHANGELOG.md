@@ -1,3 +1,14 @@
+## dev-20260920_1724 — 2026-09-20
+
+- docs: document custom maintenance tasks in CHANGELOG, DOCS and README (b564449)
+- fix: truncate maintenance log notes by rune, not byte (81fbe73)
+- fix: address maintenance review — i18n, custom-task existence check, rune-safe truncation (5b36e0c)
+- fix: typecheck/lint errors in ported maintenance view (162c2fd)
+- fix: escape machineId in custom-maint-task button attribute (CodeQL DOM-XSS) (7931e5c)
+- fix: use typed API for custom maintenance tasks, remove undefined apiFetch calls (8063441)
+- fix: maintenance log shows raw task keys, log-entry form ignores custom/disabled tasks (e1c07e6)
+- feat: improve maintenance tracking (d5bf422)
+
 ## dev-20260920_1716 — 2026-09-20
 
 - fix: validate since, define duplicate-since behavior for retroactive zero-point (2e20a95)
