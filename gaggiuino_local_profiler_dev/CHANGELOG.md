@@ -1,3 +1,7 @@
+## dev-20260920_1150 — 2026-09-20
+
+- feat: kiosk view (#1117) (b96adca)
+
 ## dev-20260920_1012 — 2026-09-20
 
 - feat: duplicate machine profile (#1121) (01be407)
