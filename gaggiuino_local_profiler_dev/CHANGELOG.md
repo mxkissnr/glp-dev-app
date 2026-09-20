@@ -1,3 +1,8 @@
+## dev-20260920_1012 — 2026-09-20
+
+- feat: duplicate machine profile (#1121) (01be407)
+- fix: add bottom nav clearance padding to prevent content overlap (#1116) (4a2b5ea)
+
 ## dev-20260919_1803 — 2026-09-19
 
 - Migrate components/ (~20 files) from JS to TS/TSX. See https://github. (#1114) (5ddebd0)
