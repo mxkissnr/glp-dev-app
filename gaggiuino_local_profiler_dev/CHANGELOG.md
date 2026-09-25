@@ -1,3 +1,7 @@
+## dev-20260925_2133 — 2026-09-25
+
+- Fix #1162: a Gaggiuino default machine with id != 1 stores its shots a (#1167) (889c3e5)
+
 ## dev-20260925_2112 — 2026-09-25
 
 - chore(deps): update node.js to 0e0ff40 (#1141) (5ce341e)
