@@ -1,3 +1,8 @@
+## dev-20260925_1810 — 2026-09-25
+
+- Fix shot sync ignoring lastShotId sent as a JSON string (#1142) (#1145) (0a6ea18)
+- docs: add CHANGELOG entry for firmware-update maintenance log (#1136) (#1144) (c993ff0)
+
 ## dev-20260925_1716 — 2026-09-25
 
 - Implement #1136 slice 2 (frontend): localize firmware_update log title (#1143) (69eb4a6)
