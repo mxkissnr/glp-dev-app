@@ -1,3 +1,7 @@
+## dev-20260925_2029 — 2026-09-25
+
+- Fix #1146: sync enabled non-default machines again (#1163) (b7d7a4f)
+
 ## dev-20260925_2004 — 2026-09-25
 
 - Fix #1147: GaggiMate default machine with id != 1 syncs under its own  (#1161) (9265fa5)
