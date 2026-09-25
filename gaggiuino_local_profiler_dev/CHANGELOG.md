@@ -1,3 +1,7 @@
+## dev-20260925_1928 — 2026-09-25
+
+- Fix #1159: blocklist shots removed by the 30-day trash purge (#1160) (7d769be)
+
 ## dev-20260925_1917 — 2026-09-25
 
 - Fix #1150, #1151 and #1152 (read all three issues on GitHub for detail (#1158) (c717ddf)
