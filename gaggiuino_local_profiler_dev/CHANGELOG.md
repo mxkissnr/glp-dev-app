@@ -1,3 +1,7 @@
+## dev-20260925_2004 — 2026-09-25
+
+- Fix #1147: GaggiMate default machine with id != 1 syncs under its own  (#1161) (9265fa5)
+
 ## dev-20260925_1928 — 2026-09-25
 
 - Fix #1159: blocklist shots removed by the 30-day trash purge (#1160) (7d769be)
