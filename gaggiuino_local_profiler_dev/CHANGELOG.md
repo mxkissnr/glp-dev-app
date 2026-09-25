@@ -1,3 +1,7 @@
+## dev-20260925_2048 — 2026-09-25
+
+- ci: keep externally reported issues open until release (#1156) (#1164) (6e05bc0)
+
 ## dev-20260925_2029 — 2026-09-25
 
 - Fix #1146: sync enabled non-default machines again (#1163) (b7d7a4f)
