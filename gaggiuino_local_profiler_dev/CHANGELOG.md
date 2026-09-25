@@ -1,3 +1,7 @@
+## dev-20260925_2104 — 2026-09-25
+
+- Fix #1153: sync right after startup and machine power-on (#1166) (c1e4d38)
+
 ## dev-20260925_2051 — 2026-09-25
 
 - Package 4a: fix #1154, #1155 (#1165) (a473b57)
