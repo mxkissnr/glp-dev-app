@@ -1,3 +1,10 @@
+## dev-20260925_2112 — 2026-09-25
+
+- chore(deps): update node.js to 0e0ff40 (#1141) (5ce341e)
+- chore(deps): update golang:1.27-alpine docker digest to 8a5910f (#1140) (d719457)
+- chore(deps): update alpine:3.24 docker digest to 294b683 (#1138) (77497cf)
+- chore(deps): update github/codeql-action digest to 2892aa5 (#1139) (6792411)
+
 ## dev-20260925_2104 — 2026-09-25
 
 - Fix #1153: sync right after startup and machine power-on (#1166) (c1e4d38)
