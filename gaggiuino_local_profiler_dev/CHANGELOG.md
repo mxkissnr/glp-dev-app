@@ -1,3 +1,7 @@
+## dev-20260925_1917 — 2026-09-25
+
+- Fix #1150, #1151 and #1152 (read all three issues on GitHub for detail (#1158) (c717ddf)
+
 ## dev-20260925_1855 — 2026-09-25
 
 - Fix #1149 and #1148 (read both issues on GitHub for full details). #11 (#1157) (c7ad187)
