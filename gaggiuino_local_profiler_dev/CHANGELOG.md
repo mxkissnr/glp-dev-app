@@ -1,3 +1,12 @@
+## dev-20260925_1716 — 2026-09-25
+
+- Implement #1136 slice 2 (frontend): localize firmware_update log title (#1143) (69eb4a6)
+- Implement #1136 slice 1 (backend): log machine firmware updates in the (#1137) (90a3c9a)
+- docs: link the ordering feature row to the kiosk page (#1132) (6a5f8c8)
+- docs: drop the removed Go preview channel section (#1132) (d3d0e60)
+- docs: document the kiosk ordering page (#1132) (a10c9c3)
+- docs: record kiosk mode, profile duplication, the bottom-nav fix and the TypeScript test migration in the changelog (#1132) (2506e55)
+
 ## dev-20260920_2307 — 2026-09-20
 
 - test: keep the fakeRow doc comment attached to its function (#1133, slice-14) (b40f60a)
