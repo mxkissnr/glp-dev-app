@@ -1,3 +1,7 @@
+## dev-20260925_1855 — 2026-09-25
+
+- Fix #1149 and #1148 (read both issues on GitHub for full details). #11 (#1157) (c7ad187)
+
 ## dev-20260925_1810 — 2026-09-25
 
 - Fix shot sync ignoring lastShotId sent as a JSON string (#1142) (#1145) (0a6ea18)
