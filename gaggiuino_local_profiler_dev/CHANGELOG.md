@@ -1,3 +1,7 @@
+## dev-20260925_2051 — 2026-09-25
+
+- Package 4a: fix #1154, #1155 (#1165) (a473b57)
+
 ## dev-20260925_2048 — 2026-09-25
 
 - ci: keep externally reported issues open until release (#1156) (#1164) (6e05bc0)
