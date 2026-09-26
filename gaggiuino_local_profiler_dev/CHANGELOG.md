@@ -1,3 +1,7 @@
+## dev-20260926_1249 — 2026-09-26
+
+- fix(system): bounds-check upTime conversion in rawStatusFrom (#1170) (a1d7476)
+
 ## dev-20260925_2133 — 2026-09-25
 
 - Fix #1162: a Gaggiuino default machine with id != 1 stores its shots a (#1167) (889c3e5)
