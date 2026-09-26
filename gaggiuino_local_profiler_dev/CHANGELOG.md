@@ -1,3 +1,9 @@
+## dev-20260926_1753 — 2026-09-26
+
+- screenshots: optional backup restore instead of seed data (#1183) (1ac9536)
+- docs: present Shot Card and Order Card as part of GLP Integration (#1182) (7eb59b6)
+- docs: Mermaid architecture diagrams, DOCS architecture fixes, README polish (#1178) (6a444c1)
+
 ## dev-20260926_1424 — 2026-09-26
 
 - Treat ppops-oh as internal in close-dev-issues (#1175) (1747eb3)
