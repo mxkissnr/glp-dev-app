@@ -1,3 +1,7 @@
+## dev-20260926_1424 — 2026-09-26
+
+- Treat ppops-oh as internal in close-dev-issues (#1175) (1747eb3)
+
 ## dev-20260926_1416 — 2026-09-26
 
 - Merge pull request #1173 from mxkissnr/ppops/firmware-update-maintenance-lo-1790430104 (721d2d7)
