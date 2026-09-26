@@ -1,3 +1,8 @@
+## dev-20260926_2215 — 2026-09-26
+
+- docs: readable coloured architecture diagrams, aligned dev-stats, updated AI note (#1186) (853d936)
+- docs: slim down go/README.md, move migration history to docs/history (#1187) (f999874)
+
 ## dev-20260926_1753 — 2026-09-26
 
 - screenshots: optional backup restore instead of seed data (#1183) (1ac9536)
