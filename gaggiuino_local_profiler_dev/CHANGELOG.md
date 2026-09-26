@@ -1,3 +1,9 @@
+## dev-20260926_1416 — 2026-09-26
+
+- Merge pull request #1173 from mxkissnr/ppops/firmware-update-maintenance-lo-1790430104 (721d2d7)
+- Add changelog entry and issue reference for firmware update maintenance log (f93682a)
+- Record from/to firmware version and shot count in firmware update log (0480d17)
+
 ## dev-20260926_1312 — 2026-09-26
 
 - Merge pull request #1171 from mxkissnr/sync/v3.2.0-to-dev (b009d7b)
