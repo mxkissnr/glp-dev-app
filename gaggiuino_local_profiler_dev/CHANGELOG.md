@@ -1,3 +1,7 @@
+## dev-20260927_0755 — 2026-09-27
+
+- docs: refresh screenshots from a sanitized real backup (#1190) (c6c9470)
+
 ## dev-20260927_0750 — 2026-09-27
 
 - screenshots: keep seeded orders/live views in backup mode, report restored photos (#1188) (ae8d471)
