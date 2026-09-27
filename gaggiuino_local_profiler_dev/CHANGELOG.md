@@ -1,3 +1,7 @@
+## dev-20260927_1345 — 2026-09-27
+
+- Server-side shot score ignores the bean target (#1202) (6fdf47c)
+
 ## dev-20260927_0828 — 2026-09-27
 
 - fix(dev-stats): stack README charts and drop equal-height padding (#1195) (941335d)
