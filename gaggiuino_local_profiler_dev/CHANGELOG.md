@@ -1,3 +1,7 @@
+## dev-20260927_1844 — 2026-09-27
+
+- feat: built-in MCP server for shot history, library and analytics (#1208) (c75558c)
+
 ## dev-20260927_1738 — 2026-09-27
 
 - demo: interactive GLP web UI demo on GitHub Pages (#1206) (665ab27)
