@@ -1,3 +1,8 @@
+## dev-20260927_0828 — 2026-09-27
+
+- fix(dev-stats): stack README charts and drop equal-height padding (#1195) (941335d)
+- docs: route the cards through the integration proxy in the README diagram (#1192) (50f2501)
+
 ## dev-20260927_0755 — 2026-09-27
 
 - docs: refresh screenshots from a sanitized real backup (#1190) (c6c9470)
