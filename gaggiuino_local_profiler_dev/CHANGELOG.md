@@ -1,3 +1,7 @@
+## dev-20260927_0750 — 2026-09-27
+
+- screenshots: keep seeded orders/live views in backup mode, report restored photos (#1188) (ae8d471)
+
 ## dev-20260926_2215 — 2026-09-26
 
 - docs: readable coloured architecture diagrams, aligned dev-stats, updated AI note (#1186) (853d936)
