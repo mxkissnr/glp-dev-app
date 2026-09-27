@@ -1,3 +1,7 @@
+## dev-20260927_1738 — 2026-09-27
+
+- demo: interactive GLP web UI demo on GitHub Pages (#1206) (665ab27)
+
 ## dev-20260927_1345 — 2026-09-27
 
 - Server-side shot score ignores the bean target (#1202) (6fdf47c)
