@@ -1,3 +1,15 @@
+## dev-20260928_1706 — 2026-09-28
+
+- fix: use a Dutch label for the live setup toggle in nl.ts (e7bc5da)
+- docs: document the live shot setup panel and correct its CHANGELOG line (4df271e)
+- chore: record the #1120 port provenance and address the process-gap flags (4ef3217)
+- fix: limit the live shot setup draft to finished brews (6c1e00b)
+- chore: type the ported live-shot-setup grinder helpers for annotation.ts (3cc2735)
+- fix: address live-shot-setup review — machine-scoped shot pick, minimal payload, defaults-safe apply (ab477f9)
+- fix: use typed annotateShot API, remove undefined apiFetch call (c3e3361)
+- fix: add missing grinder select-with-other helpers (8a5c25d)
+- feat: add live shot setup panel (1bd6f62)
+
 ## dev-20260928_1645 — 2026-09-28
 
 - Fix #1057: write the API token file with mode 0600 (#1219) (782a215)
