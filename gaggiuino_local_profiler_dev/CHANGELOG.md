@@ -1,3 +1,8 @@
+## dev-20260928_1517 — 2026-09-28
+
+- Fix #1199 part 1 slice 1: serialise library read-modify-write via… (#1211) (d9df0a9)
+- docs(readme): tidy architecture diagrams, add MCP endpoint (#1213) (75baad1)
+
 ## dev-20260928_1507 — 2026-09-28
 
 - Dev-stats charts: full width, light/dark variants, meaningful colours (#1212) (e836083)
