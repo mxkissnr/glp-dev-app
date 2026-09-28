@@ -1,3 +1,7 @@
+## dev-20260928_1529 — 2026-09-28
+
+- Audit fixes: order-shot matching, sync blocklist, firmware cache, backup/restore gaps (#1214) (d64b4e7)
+
 ## dev-20260928_1517 — 2026-09-28
 
 - Fix #1199 part 1 slice 1: serialise library read-modify-write via… (#1211) (d9df0a9)
