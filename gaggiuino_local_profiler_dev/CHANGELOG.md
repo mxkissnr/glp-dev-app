@@ -1,3 +1,8 @@
+## dev-20260928_1507 — 2026-09-28
+
+- Dev-stats charts: full width, light/dark variants, meaningful colours (#1212) (e836083)
+- chore(deps): update dev-dependencies (#1203) (cac0ccb)
+
 ## dev-20260928_1449 — 2026-09-28
 
 - Fix #1197 part A: order-shot time check, transient 404 on newest shot,… (#1209) (3a53d87)
