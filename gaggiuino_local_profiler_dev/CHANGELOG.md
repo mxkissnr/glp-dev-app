@@ -1,3 +1,7 @@
+## dev-20260928_1543 — 2026-09-28
+
+- Fix #1199 slice 2: Create/Update library functions via repo.Update (#1216) (b35d30b)
+
 ## dev-20260928_1529 — 2026-09-28
 
 - Audit fixes: order-shot matching, sync blocklist, firmware cache, backup/restore gaps (#1214) (d64b4e7)
