@@ -1,3 +1,7 @@
+## dev-20260928_1645 — 2026-09-28
+
+- Fix #1057: write the API token file with mode 0600 (#1219) (782a215)
+
 ## dev-20260928_1625 — 2026-09-28
 
 - Concurrency: lost library updates and double order completion (#1218) (54e3807)
