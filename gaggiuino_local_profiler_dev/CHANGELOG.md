@@ -1,3 +1,7 @@
+## dev-20260928_1625 — 2026-09-28
+
+- Concurrency: lost library updates and double order completion (#1218) (54e3807)
+
 ## dev-20260928_1605 — 2026-09-28
 
 - Fix #1199 slice 3: library HTTP handlers via repo.Update (#1217) (9f67f92)
