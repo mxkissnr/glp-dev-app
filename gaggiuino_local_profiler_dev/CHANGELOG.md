@@ -1,3 +1,7 @@
+## dev-20260928_1449 — 2026-09-28
+
+- Fix #1197 part A: order-shot time check, transient 404 on newest shot,… (#1209) (3a53d87)
+
 ## dev-20260927_1844 — 2026-09-27
 
 - feat: built-in MCP server for shot history, library and analytics (#1208) (c75558c)
