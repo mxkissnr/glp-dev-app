@@ -1,3 +1,8 @@
+## dev-20260928_1605 — 2026-09-28
+
+- Fix #1199 slice 3: library HTTP handlers via repo.Update (#1217) (9f67f92)
+- Dev-stats charts: full width, light/dark variants, meaningful colours (#1215) (40a57ad)
+
 ## dev-20260928_1543 — 2026-09-28
 
 - Fix #1199 slice 2: Create/Update library functions via repo.Update (#1216) (b35d30b)
