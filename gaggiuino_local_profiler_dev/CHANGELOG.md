@@ -1,3 +1,29 @@
+## dev-20260929_1511 — 2026-09-29
+
+- Merge pull request #1223 from mxkissnr/ppops/port-1122-bean-bag-queue (26410a1)
+- revert: drop CHANGELOG entry for the internal types regeneration (#1122) (afd4a3f)
+- docs: add CHANGELOG entry for the bean bag queue API types fix (#1122) (35704af)
+- fix: regenerate schema.gen.ts for ThawPortionInput (#1122) (0a1ad21)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/port-1122-bean-bag-queue (68d2246)
+- docs: record the bean bag queue and describe it in the library docs (e579db9)
+- refactor: type the bag and reorder API from the generated spec (f595ecf)
+- fix: reject unknown bag ids on reorder with 400 and test the queue (90648d1)
+- test: pin bean remaining with one shared Go/JS fixture (93ecf55)
+- fix: wire the Past bags toggle into the click dispatcher (91092ec)
+- fix: address second review round on the bean bag queue port (9e348a9)
+- fix: address review on the bean bag queue port (8545a24)
+- chore: record the #1122 bean bag queue port and add its CHANGELOG entry (15d3e6b)
+- fix: address bean-bag-queue review — remaining consistency, reorder validation, newBag sync (328c1e7)
+- fix: use typed API for bag PUT/reorder/toggle-active, fix gofmt and race-condition lint findings (aeeb229)
+- fix: validateBagFloatField rejected an explicit JSON null instead of clearing the field (01d6043)
+- fix: register missing PUT /api/library/bean/{id}/bag/{bagId} route (0e9dd7f)
+- fix: bag edit pencil button did nothing (56de181)
+- fix: 'Speichern und Packung hinzufügen' silently did nothing (4a91ecb)
+- fix: review findings in bean-bag-queue (updateBag sync, validateBagFloatField, writeEnrichedBean) (8ec1c92)
+- fix: remove dead toggleBagHistory references crashing app load (7888f0e)
+- fix: add missing bag validation helpers and pending-toggle tracking (41b7b9d)
+- feat: add bean bag queue tracking (913ae6c)
+
 ## dev-20260929_0529 — 2026-09-29
 
 - test: assert the newer profile body survives a stale ReplaceRemoteID (c46e079)
