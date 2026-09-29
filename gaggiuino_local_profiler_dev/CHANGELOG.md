@@ -1,3 +1,8 @@
+## dev-20260929_1559 — 2026-09-29
+
+- Merge pull request #1229 from mxkissnr/feat/exact-optional-props-1105 (592c933)
+- Enable exactOptionalPropertyTypes in tsconfig (9d7edf0)
+
 ## dev-20260929_1555 — 2026-09-29
 
 - Merge pull request #1228 from mxkissnr/feat/library-tests-ts-1133 (2a4af18)
