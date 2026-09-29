@@ -1,3 +1,10 @@
+## dev-20260929_1533 — 2026-09-29
+
+- Merge pull request #1226 from mxkissnr/ppops/bean-dropdown-uses-server-rema-1790694819 (c6fae44)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/bean-dropdown-uses-server-rema-1790694819 (6c18bed)
+- test: cover bean picker classification from server remainingG (#1225) (a53acbc)
+- fix: bean dropdown uses the server-computed remaining stock (#1225) (ddbea3c)
+
 ## dev-20260929_1527 — 2026-09-29
 
 - Merge pull request #1224 from mxkissnr/ppops/typescript-migration-port-view-1790693843 (2be30e2)
