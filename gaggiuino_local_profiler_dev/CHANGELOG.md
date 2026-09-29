@@ -1,3 +1,12 @@
+## dev-20260929_1527 — 2026-09-29
+
+- Merge pull request #1224 from mxkissnr/ppops/typescript-migration-port-view-1790693843 (2be30e2)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/typescript-migration-port-view-1790693843 (5dd096a)
+- docs: note why the plan's reference paths are unchanged by the live port (1f6137d)
+- test: drop redundant assertions and async-without-await in the live port (342807c)
+- test: type the live chart callbacks and mocks for strict tsc (5b7e9cc)
+- test: port the live view and its five tests to TypeScript (dd945c1)
+
 ## dev-20260929_1511 — 2026-09-29
 
 - Merge pull request #1223 from mxkissnr/ppops/port-1122-bean-bag-queue (26410a1)
