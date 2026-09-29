@@ -1,3 +1,7 @@
+## dev-20260929_1648 — 2026-09-29
+
+- TypeScript migration: port the coffee library view (library.js) to TS (#1231) (f5eb784)
+
 ## dev-20260929_1559 — 2026-09-29
 
 - Merge pull request #1229 from mxkissnr/feat/exact-optional-props-1105 (592c933)
