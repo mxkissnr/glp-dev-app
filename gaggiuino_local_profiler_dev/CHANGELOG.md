@@ -1,3 +1,13 @@
+## dev-20260929_1539 — 2026-09-29
+
+- Merge pull request #1227 from mxkissnr/ppops/typescript-migration-port-view-1790694615 (962293b)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/typescript-migration-port-view-1790694615 (8ab14ac)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/typescript-migration-port-view-1790694615 (9925e3a)
+- fix: drop unnecessary non-null assertions in the GaggiMate editor handler (1efa866)
+- fix: annotate the GaggiMate phase transition fallback for strict tsc (6b2a14a)
+- refactor: finish the GaggiMate profile editor TypeScript port; escape machine values (a286217)
+- refactor: port the GaggiMate profile editor view to TypeScript (WIP) (22c6927)
+
 ## dev-20260929_1533 — 2026-09-29
 
 - Merge pull request #1226 from mxkissnr/ppops/bean-dropdown-uses-server-rema-1790694819 (c6fae44)
