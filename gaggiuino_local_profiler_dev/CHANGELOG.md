@@ -1,3 +1,8 @@
+## dev-20260929_1555 — 2026-09-29
+
+- Merge pull request #1228 from mxkissnr/feat/library-tests-ts-1133 (2a4af18)
+- test: convert five library Vitest files to TypeScript (24d8be3)
+
 ## dev-20260929_1545 — 2026-09-29
 
 - Merge pull request #1204 from mxkissnr/renovate/go-dependencies (7ff4c1a)
