@@ -1,3 +1,14 @@
+## dev-20260929_0529 — 2026-09-29
+
+- test: assert the newer profile body survives a stale ReplaceRemoteID (c46e079)
+- fix: persist the profile remote id on create and share the per-machine lock (08b9925)
+- fix: type the offline-save response in the profile editor (09e925f)
+- fix: serialize concurrent profile pushes per machine, guard against lost updates (e4ddf03)
+- fix: remove bean-bag-queue fields accidentally pulled into openapi.yaml (414e2b6)
+- fix: bound live profile fetches so the offline cache fallback isn't starved by a hung DNS lookup (055833b)
+- feat: save machine profiles locally (44e8a92)
+- Fix #1201: machine poll state per machine (#1221) (dcd3ec2)
+
 ## dev-20260928_1706 — 2026-09-28
 
 - fix: use a Dutch label for the live setup toggle in nl.ts (e7bc5da)
