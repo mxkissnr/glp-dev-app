@@ -1,3 +1,12 @@
+## dev-20260930_1924 — 2026-09-30
+
+- Merge pull request #1257 from mxkissnr/ppops/1105-n6-fix-the-last-five-src-1790795382 (7d31b59)
+- #1105 N6: add the CHANGELOG entry for the indexed-access slice (Part of #1105) (d07206a)
+- #1105 N6: enable noUncheckedIndexedAccess in tsconfig (Part of #1105) (2b39772)
+- Merge branch 'dev' into ppops/1105-n6-fix-the-last-five-src-1790795382 (5924afb)
+- #1105 N6: noUncheckedIndexedAccess in library and shots/annotation (Part of #1105) (1785eb6)
+- #1105 N6: noUncheckedIndexedAccess in constants/image-crop/machines-settings (Part of #1105) (1dea030)
+
 ## dev-20260930_1913 — 2026-09-30
 
 - Merge pull request #1256 from mxkissnr/ppops/1105-t4-nouncheckedindexedacce-1790793550 (1c162be)
