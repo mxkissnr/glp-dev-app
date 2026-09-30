@@ -1,3 +1,7 @@
+## dev-20260930_0555 — 2026-09-30
+
+- chore: brand innerHTML assignments in components/ with Html (first slice) (#1236) (abbfceb)
+
 ## dev-20260930_0542 — 2026-09-30
 
 - Show the selected machine's on/off state in the top bar icon (#1234) (b4df058)
