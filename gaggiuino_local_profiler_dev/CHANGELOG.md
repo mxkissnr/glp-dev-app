@@ -1,3 +1,7 @@
+## dev-20260930_1503 — 2026-09-30
+
+- TS cleanup C1: remove avoidable as-unknown-as casts (Part of #1105) (#1237) (44a98c7)
+
 ## dev-20260930_0601 — 2026-09-30
 
 - chore(ts): drop avoidable "as unknown as" casts in library/live/shot-defaults (#1235) (bae9b83)
