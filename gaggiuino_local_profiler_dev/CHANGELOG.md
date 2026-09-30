@@ -1,3 +1,7 @@
+## dev-20260930_1729 — 2026-09-30
+
+- #1104 V3: Html branding in orders, dial-in wizard and machine settings (#1244) (30db2d2)
+
 ## dev-20260930_1605 — 2026-09-30
 
 - Add v3.2.0 What's New entry and test that it tracks the release version (#1243) (3c82054)
