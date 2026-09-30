@@ -1,3 +1,8 @@
+## dev-20260930_0542 — 2026-09-30
+
+- Show the selected machine's on/off state in the top bar icon (#1234) (b4df058)
+- main.ts TS slice M2: type-checked lint for main.ts, CHANGELOG, open PR… (#1233) (cfa12ff)
+
 ## dev-20260930_0528 — 2026-09-30
 
 - OpenAPI route contract test without reflect/unsafe (Part of #1103,… (#1232) (e40f6fe)
