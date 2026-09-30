@@ -1,3 +1,8 @@
+## dev-20260930_1752 — 2026-09-30
+
+- #1103 S5: sync dev, fix type error, open PR (Part of #1103) (#1247) (bf19e9e)
+- #1104 V5: Html branding in shots/index, main and i18n (Part of #1104) (#1246) (a87f36c)
+
 ## dev-20260930_1744 — 2026-09-30
 
 - #1104 V4: Html branding in the analytics view (#1245) (88699c0)
