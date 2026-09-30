@@ -1,3 +1,7 @@
+## dev-20260930_1605 — 2026-09-30
+
+- Add v3.2.0 What's New entry and test that it tracks the release version (#1243) (3c82054)
+
 ## dev-20260930_1554 — 2026-09-30
 
 - #1104 V2: Html branding in the remaining small views (Part of #1104) (#1242) (e8d8078)
