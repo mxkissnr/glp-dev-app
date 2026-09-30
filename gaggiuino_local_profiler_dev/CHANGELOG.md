@@ -1,3 +1,12 @@
+## dev-20260930_2024 — 2026-09-30
+
+- Merge pull request #1265 from mxkissnr/ppops/1200-p2a-remove-the-never-publ-1790798274 (541bbbe)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-p2a-remove-the-never-publ-1790798274 (d2d287b)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-p2a-remove-the-never-publ-1790798274 (00a5c67)
+- Part of #1200: drop the CHANGELOG entry for the internal-only change (ca413fc)
+- Part of #1200: add CHANGELOG entry for the SSE sync event constant removal (ed61839)
+- Part of #1200: remove the never-published SSE sync event constants (Go side) (cad1839)
+
 ## dev-20260930_2017 — 2026-09-30
 
 - Merge pull request #1264 from mxkissnr/ppops/1262-upgrade-typescript-to-603-1790798066 (362f2af)
