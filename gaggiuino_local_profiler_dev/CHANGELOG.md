@@ -1,3 +1,18 @@
+## dev-20260930_1931 — 2026-09-30
+
+- Merge pull request #1258 from mxkissnr/ppops/1104-l1-eslint-error-rule-for-1790794057 (ff5363a)
+- Merge branch 'dev' into ppops/1104-l1-eslint-error-rule-for-1790794057 (1023064)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1104-l1-eslint-error-rule-for-1790794057 (186292f)
+- #1104 L1: cover the sink shapes the review named in the fixture (69622d6)
+- #1104 L1: fix the html-sink test's marker matching and simplify the rule (4a543d1)
+- #1104 L1: lint the fixture through the real ESLint config in the rule test (fc3ced3)
+- #1104 L1: declare node:module in the test builtins shim (bc6238a)
+- #1104 L1: load the test's TS parser without a static dependency edge (4d88ca1)
+- #1104 L1: add the typed html-sink lint rule test and fixture (bdaa7f4)
+- #1104 L1: type-check the Html brand at innerHTML sinks instead of matching syntax (efe8c04)
+- #1104 L1: add CHANGELOG entry for the innerHTML lint rule (4ae4961)
+- #1104 L1: reject unescaped innerHTML/outerHTML/insertAdjacentHTML in ESLint (f03d48e)
+
 ## dev-20260930_1924 — 2026-09-30
 
 - Merge pull request #1257 from mxkissnr/ppops/1105-n6-fix-the-last-five-src-1790795382 (7d31b59)
