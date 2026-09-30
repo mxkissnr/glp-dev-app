@@ -1,3 +1,7 @@
+## dev-20260930_1554 — 2026-09-30
+
+- #1104 V2: Html branding in the remaining small views (Part of #1104) (#1242) (e8d8078)
+
 ## dev-20260930_1523 — 2026-09-30
 
 - #1104 V1: Html branding in library sub-views and profile editors (#1238) (eabd387)
