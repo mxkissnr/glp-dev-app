@@ -1,3 +1,7 @@
+## dev-20260930_1829 — 2026-09-30
+
+- #1105 N3: noUncheckedIndexedAccess in image-crop, grind, score, shots,… (#1249) (96e6457)
+
 ## dev-20260930_1813 — 2026-09-30
 
 - #1104 V6: Html branding in library.ts and annotation.ts, drop… (#1248) (5ffb5d5)
