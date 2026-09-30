@@ -1,3 +1,7 @@
+## dev-20260930_1744 — 2026-09-30
+
+- #1104 V4: Html branding in the analytics view (#1245) (88699c0)
+
 ## dev-20260930_1729 — 2026-09-30
 
 - #1104 V3: Html branding in orders, dial-in wizard and machine settings (#1244) (30db2d2)
