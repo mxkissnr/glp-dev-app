@@ -1,3 +1,12 @@
+## dev-20260930_1850 — 2026-09-30
+
+- Merge pull request #1252 from mxkissnr/ppops/1105-t1-nouncheckedindexedacce-1790792858 (3ee9bbf)
+- Merge branch 'dev' into ppops/1105-t1-nouncheckedindexedacce-1790792858 (f1c3f60)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1105-t1-nouncheckedindexedacce-1790792858 (05d197c)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1105-t1-nouncheckedindexedacce-1790792858 (32233b3)
+- Part of #1105: noUncheckedIndexedAccess in the other four test files (T1) (0db1daf)
+- Part of #1105: noUncheckedIndexedAccess in four test files (T1) (b6b9ba0)
+
 ## dev-20260930_1843 — 2026-09-30
 
 - #1105 N5: noUncheckedIndexedAccess in the last seven small src files… (#1251) (5dd0cd2)
