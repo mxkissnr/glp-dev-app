@@ -1,3 +1,7 @@
+## dev-20260930_0601 — 2026-09-30
+
+- chore(ts): drop avoidable "as unknown as" casts in library/live/shot-defaults (#1235) (bae9b83)
+
 ## dev-20260930_0555 — 2026-09-30
 
 - chore: brand innerHTML assignments in components/ with Html (first slice) (#1236) (abbfceb)
