@@ -1,3 +1,7 @@
+## dev-20260930_1836 — 2026-09-30
+
+- #1105 N4: noUncheckedIndexedAccess in eight small src files (Part of… (#1250) (85d4d0b)
+
 ## dev-20260930_1829 — 2026-09-30
 
 - #1105 N3: noUncheckedIndexedAccess in image-crop, grind, score, shots,… (#1249) (96e6457)
