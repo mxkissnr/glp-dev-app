@@ -1,3 +1,23 @@
+## dev-20260930_1959 — 2026-09-30
+
+- Merge pull request #1263 from mxkissnr/ppops/c4-remove-the-last-domain-type-1790797467 (dd3ce3a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/c4-remove-the-last-domain-type-1790797467 (8b6c216)
+- changelog: drop the cast-cleanup note to match the plan (Part of #1102) (1922a53)
+- changelog: note the last unknown-cast cleanups (Part of #1102) (0ff15c2)
+- Merge pull request #1261 from mxkissnr/ppops/d1-update-claudemd-and-docs-fo-1790796520 (3a52cb7)
+- views: type bean lookups with the API Bean; drop the timer cast (Part of #1102) (7c4868f)
+- shots: drop as-unknown-as casts in the library lookup and annotation save (Part of #1102) (7bae91e)
+- state: type machine power state and registry with the API shapes (Part of #1102) (93752f6)
+- docs: plan-named whats-new.ts needs no edit; DOCS references already point at it (004418e)
+- Merge branch 'dev' into ppops/d1-update-claudemd-and-docs-fo-1790796520 (674de86)
+- Part of #1102 (668bc47)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/d1-update-claudemd-and-docs-fo-1790796520 (357ac32)
+- docs: point the last five frontend `.js` references at their `.ts` files (237d033)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/d1-update-claudemd-and-docs-fo-1790796520 (88fd143)
+- docs: spell out the service-worker path in the frontend bullet (27d3068)
+- docs: name the service worker by its real source path in CLAUDE.md (9daeaad)
+- docs: align CLAUDE.md and CONTRIBUTING.md with the TypeScript frontend (e0499cb)
+
 ## dev-20260930_1943 — 2026-09-30
 
 - Merge pull request #1260 from mxkissnr/ppops/c3-remove-as-unknown-as-casts-1790796004 (7c39e4a)
