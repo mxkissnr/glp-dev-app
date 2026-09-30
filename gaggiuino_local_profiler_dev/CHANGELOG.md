@@ -1,3 +1,7 @@
+## dev-20260930_1523 — 2026-09-30
+
+- #1104 V1: Html branding in library sub-views and profile editors (#1238) (eabd387)
+
 ## dev-20260930_1503 — 2026-09-30
 
 - TS cleanup C1: remove avoidable as-unknown-as casts (Part of #1105) (#1237) (44a98c7)
