@@ -1,3 +1,15 @@
+## dev-20260930_2033 — 2026-09-30
+
+- Merge pull request #1266 from mxkissnr/ppops/1200-p2b-remove-the-dead-front-1790798514 (8b4a2b0)
+- Part of #1200: add the CHANGELOG entry and note the Go scope (fee68ab)
+- Part of #1200: drop the polling half of the dead sync progress bar (30cc297)
+- Merge branch 'dev' into ppops/1200-p2b-remove-the-dead-front-1790798514 (5d4f6e7)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-p2b-remove-the-dead-front-1790798514 (6831e9f)
+- test: raise the style-css-parses scan budget above vitest default (Part of #1200) (7e0717f)
+- Drop the CHANGELOG entry for the sync-cleanup slice (Part of #1200) (e529c3d)
+- Add the CHANGELOG note and document the Go scope for the sync-cleanup slice (Part of #1200) (ef550c4)
+- Remove the dead frontend sync-event handlers and the legacy sync progress bar (Part of #1200) (d623319)
+
 ## dev-20260930_2024 — 2026-09-30
 
 - Merge pull request #1265 from mxkissnr/ppops/1200-p2a-remove-the-never-publ-1790798274 (541bbbe)
