@@ -1,3 +1,10 @@
+## dev-20260930_1857 — 2026-09-30
+
+- Merge pull request #1253 from mxkissnr/ppops/1105-t2-nouncheckedindexedacce-1790793079 (f3b8013)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1105-t2-nouncheckedindexedacce-1790793079 (cc259c4)
+- Part of #1105: guard indexed access in remaining four mid-size test files (e4bd5a0)
+- Part of #1105: guard indexed access in four mid-size test files (31c2892)
+
 ## dev-20260930_1850 — 2026-09-30
 
 - Merge pull request #1252 from mxkissnr/ppops/1105-t1-nouncheckedindexedacce-1790792858 (3ee9bbf)
