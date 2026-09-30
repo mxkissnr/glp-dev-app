@@ -1,3 +1,13 @@
+## dev-20260930_2017 — 2026-09-30
+
+- Merge pull request #1264 from mxkissnr/ppops/1262-upgrade-typescript-to-603-1790798066 (362f2af)
+- Part of #1102, for #1262: keep the style.css scan test under its timeout (a5e7fcd)
+- Part of #1102, for #1262 (d9caae8)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1262-upgrade-typescript-to-603-1790798066 (0091dba)
+- Part of #1102, for #1262: drop the CHANGELOG entry (dev tooling only) (33f5211)
+- Part of #1102, for #1262: add CHANGELOG entry for the TypeScript 6 upgrade (9f7f08e)
+- Part of #1102, for #1262: upgrade TypeScript 5.9.3 -> 6.0.3 (0aeebe3)
+
 ## dev-20260930_1959 — 2026-09-30
 
 - Merge pull request #1263 from mxkissnr/ppops/c4-remove-the-last-domain-type-1790797467 (dd3ce3a)
