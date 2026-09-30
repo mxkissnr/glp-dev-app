@@ -1,3 +1,7 @@
+## dev-20260930_1813 — 2026-09-30
+
+- #1104 V6: Html branding in library.ts and annotation.ts, drop… (#1248) (5ffb5d5)
+
 ## dev-20260930_1752 — 2026-09-30
 
 - #1103 S5: sync dev, fix type error, open PR (Part of #1103) (#1247) (bf19e9e)
