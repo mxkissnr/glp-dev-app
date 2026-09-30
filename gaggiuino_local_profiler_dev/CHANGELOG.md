@@ -1,3 +1,11 @@
+## dev-20260930_1936 — 2026-09-30
+
+- Merge pull request #1259 from mxkissnr/ppops/x1-break-the-machines-settings-1790796012 (22f31dd)
+- Merge branch 'dev' into ppops/x1-break-the-machines-settings-1790796012 (eef6de5)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/x1-break-the-machines-settings-1790796012 (514ded4)
+- #1102 X1: CHANGELOG entry for the import-cycle fix (Part of #1102) (5d67f09)
+- #1102 X1: break machines-settings -> status -> setup-wizard import cycle (Part of #1102) (f6173d1)
+
 ## dev-20260930_1931 — 2026-09-30
 
 - Merge pull request #1258 from mxkissnr/ppops/1104-l1-eslint-error-rule-for-1790794057 (ff5363a)
