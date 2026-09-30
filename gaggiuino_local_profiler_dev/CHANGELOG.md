@@ -1,3 +1,14 @@
+## dev-20260930_1943 — 2026-09-30
+
+- Merge pull request #1260 from mxkissnr/ppops/c3-remove-as-unknown-as-casts-1790796004 (7c39e4a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/c3-remove-as-unknown-as-casts-1790796004 (66567fa)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/c3-remove-as-unknown-as-casts-1790796004 (403c7a0)
+- changelog: drop internal cast-cleanup entry (Part of #1102) (683c4b5)
+- docs: add CHANGELOG entry for the cast cleanup (Part of #1102) (b1f25c3)
+- views: drop redundant calcBrewRatio argument cast in dialin-wizard (Part of #1102) (8509400)
+- views: drop remaining as-unknown-as casts in wizard/shot helpers (Part of #1102) (8accb20)
+- library: drop as-unknown-as casts from bags/import/milk/recipes (Part of #1102) (09c7adc)
+
 ## dev-20260930_1936 — 2026-09-30
 
 - Merge pull request #1259 from mxkissnr/ppops/x1-break-the-machines-settings-1790796012 (22f31dd)
