@@ -1,3 +1,7 @@
+## dev-20260930_0528 — 2026-09-30
+
+- OpenAPI route contract test without reflect/unsafe (Part of #1103,… (#1232) (e40f6fe)
+
 ## dev-20260929_1648 — 2026-09-29
 
 - TypeScript migration: port the coffee library view (library.js) to TS (#1231) (f5eb784)
