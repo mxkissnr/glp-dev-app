@@ -1,3 +1,11 @@
+## dev-20261001_1459 — 2026-10-01
+
+- Merge pull request #1268 from mxkissnr/ppops/1200-p2c-drop-i18n-keys-and-op-1790865997 (148b1bb)
+- Part of #1200: drop the CHANGELOG entry for this internal cleanup (38d0446)
+- Part of #1200: note why go/cmd/server/main.go stays untouched (df67780)
+- Part of #1200: drop the syncProgress field from the API description (2fee7a4)
+- Part of #1200: drop the orphaned shot-import progress i18n keys (0983906)
+
 ## dev-20260930_2033 — 2026-09-30
 
 - Merge pull request #1266 from mxkissnr/ppops/1200-p2b-remove-the-dead-front-1790798514 (8b4a2b0)
