@@ -1,3 +1,17 @@
+## dev-20261001_1612 — 2026-10-01
+
+- Merge pull request #1276 from mxkissnr/ppops/1267-kb-the-ordering-kiosk-as-1790869612 (a475ed0)
+- Part of #1267: keep the kiosk fix scoped to kiosk.css and its test (c0a1dcd)
+- Part of #1267: document why machines-settings.ts is out of scope for the kiosk fix (972d06a)
+- Part of #1267: add CHANGELOG entry for the kiosk light-theme fix (c8720e9)
+- Part of #1267: fix kiosk light-theme accent contrast and drink-grid sizing (467e69a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1267-kb-the-ordering-kiosk-as-1790869612 (2ccbcb9)
+- Part of #1267: document the plan's reused modules as out of scope (d754ae5)
+- Part of #1267: read the kiosk theme without a useless reassignment (8b7fdd4)
+- Part of #1267: keep e-ink disabled buttons distinguishable (a92e69d)
+- Part of #1267: kiosk helper tests, token-contrast path, CHANGELOG (31bb2d6)
+- Part of #1267: move design tokens to tokens.css and port the kiosk page (23181e9)
+
 ## dev-20261001_1554 — 2026-10-01
 
 - Merge pull request #1274 from mxkissnr/ppops/1273-c1-annotation-writes-merg-1790868790 (35beb72)
