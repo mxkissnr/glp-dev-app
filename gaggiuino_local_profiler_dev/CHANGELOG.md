@@ -1,3 +1,16 @@
+## dev-20261001_1906 — 2026-10-01
+
+- Merge pull request #1291 from mxkissnr/ppops/1288-m1-mcp-settings-in-the-ap-1790880070 (3616f3f)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1288-m1-mcp-settings-in-the-ap-1790880070 (d36e200)
+- Part of #1288 (7a72202)
+- Part of #1288 (f377745)
+- Part of #1288 (44e3b1c)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1288-m1-mcp-settings-in-the-ap-1790880070 (e9f7763)
+- Part of #1288: drop the CHANGELOG entry per review (c6ed3ed)
+- Part of #1288: cite the plan's reference files, none of which need edits (b55f00a)
+- Part of #1288: mount MCP unconditionally and expose its settings API (cdb1ecb)
+- Part of #1288: store MCP settings in the app database (0a6287b)
+
 ## dev-20261001_1857 — 2026-10-01
 
 - Merge pull request #1290 from mxkissnr/ppops/1286-r1-unlock-the-profile-bad-1790879178 (10a22ee)

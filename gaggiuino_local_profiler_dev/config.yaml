@@ -4,7 +4,7 @@ name: "GLP DEV — Gaggiuino Local Profiler (unstable)"
 # this value changes, so it must be unique per build -- it is NOT the app's
 # own semantic version (that still lives in the main repo's config.yaml and
 # lib/constants.js).
-version: "dev-20261001_1857"
+version: "dev-20261001_1906"
 slug: "gaggiuino_local_profiler_dev"
 description: "UNSTABLE dev builds of GLP, for maintainer testing only. Runs alongside the stable app with its own database. Not for end users."
 url: "https://github.com/mxkissnr/glp-dev-app"
@@ -45,19 +45,6 @@ options:
   preheat_time: 20
   enable_orders: false
   debug_logging: true
-  # #1196: serve a Model Context Protocol endpoint at /api/mcp so AI
-  # assistants can read shot history, curves, the bean library, maintenance
-  # and analytics; off by default, and it never controls the machine.
-  enable_mcp: false
-  # #1196: additionally register the MCP write tools (annotate_shot,
-  # set_known_grind, mark_maintenance_done), which change your data; only
-  # takes effect together with enable_mcp.
-  enable_mcp_write: false
-  # #1196: additionally register the MCP developer tools (get_shot_raw,
-  # explain_score, export_shots_dataset, get_diagnostics,
-  # get_preheat_history), which return larger outputs; only takes effect
-  # together with enable_mcp.
-  enable_mcp_developer_tools: false
   # #803: default true (open) so no existing install's behaviour changes on
   # upgrade -- see lib/data.js's isApiPortExposed() and routes/system.js's
   # GET /api/token. Turning this off returns 403 from that one endpoint for
@@ -76,7 +63,4 @@ schema:
   preheat_time: int(1,120)?
   enable_orders: bool?
   debug_logging: bool?
-  enable_mcp: bool?
-  enable_mcp_write: bool?
-  enable_mcp_developer_tools: bool?
   expose_api_port: bool?
