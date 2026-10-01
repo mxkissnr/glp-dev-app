@@ -1,3 +1,8 @@
+## dev-20261001_1804 — 2026-10-01
+
+- Merge pull request #1282 from mxkissnr/cleanup/1200-workflows-drop-templ (10c5d9e)
+- Drop the templ codegen steps from CI (5f16d2e)
+
 ## dev-20261001_1759 — 2026-10-01
 
 - Merge pull request #1281 from mxkissnr/ppops/1270-c1-port-viteconfigjs-and-1790872696 (16f933b)
