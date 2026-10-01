@@ -1,3 +1,15 @@
+## dev-20261001_1640 — 2026-10-01
+
+- Merge pull request #1279 from mxkissnr/ppops/1200-part-1-u1-stop-serving-th-1790872003 (c6648c3)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-1-u1-stop-serving-th-1790872003 (26c6091)
+- Part of #1200: update the smoke checks and changelog for the removed /ui/ pages (88bffdb)
+- Part of #1200: correct the webapp route comments now that /ui/ is gone (bad046b)
+- Part of #1200: stop serving the frozen /ui/ templ pages (ae7aed3)
+- Merge pull request #1278 from mxkissnr/ppops/1267-kc2-docs-for-the-rebuilt-1790871120 (24d9e95)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1267-kc2-docs-for-the-rebuilt-1790871120 (d9b6e91)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1267-kc2-docs-for-the-rebuilt-1790871120 (6dbb627)
+- Part of #1267: document the rebuilt kiosk page (d157833)
+
 ## dev-20261001_1618 — 2026-10-01
 
 - Merge pull request #1277 from mxkissnr/ppops/1267-kc1-uikiosk-redirects-to-1790870601 (13aa294)
