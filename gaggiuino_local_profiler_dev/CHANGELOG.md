@@ -1,3 +1,11 @@
+## dev-20261001_1911 — 2026-10-01
+
+- Merge pull request #1292 from mxkissnr/ppops/1286-r2-unlock-the-backup-and-1790881032 (0f4e478)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1286-r2-unlock-the-backup-and-1790881032 (437fba2)
+- Part of #1286 (88a6586)
+- Part of #1286 (c56f0c6)
+- Part of #1286 (c068663)
+
 ## dev-20261001_1906 — 2026-10-01
 
 - Merge pull request #1291 from mxkissnr/ppops/1288-m1-mcp-settings-in-the-ap-1790880070 (3616f3f)
