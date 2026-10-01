@@ -1,3 +1,13 @@
+## dev-20261001_1554 — 2026-10-01
+
+- Merge pull request #1274 from mxkissnr/ppops/1273-c1-annotation-writes-merg-1790868790 (35beb72)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1273-c1-annotation-writes-merg-1790868790 (9f74ade)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1273-c1-annotation-writes-merg-1790868790 (b3511ce)
+- Part of #1273: note the library writeMu pattern as the lock donor (3355bce)
+- Part of #1273: document annotate merge semantics in the API types (9b3c18e)
+- Part of #1273: add annotation patch/merge tests (5d17018)
+- Part of #1273: merge annotation patches instead of replacing (326a2e7)
+
 ## dev-20261001_1548 — 2026-10-01
 
 - Merge pull request #1275 from mxkissnr/ppops/1267-kt-kiosk-translation-keys-1790868950 (c795eba)
