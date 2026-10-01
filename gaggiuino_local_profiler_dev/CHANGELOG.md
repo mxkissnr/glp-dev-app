@@ -1,3 +1,11 @@
+## dev-20261001_1618 — 2026-10-01
+
+- Merge pull request #1277 from mxkissnr/ppops/1267-kc1-uikiosk-redirects-to-1790870601 (13aa294)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1267-kc1-uikiosk-redirects-to-1790870601 (691e8e7)
+- Add /ui/kiosk redirect check to the smoke script (e7e4aa1)
+- Assert the /ui/kiosk redirect in the ingress smoke test (3da617b)
+- Redirect /ui/kiosk to the built kiosk page; drop the old standalone one (4510be7)
+
 ## dev-20261001_1612 — 2026-10-01
 
 - Merge pull request #1276 from mxkissnr/ppops/1267-kb-the-ordering-kiosk-as-1790869612 (a475ed0)
