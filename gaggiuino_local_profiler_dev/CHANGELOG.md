@@ -1,3 +1,9 @@
+## dev-20261001_1522 — 2026-10-01
+
+- Merge pull request #1271 from mxkissnr/ppops/1270-a1-record-go--typescript-1790867144 (88cae83)
+- Part of #1270: allowlist entries are deferred ports, not files this slice changes (82b6331)
+- Part of #1270: record the Go + TypeScript only rule and enforce it with an allowlist test (ab7ccb4)
+
 ## dev-20261001_1459 — 2026-10-01
 
 - Merge pull request #1268 from mxkissnr/ppops/1200-p2c-drop-i18n-keys-and-op-1790865997 (148b1bb)
