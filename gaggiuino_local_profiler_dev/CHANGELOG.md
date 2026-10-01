@@ -1,3 +1,12 @@
+## dev-20261001_1830 — 2026-10-01
+
+- Merge pull request #1287 from mxkissnr/ppops/1200-u4-delete-go-code-that-on-1790878686 (2838dde)
+- Revert the CHANGELOG entry per review (plan scopes this to 8 files, no CHANGELOG) (57c49a0)
+- Add CHANGELOG entry for removed /ui/-only Go code (d8df094)
+- Point shots paging comments/tests at GetPage after GetRecent removal (50953e8)
+- Remove shots.ComputeGrindAdvice and GetRecent/GetRecentTrash dead code (00b40b4)
+- Remove machines/orders validators only the removed /ui/ pages called (af6562e)
+
 ## dev-20261001_1816 — 2026-10-01
 
 - Merge pull request #1284 from mxkissnr/ppops/1200-part-1-u3a-remove-the-tem-1790877566 (a86c023)
