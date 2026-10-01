@@ -1,3 +1,10 @@
+## dev-20261001_1844 — 2026-10-01
+
+- Merge pull request #1289 from mxkissnr/ppops/1285-d1-delete-go-functions-th-1790879473 (c7d8326)
+- Revert the CHANGELOG entry per review (bfb7aa4)
+- Add CHANGELOG entry for the removed dead Go helpers (2d6782b)
+- #1285 D1: delete Go functions that nothing calls, not even tests (5d7aea2)
+
 ## dev-20261001_1830 — 2026-10-01
 
 - Merge pull request #1287 from mxkissnr/ppops/1200-u4-delete-go-code-that-on-1790878686 (2838dde)
