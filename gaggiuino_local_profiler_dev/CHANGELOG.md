@@ -1,3 +1,12 @@
+## dev-20261001_1919 — 2026-10-01
+
+- Merge pull request #1293 from mxkissnr/ppops/1288-m2a-mcp-settings-card-in-1790881712 (2082b29)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1288-m2a-mcp-settings-card-in-1790881712 (fdc183a)
+- Part of #1288: document that the MCP schemas come from the generated schema.gen.ts (f77307e)
+- Part of #1288: test the MCP settings card and update the changelog (baa5fc7)
+- Part of #1288: add the MCP settings card and wire it into Settings (7b654f9)
+- Part of #1288: add MCP settings API client (63c6394)
+
 ## dev-20261001_1911 — 2026-10-01
 
 - Merge pull request #1292 from mxkissnr/ppops/1286-r2-unlock-the-backup-and-1790881032 (0f4e478)
