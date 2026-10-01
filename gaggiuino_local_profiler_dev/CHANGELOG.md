@@ -1,3 +1,14 @@
+## dev-20261001_1857 — 2026-10-01
+
+- Merge pull request #1290 from mxkissnr/ppops/1286-r1-unlock-the-profile-bad-1790879178 (10a22ee)
+- Revert the internal-only CHANGELOG entry per review (9c14093)
+- Add CHANGELOG entry for the removed registry comment (720ae33)
+- Part of #1286 (51ab8e5)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1286-r1-unlock-the-profile-bad-1790879178 (014c60c)
+- Document why the profile badge predicates in registry.go are unchanged (dd12007)
+- chore: gofmt auto-fix (ppops-harvest) (8945922)
+- Unlock the First Profile and Tinkerer badges again (cd46abb)
+
 ## dev-20261001_1844 — 2026-10-01
 
 - Merge pull request #1289 from mxkissnr/ppops/1285-d1-delete-go-functions-th-1790879473 (c7d8326)
