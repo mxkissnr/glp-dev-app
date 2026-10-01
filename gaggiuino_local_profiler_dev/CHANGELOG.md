@@ -1,3 +1,12 @@
+## dev-20261001_1926 — 2026-10-01
+
+- Merge pull request #1294 from mxkissnr/ppops/1288-m2b-document-the-mcp-sett-1790881764 (37b265f)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1288-m2b-document-the-mcp-sett-1790881764 (6620a9a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1288-m2b-document-the-mcp-sett-1790881764 (e8a0cd3)
+- Part of #1288 (afeb23b)
+- Part of #1288 (6eb849e)
+- Part of #1288 (1834537)
+
 ## dev-20261001_1919 — 2026-10-01
 
 - Merge pull request #1293 from mxkissnr/ppops/1288-m2a-mcp-settings-card-in-1790881712 (2082b29)
