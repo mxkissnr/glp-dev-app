@@ -1,3 +1,13 @@
+## dev-20261001_1811 — 2026-10-01
+
+- Merge pull request #1283 from mxkissnr/ppops/1200-part-1-u3b-remove-the-orp-1790877174 (1ea0b50)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-1-u3b-remove-the-orp-1790877174 (98b550f)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-1-u3b-remove-the-orp-1790877174 (ea03b9b)
+- Revert the CHANGELOG entry (0e9957b)
+- Add CHANGELOG entry; note main.go and README scope (b9a4a8f)
+- Remove the orphaned orders-update SSE event and HTML payload (4a9a464)
+- Remove the orphaned orders OnQueueChanged hook (7380d12)
+
 ## dev-20261001_1804 — 2026-10-01
 
 - Merge pull request #1282 from mxkissnr/cleanup/1200-workflows-drop-templ (10c5d9e)
