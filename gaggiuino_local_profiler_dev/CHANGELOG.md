@@ -1,3 +1,12 @@
+## dev-20261001_1535 — 2026-10-01
+
+- Merge pull request #1272 from mxkissnr/ppops/1267-ka-second-frontend-entry-1790867612 (4086f56)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1267-ka-second-frontend-entry-1790867612 (6882521)
+- Part of #1267: drop the CHANGELOG entry — build-only, not user-visible (ce75474)
+- Part of #1267: add the CHANGELOG entry and record the three untouched plan files (ee8792f)
+- Part of #1267: add the kiosk page and register it with Vite (58336de)
+- Part of #1267: build kiosk.html as a second frontend entry point (15d573c)
+
 ## dev-20261001_1522 — 2026-10-01
 
 - Merge pull request #1271 from mxkissnr/ppops/1270-a1-record-go--typescript-1790867144 (88cae83)
