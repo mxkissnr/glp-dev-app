@@ -1,3 +1,9 @@
+## dev-20261001_1750 — 2026-10-01
+
+- Merge pull request #1280 from mxkissnr/cleanup/1200-u2-delete-internal-web (8f7cc53)
+- Drop the templ generate step from the E2E harness (2dc4b2c)
+- Delete the unused internal/web package (29ed82b)
+
 ## dev-20261001_1640 — 2026-10-01
 
 - Merge pull request #1279 from mxkissnr/ppops/1200-part-1-u1-stop-serving-th-1790872003 (c6648c3)
