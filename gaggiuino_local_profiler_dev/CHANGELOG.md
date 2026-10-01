@@ -1,3 +1,10 @@
+## dev-20261001_1548 — 2026-10-01
+
+- Merge pull request #1275 from mxkissnr/ppops/1267-kt-kiosk-translation-keys-1790868950 (c795eba)
+- Part of #1267: drop the CHANGELOG entry for the kiosk keys (0ea3c58)
+- Part of #1267: add CHANGELOG entry for the kiosk translation keys (48a0854)
+- Part of #1267: add kiosk translation keys in all 6 languages (f9630bb)
+
 ## dev-20261001_1535 — 2026-10-01
 
 - Merge pull request #1272 from mxkissnr/ppops/1267-ka-second-frontend-entry-1790867612 (4086f56)
