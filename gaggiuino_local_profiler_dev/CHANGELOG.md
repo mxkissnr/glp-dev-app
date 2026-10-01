@@ -1,3 +1,12 @@
+## dev-20261001_1816 — 2026-10-01
+
+- Merge pull request #1284 from mxkissnr/ppops/1200-part-1-u3a-remove-the-tem-1790877566 (a86c023)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-1-u3a-remove-the-tem-1790877566 (64702be)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-1-u3a-remove-the-tem-1790877566 (41a495e)
+- Revert the CHANGELOG entry for the templ toolchain removal (6a3e24c)
+- Add CHANGELOG entry for the templ toolchain removal (20e5e1e)
+- Remove the dead templ toolchain and /ui/ docs (4f7bd34)
+
 ## dev-20261001_1811 — 2026-10-01
 
 - Merge pull request #1283 from mxkissnr/ppops/1200-part-1-u3b-remove-the-orp-1790877174 (1ea0b50)
