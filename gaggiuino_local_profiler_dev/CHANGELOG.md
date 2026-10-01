@@ -1,3 +1,15 @@
+## dev-20261001_1759 — 2026-10-01
+
+- Merge pull request #1281 from mxkissnr/ppops/1270-c1-port-viteconfigjs-and-1790872696 (16f933b)
+- Merge branch 'dev' into ppops/1270-c1-port-viteconfigjs-and-1790872696 (3db1cc2)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1270-c1-port-viteconfigjs-and-1790872696 (ac0a257)
+- Part of #1270: scope notes for the process review (no file changes) (4732d5c)
+- Part of #1270: drop the CHANGELOG hunk per review (2a77bd3)
+- Part of #1270: changelog the config port; scope #1200 U1 files out (26fc3d2)
+- Part of #1270: declare node:fs cpSync/existsSync for the ported vite config (9b74dbe)
+- Part of #1270: lint ported build configs and update references (b3d1324)
+- Part of #1270: port vite.config.js and vitest.config.js to TypeScript (6aaec28)
+
 ## dev-20261001_1750 — 2026-10-01
 
 - Merge pull request #1280 from mxkissnr/cleanup/1200-u2-delete-internal-web (8f7cc53)
