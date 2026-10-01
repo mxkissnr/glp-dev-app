@@ -1,3 +1,8 @@
+## dev-20261001_1954 — 2026-10-01
+
+- Merge pull request #1295 from mxkissnr/chore/1200-p3a-internal-web-comments (acc22e0)
+- Remove stale internal/web references from comments (0f728d4)
+
 ## dev-20261001_1926 — 2026-10-01
 
 - Merge pull request #1294 from mxkissnr/ppops/1288-m2b-document-the-mcp-sett-1790881764 (37b265f)
