@@ -1,3 +1,16 @@
+## dev-20261002_1539 — 2026-10-02
+
+- Merge pull request #1305 from mxkissnr/ppops/1200-part-3b-9-remove-node-era-1790953783 (798bf08)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-9-remove-node-era-1790953783 (778139a)
+- Drop CHANGELOG entry for the OpenAPI description fix (b00ce77)
+- Add CHANGELOG entry for the OpenAPI description fix (e8d68d1)
+- Fix openapi.yaml descriptions to match generated API types (3614b8a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-9-remove-node-era-1790953783 (7de7db5)
+- Tidy stale JS file names in backup-modal markup test comments (5b9e9bc)
+- Remove Node-era comments from views and their tests (8a7c96a)
+- Remove Node-era comments from i18n, machine icon and shared modules (db77cb4)
+- Remove Node-era comments from frontend components and schema (bd345f0)
+
 ## dev-20261002_1523 — 2026-10-02
 
 - Merge pull request #1304 from mxkissnr/ppops/1200-part-3b-8-remove-node-era-1790953546 (c089107)
