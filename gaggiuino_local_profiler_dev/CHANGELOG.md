@@ -1,3 +1,8 @@
+## dev-20261002_1640 — 2026-10-02
+
+- Merge pull request #1310 from mxkissnr/ci/deadcode-gate-1285 (a57c950)
+- ci: fail on unreachable Go functions (deadcode gate) (55ec7d4)
+
 ## dev-20261002_1635 — 2026-10-02
 
 - Merge pull request #1309 from mxkissnr/ppops/remove-test-only-dead-go-funct-1790958146 (2a44904)
