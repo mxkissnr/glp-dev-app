@@ -1,3 +1,15 @@
+## dev-20261002_1523 — 2026-10-02
+
+- Merge pull request #1304 from mxkissnr/ppops/1200-part-3b-8-remove-node-era-1790953546 (c089107)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-8-remove-node-era-1790953546 (af6fa6d)
+- Remove Node-era comments from debug package (33420fe)
+- Remove Node-era comments from mqtt package (37dc7dc)
+- Remove Node-era comments from auth package docs and helpers (d70dfd4)
+- Remove Node-era comments from maintenance handlers, repository and service (9495e2c)
+- Remove Node-era comments from maintenance docs, model and service test (ac614f4)
+- Remove Node-era comments from orders handlers and their tests (4809353)
+- Remove Node-era comments from orders doc, tests and options (5ea6877)
+
 ## dev-20261002_1517 — 2026-10-02
 
 - Merge pull request #1302 from mxkissnr/ppops/1200-part-3b-6-remove-node-era-1790952494 (0a75e2a)
