@@ -1,3 +1,15 @@
+## dev-20261002_1517 — 2026-10-02
+
+- Merge pull request #1302 from mxkissnr/ppops/1200-part-3b-6-remove-node-era-1790952494 (0a75e2a)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-6-remove-node-era-1790952494 (2f406b0)
+- Tidy remaining reference-implementation mention in proto wire decoder (f139d6d)
+- Remove Node-era comments from the proto wire package (239b70b)
+- Remove Node-era comments from machines adapters, live and WS clients (59652ce)
+- Remove Node-era comments from machines doc and GaggiMate adapters (0e72291)
+- Remove Node-era comments from machines control and profile handlers (8011db5)
+- Remove Node-era comments from machines registry, firmware check and handlers (90946b3)
+- Remove Node-era comments from machines model, adapter, ssrf and validation (5d19cee)
+
 ## dev-20261002_1512 — 2026-10-02
 
 - Merge pull request #1301 from mxkissnr/ppops/1200-part-3b-7-remove-node-era-1790952868 (1074680)
