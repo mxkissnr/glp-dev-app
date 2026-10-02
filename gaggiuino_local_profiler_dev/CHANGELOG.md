@@ -1,3 +1,7 @@
+## dev-20261002_2002 — 2026-10-02
+
+- Part of #1241: acceptance protocol format and release-check gate (#1314) (2443ee6)
+
 ## dev-20261002_1830 — 2026-10-02
 
 - ci: watch GaggiMate and Gaggiuino for upstream firmware and API changes (#1313) (55239fd)
