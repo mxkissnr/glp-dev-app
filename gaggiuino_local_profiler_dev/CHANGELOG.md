@@ -1,3 +1,10 @@
+## dev-20261002_1635 — 2026-10-02
+
+- Merge pull request #1309 from mxkissnr/ppops/remove-test-only-dead-go-funct-1790958146 (2a44904)
+- #1285 D2: record why internal/machines/proto/messages.go is untouched (052405c)
+- #1285 D2: delete test-only dead Go functions with no reachable callers (26861ca)
+- #1285 D2: move test-only Go helpers into _test.go files (62468a2)
+
 ## dev-20261002_1619 — 2026-10-02
 
 - Merge pull request #1308 from mxkissnr/ppops/gaggimate-v190-merge-partial-e-1790957171 (31553da)
