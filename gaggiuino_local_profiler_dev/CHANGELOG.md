@@ -1,3 +1,9 @@
+## dev-20261002_1550 — 2026-10-02
+
+- Merge pull request #1306 from mxkissnr/ppops/1200-part-3b-10-remove-the-las-1790955621 (079fd34)
+- Remove Node-era comments from frontend modules and their tests (6a253a9)
+- Remove Node-era comments from ingress, auth, ratelimit and machine tests (2d3f3f0)
+
 ## dev-20261002_1539 — 2026-10-02
 
 - Merge pull request #1305 from mxkissnr/ppops/1200-part-3b-9-remove-node-era-1790953783 (798bf08)
