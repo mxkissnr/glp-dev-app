@@ -1,3 +1,12 @@
+## dev-20261002_1434 — 2026-10-02
+
+- Merge pull request #1296 from mxkissnr/ppops/1200-part-3b-2-remove-node-era-1790950594 (e5abc42)
+- Revert the CHANGELOG entry: comment-only cleanup is not user-visible (6f4b094)
+- Add CHANGELOG entry for the Node-era comment cleanup (0db809a)
+- Remove Node-era comments from ha and cmd packages (2351e4f)
+- Remove Node-era comments from db package (6bcdc5e)
+- Remove Node-era comments from achievements package (e358bf2)
+
 ## dev-20261001_1954 — 2026-10-01
 
 - Merge pull request #1295 from mxkissnr/chore/1200-p3a-internal-web-comments (acc22e0)
