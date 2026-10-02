@@ -1,3 +1,7 @@
+## dev-20261002_2023 — 2026-10-02
+
+- ci: build and smoke-test the browser demo in PR CI (#1316) (cf953d1)
+
 ## dev-20261002_2017 — 2026-10-02
 
 - fix(demo-fixtures): allow the loopback range in the leak check (#1318) (98c8687)
