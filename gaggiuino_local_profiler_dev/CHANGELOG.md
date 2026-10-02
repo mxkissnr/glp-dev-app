@@ -1,3 +1,7 @@
+## dev-20261002_2017 — 2026-10-02
+
+- fix(demo-fixtures): allow the loopback range in the leak check (#1318) (98c8687)
+
 ## dev-20261002_2002 — 2026-10-02
 
 - Part of #1241: acceptance protocol format and release-check gate (#1314) (2443ee6)
