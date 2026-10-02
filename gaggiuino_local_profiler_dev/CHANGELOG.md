@@ -1,3 +1,7 @@
+## dev-20261002_1830 — 2026-10-02
+
+- ci: watch GaggiMate and Gaggiuino for upstream firmware and API changes (#1313) (55239fd)
+
 ## dev-20261002_1640 — 2026-10-02
 
 - Merge pull request #1310 from mxkissnr/ci/deadcode-gate-1285 (a57c950)
