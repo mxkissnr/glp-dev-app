@@ -1,3 +1,14 @@
+## dev-20261002_1501 — 2026-10-02
+
+- Merge pull request #1300 from mxkissnr/ppops/1200-part-3b-5-remove-node-era-1790951762 (bc536c6)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-5-remove-node-era-1790951762 (ca0b66d)
+- Reword Upsert machineId fallback comment without migration and JS wording (3bb3273)
+- Remove Node-era comments from remaining shots tests and palette (ffae683)
+- Remove Node-era comments from shots HTTP handlers (1118dbd)
+- Remove Node-era comments from shots service, repository and validation (b0ede5f)
+- Remove Node-era comments from shots model and score (06d06c1)
+- Remove Node-era comments from shots card renderer and metrics (0f2b63b)
+
 ## dev-20261002_1450 — 2026-10-02
 
 - Merge pull request #1299 from mxkissnr/ppops/1200-part-3b-4-remove-node-era-1790951520 (d9b8abc)
