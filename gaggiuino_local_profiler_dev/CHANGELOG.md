@@ -1,3 +1,13 @@
+## dev-20261002_1512 — 2026-10-02
+
+- Merge pull request #1301 from mxkissnr/ppops/1200-part-3b-7-remove-node-era-1790952868 (1074680)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-7-remove-node-era-1790952868 (38f3bf8)
+- Restore ComputeBeanRemaining signature removed while cleaning comments (f03bb0a)
+- Remove Node-era comments from library sanitize, scan, service, ssrf and update (812732f)
+- Remove Node-era comments from library model, image, orders support and tests (e72b4c1)
+- Remove Node-era comments from library HTTP handlers and geo (2a576ee)
+- Remove Node-era comments from library package docs and create/contract (2ba8cb1)
+
 ## dev-20261002_1501 — 2026-10-02
 
 - Merge pull request #1300 from mxkissnr/ppops/1200-part-3b-5-remove-node-era-1790951762 (bc536c6)
