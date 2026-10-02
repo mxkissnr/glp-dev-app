@@ -1,3 +1,9 @@
+## dev-20261002_1619 — 2026-10-02
+
+- Merge pull request #1308 from mxkissnr/ppops/gaggimate-v190-merge-partial-e-1790957171 (31553da)
+- docs(machines): explain why GaggiMate GetStatus mapping is unchanged (52a75a8)
+- fix(machines): merge partial GaggiMate v1.9.0 evt:status frames (c769798)
+
 ## dev-20261002_1605 — 2026-10-02
 
 - Merge pull request #1307 from mxkissnr/ppops/1200-part-3b-11-last-node-era-1790956283 (20eed05)
