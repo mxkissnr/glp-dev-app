@@ -1,3 +1,24 @@
+## dev-20261002_1450 — 2026-10-02
+
+- Merge pull request #1299 from mxkissnr/ppops/1200-part-3b-4-remove-node-era-1790951520 (d9b8abc)
+- Merge pull request #1298 from mxkissnr/ppops/1200-part-3b-3-remove-node-era-1790951332 (927db38)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-4-remove-node-era-1790951520 (85047df)
+- chore: gofmt auto-fix (ppops-harvest) (a7ef21d)
+- Remove Node-era comments from system polling loop and its tests (019c239)
+- Remove Node-era comments from system sync and sync_triggers (d7bd5c6)
+- Remove Node-era comments from system handlers/helpers tests (d5403c0)
+- Remove Node-era comments from system handlers.go (c56f828)
+- Remove Node-era comments from system options/version/preheat (7e0c887)
+- Remove Node-era comments from system package docs/runtime/status (c559e5e)
+- Remove Node-era comments from system demo/derive/contract tests (d6fb149)
+- Merge remote-tracking branch 'origin/dev' into sync/ppops/1200-part-3b-3-remove-node-era-1790951332 (4058c77)
+- Remove Node-era comments from system constants/switch/openapi (bdb7bcf)
+- Use US spelling in internal/ratelimit doc comment (84be8a0)
+- Remove Node-era comments from internal/httputil and internal/config (bb796db)
+- Remove Node-era comments from internal/netguard and internal/webapp (80fb8dd)
+- Remove Node-era comments from internal/img and internal/ratelimit (a56bcbe)
+- Remove Node-era comments from internal/sse (9990602)
+
 ## dev-20261002_1438 — 2026-10-02
 
 - Merge pull request #1297 from mxkissnr/ppops/1200-part-3b-1-remove-node-era-1790950569 (6f02e33)
