@@ -1,3 +1,11 @@
+## dev-20261002_1605 — 2026-10-02
+
+- Merge pull request #1307 from mxkissnr/ppops/1200-part-3b-11-last-node-era-1790956283 (20eed05)
+- Address review: drop the CHANGELOG entry and reword the proto doc (d01ea10)
+- Add CHANGELOG entry for the Node-era comment cleanup (0428c66)
+- Drop the last Node file references from index.html and tokens.css (1571246)
+- Drop go/RESEARCH.md and its Node-era provenance references (9c8e884)
+
 ## dev-20261002_1550 — 2026-10-02
 
 - Merge pull request #1306 from mxkissnr/ppops/1200-part-3b-10-remove-the-las-1790955621 (079fd34)
