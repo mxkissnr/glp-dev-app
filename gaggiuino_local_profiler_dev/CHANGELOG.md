@@ -1,3 +1,14 @@
+## dev-20261002_1438 — 2026-10-02
+
+- Merge pull request #1297 from mxkissnr/ppops/1200-part-3b-1-remove-node-era-1790950569 (6f02e33)
+- Correct backup atomicity comments to describe per-section transactions (e7a0162)
+- Revert CHANGELOG entry for the comment-only cleanup (0915459)
+- Add CHANGELOG entry for Node-era comment cleanup (8a5c436)
+- Drop remaining Node constant names from importer/backup comments (9babca2)
+- Remove Node-era comments from backup handlers, image, restore and streaming (91b04f3)
+- Remove Node-era comments from backup bundle/crypto/kv/model docs (317e4d9)
+- Remove Node-era comments from importer package (c8f386a)
+
 ## dev-20261002_1434 — 2026-10-02
 
 - Merge pull request #1296 from mxkissnr/ppops/1200-part-3b-2-remove-node-era-1790950594 (e5abc42)
