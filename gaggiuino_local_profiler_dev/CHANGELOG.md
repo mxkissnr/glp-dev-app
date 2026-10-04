@@ -1,3 +1,7 @@
+## dev-20261004_1904 — 2026-10-04
+
+- Bound machine profile writes with a timeout (#1378) (b7c88bb)
+
 ## dev-20261004_1852 — 2026-10-04
 
 - Bean sheet: desktop polish after the flavour wheel review (#1377) (f7585b8)
