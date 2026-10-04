@@ -1,3 +1,7 @@
+## dev-20261004_1611 — 2026-10-04
+
+- Follow-up to #1351: keep the coffee-history easter egg out of the CHANGELOG and docs (#1368) (809bde1)
+
 ## dev-20261004_1604 — 2026-10-04
 
 - Easter egg: coffee history in the 7-tap machine panel (#1366) (2e4bab1)
