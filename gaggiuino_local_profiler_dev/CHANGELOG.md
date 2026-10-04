@@ -1,3 +1,7 @@
+## dev-20261004_1117 — 2026-10-04
+
+- Sticker cut-out slice 3a-2: pinch-zoom and pan in the sticker editor (#1344) (bb97438)
+
 ## dev-20261004_1103 — 2026-10-04
 
 - Sticker cut-out slice 3a: the sticker editor overlay (#1342) (4a0cc58)
