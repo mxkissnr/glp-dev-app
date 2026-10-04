@@ -1,3 +1,7 @@
+## dev-20261004_1938 — 2026-10-04
+
+- Flavour wheel: the centre photo is off-centre in the large view (#1382) (b1da4ff)
+
 ## dev-20261004_1925 — 2026-10-04
 
 - Remember view, filter and sort choices across devices (#1375, #1323) (#1380) (d6e6ada)
