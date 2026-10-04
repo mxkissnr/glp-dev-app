@@ -1,3 +1,7 @@
+## dev-20261004_1418 — 2026-10-04
+
+- Sticker cut-out: run inference in a worker and release model memory (#1353) (cc130af)
+
 ## dev-20261004_1348 — 2026-10-04
 
 - Sticker cut-out: 3:4 crop for bean photos and 3:4 sticker export (#1352) (659b27a)
