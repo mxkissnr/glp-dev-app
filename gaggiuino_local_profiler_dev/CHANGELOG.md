@@ -1,3 +1,7 @@
+## dev-20261004_1925 — 2026-10-04
+
+- Remember view, filter and sort choices across devices (#1375, #1323) (#1380) (d6e6ada)
+
 ## dev-20261004_1919 — 2026-10-04
 
 - Bean sheet on mobile: swipe to close and a growing flavour wheel (#1379) (3532731)
