@@ -1,3 +1,7 @@
+## dev-20261004_1541 — 2026-10-04
+
+- Bean library: single shelf with list toggle, detail sheet, bag stacks (#1363) (7476035)
+
 ## dev-20261004_1538 — 2026-10-04
 
 - fix(frontend): revalidate library and shot photos with cache: 'no-cache' (#1364) (2784126)
