@@ -1,3 +1,7 @@
+## dev-20261004_1919 — 2026-10-04
+
+- Bean sheet on mobile: swipe to close and a growing flavour wheel (#1379) (3532731)
+
 ## dev-20261004_1904 — 2026-10-04
 
 - Bound machine profile writes with a timeout (#1378) (b7c88bb)
