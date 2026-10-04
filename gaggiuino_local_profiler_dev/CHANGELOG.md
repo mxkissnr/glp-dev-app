@@ -1,3 +1,7 @@
+## dev-20261004_1449 — 2026-10-04
+
+- Sticker cut-out: the worker is not bundled in the image build (#1356) (ae65d9d)
+
 ## dev-20261004_1440 — 2026-10-04
 
 - Sticker cut-out: crop shop images to the product before the models run (#1355) (77fb03d)
