@@ -1,3 +1,7 @@
+## dev-20261004_1538 — 2026-10-04
+
+- fix(frontend): revalidate library and shot photos with cache: 'no-cache' (#1364) (2784126)
+
 ## dev-20261004_1532 — 2026-10-04
 
 - Sticker cut-out: show a progress bar while the photo is being cut out (#1362) (7ceede7)
