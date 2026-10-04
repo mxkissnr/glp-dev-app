@@ -1,3 +1,7 @@
+## dev-20261004_1016 — 2026-10-04
+
+- Sticker cut-out slice 1: pure mask and tensor helpers (#1339) (eba8082)
+
 ## dev-20261004_1005 — 2026-10-04
 
 - chore(deps): add onnxruntime-web 1.30.0 for on-device photo cut-out (#1337) (8eb6320)
