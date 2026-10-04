@@ -1,3 +1,7 @@
+## dev-20261004_0912 — 2026-10-04
+
+- Bean library shelf layout with In use, Stock and Empty & archive… (#1334) (ad44bb7)
+
 ## dev-20261004_0851 — 2026-10-04
 
 - UI: remove generic AI-look patterns (flat accents, tokens, no emoji icons) (#1333) (1ad089d)
