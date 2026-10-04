@@ -1,3 +1,7 @@
+## dev-20261004_1135 — 2026-10-04
+
+- Bean photos: on-device background removal to a bag sticker (#1345) (ddfcb08)
+
 ## dev-20261004_1117 — 2026-10-04
 
 - Sticker cut-out slice 3a-2: pinch-zoom and pan in the sticker editor (#1344) (bb97438)
