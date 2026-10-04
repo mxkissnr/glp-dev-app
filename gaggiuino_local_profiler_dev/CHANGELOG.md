@@ -1,3 +1,7 @@
+## dev-20261004_1852 — 2026-10-04
+
+- Bean sheet: desktop polish after the flavour wheel review (#1377) (f7585b8)
+
 ## dev-20261004_1843 — 2026-10-04
 
 - Bean library: reorder opens the shop link, rename the freshest sort (#1376) (87eb653)
