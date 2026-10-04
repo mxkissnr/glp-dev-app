@@ -1,3 +1,7 @@
+## dev-20261004_1005 — 2026-10-04
+
+- chore(deps): add onnxruntime-web 1.30.0 for on-device photo cut-out (#1337) (8eb6320)
+
 ## dev-20261004_0930 — 2026-10-04
 
 - Bean library: shelf search, filter, sort and photo on create (#1335) (5ee7a8b)
