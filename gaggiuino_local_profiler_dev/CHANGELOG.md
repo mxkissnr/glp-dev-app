@@ -1,3 +1,7 @@
+## dev-20261004_1348 — 2026-10-04
+
+- Sticker cut-out: 3:4 crop for bean photos and 3:4 sticker export (#1352) (659b27a)
+
 ## dev-20261004_1135 — 2026-10-04
 
 - Bean photos: on-device background removal to a bag sticker (#1345) (ddfcb08)
