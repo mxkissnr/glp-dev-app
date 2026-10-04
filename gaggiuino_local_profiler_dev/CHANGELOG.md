@@ -1,3 +1,7 @@
+## dev-20261004_2040 — 2026-10-04
+
+- Machine icon: unknown reachability counts as off (#1393) (4b9a6b0)
+
 ## dev-20261004_2030 — 2026-10-04
 
 - Coffee history: only load bag photos that exist (#1392) (b6fadcc)
