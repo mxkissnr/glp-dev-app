@@ -1,3 +1,8 @@
+## dev-20261004_1512 — 2026-10-04
+
+- Implement part 1 of #1330: one bean shelf with stock bar, bag stacks… (#1360) (87d3936)
+- Serve library and shot photos with a revalidation-only cache header (#1359) (cae7356)
+
 ## dev-20261004_1449 — 2026-10-04
 
 - Sticker cut-out: the worker is not bundled in the image build (#1356) (ae65d9d)
