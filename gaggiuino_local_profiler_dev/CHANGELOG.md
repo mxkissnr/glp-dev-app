@@ -1,3 +1,7 @@
+## dev-20261004_0930 — 2026-10-04
+
+- Bean library: shelf search, filter, sort and photo on create (#1335) (5ee7a8b)
+
 ## dev-20261004_0912 — 2026-10-04
 
 - Bean library shelf layout with In use, Stock and Empty & archive… (#1334) (ad44bb7)
