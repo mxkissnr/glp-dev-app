@@ -1,3 +1,7 @@
+## dev-20261004_1103 — 2026-10-04
+
+- Sticker cut-out slice 3a: the sticker editor overlay (#1342) (4a0cc58)
+
 ## dev-20261004_1042 — 2026-10-04
 
 - Ship the cut-out models in the image, serve them, and a lazy on-device… (#1340) (bd5e3e5)
