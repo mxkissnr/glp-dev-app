@@ -1,3 +1,8 @@
+## dev-20261004_1701 — 2026-10-04
+
+- Flavour wheel: show it in the bean detail sheet and polish the large view (#1371) (a1c6b9b)
+- Follow-up to #1351: no easter egg hints in the docs (#1370) (7f31fe4)
+
 ## dev-20261004_1611 — 2026-10-04
 
 - Follow-up to #1351: keep the coffee-history easter egg out of the CHANGELOG and docs (#1368) (809bde1)
