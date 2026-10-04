@@ -1,3 +1,7 @@
+## dev-20261004_1532 — 2026-10-04
+
+- Sticker cut-out: show a progress bar while the photo is being cut out (#1362) (7ceede7)
+
 ## dev-20261004_1512 — 2026-10-04
 
 - Implement part 1 of #1330: one bean shelf with stock bar, bag stacks… (#1360) (87d3936)
