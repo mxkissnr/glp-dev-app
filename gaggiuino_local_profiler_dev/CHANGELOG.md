@@ -1,3 +1,8 @@
+## dev-20261004_1604 — 2026-10-04
+
+- Easter egg: coffee history in the 7-tap machine panel (#1366) (2e4bab1)
+- Bean library: open the bean form in the detail sheet (#1365) (99826aa)
+
 ## dev-20261004_1541 — 2026-10-04
 
 - Bean library: single shelf with list toggle, detail sheet, bag stacks (#1363) (7476035)
