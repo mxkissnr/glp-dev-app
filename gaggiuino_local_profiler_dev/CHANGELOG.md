@@ -1,3 +1,7 @@
+## dev-20261004_1946 — 2026-10-04
+
+- Machine icon shows accent colour while the machine is switched off (preheat event drops reachability) (#1385) (40890d3)
+
 ## dev-20261004_1938 — 2026-10-04
 
 - Flavour wheel: the centre photo is off-centre in the large view (#1382) (b1da4ff)
