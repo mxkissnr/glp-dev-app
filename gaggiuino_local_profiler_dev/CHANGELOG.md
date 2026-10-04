@@ -1,3 +1,7 @@
+## dev-20261004_1954 — 2026-10-04
+
+- Statistics: month calendar with bean thumbnails and summary line (#1384) (64d5326)
+
 ## dev-20261004_1951 — 2026-10-04
 
 - Coffee history panel: show every used bean on the shelf and enlarge the layout (#1387) (0bf3de5)
