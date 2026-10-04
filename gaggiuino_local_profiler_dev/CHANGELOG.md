@@ -1,3 +1,7 @@
+## dev-20261004_2011 — 2026-10-04
+
+- Statistics month calendar: compact cells, day numbers, and a proper marker for days without a bean photo (#1390) (c7d8ab1)
+
 ## dev-20261004_2003 — 2026-10-04
 
 - Shelf: icicles for frozen beans, no open label over the bag photo (#1388) (bd54ef1)
