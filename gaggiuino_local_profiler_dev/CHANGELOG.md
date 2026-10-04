@@ -1,3 +1,7 @@
+## dev-20261004_2003 — 2026-10-04
+
+- Shelf: icicles for frozen beans, no open label over the bag photo (#1388) (bd54ef1)
+
 ## dev-20261004_1954 — 2026-10-04
 
 - Statistics: month calendar with bean thumbnails and summary line (#1384) (64d5326)
