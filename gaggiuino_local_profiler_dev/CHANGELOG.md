@@ -1,3 +1,7 @@
+## dev-20261004_1440 — 2026-10-04
+
+- Sticker cut-out: crop shop images to the product before the models run (#1355) (77fb03d)
+
 ## dev-20261004_1418 — 2026-10-04
 
 - Sticker cut-out: run inference in a worker and release model memory (#1353) (cc130af)
