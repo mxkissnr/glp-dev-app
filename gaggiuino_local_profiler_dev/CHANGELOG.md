@@ -1,3 +1,7 @@
+## dev-20261004_1951 — 2026-10-04
+
+- Coffee history panel: show every used bean on the shelf and enlarge the layout (#1387) (0bf3de5)
+
 ## dev-20261004_1946 — 2026-10-04
 
 - Machine icon shows accent colour while the machine is switched off (preheat event drops reachability) (#1385) (40890d3)
