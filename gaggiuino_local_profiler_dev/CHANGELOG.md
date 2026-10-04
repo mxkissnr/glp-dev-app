@@ -1,3 +1,7 @@
+## dev-20261004_2030 — 2026-10-04
+
+- Coffee history: only load bag photos that exist (#1392) (b6fadcc)
+
 ## dev-20261004_2011 — 2026-10-04
 
 - Statistics month calendar: compact cells, day numbers, and a proper marker for days without a bean photo (#1390) (c7d8ab1)
