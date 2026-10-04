@@ -1,3 +1,10 @@
+## dev-20261004_0851 — 2026-10-04
+
+- UI: remove generic AI-look patterns (flat accents, tokens, no emoji icons) (#1333) (1ad089d)
+- Merge pull request #1327 from mxkissnr/ppops/fix-1325-restructure-the-readm-1791039556 (550f2c3)
+- docs(readme): explain that shots.png is referenced, not modified (f0d9223)
+- docs: restructure README after popular self-hosted projects (77bee26)
+
 ## dev-20261002_2145 — 2026-10-02
 
 - Merge pull request #1322 from mxkissnr/main (b7fcd5a)
