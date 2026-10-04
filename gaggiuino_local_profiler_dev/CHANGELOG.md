@@ -1,3 +1,7 @@
+## dev-20261004_1843 — 2026-10-04
+
+- Bean library: reorder opens the shop link, rename the freshest sort (#1376) (87eb653)
+
 ## dev-20261004_1701 — 2026-10-04
 
 - Flavour wheel: show it in the bean detail sheet and polish the large view (#1371) (a1c6b9b)
