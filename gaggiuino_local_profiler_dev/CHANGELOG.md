@@ -1,3 +1,7 @@
+## dev-20261005_1058 — 2026-10-05
+
+- Changelog fragments instead of editing CHANGELOG.md in every PR (#1427) (ae79253)
+
 ## dev-20261005_1040 — 2026-10-05
 
 - dev-stats cost wording without a personal name (Part of #1407) (#1426) (25ce7e6)
