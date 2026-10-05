@@ -1,3 +1,7 @@
+## dev-20261005_1602 — 2026-10-05
+
+- Move the #1411 frozen-portion comment out of the way of the #1412 split (#1441) (0db0e66)
+
 ## dev-20261005_1539 — 2026-10-05
 
 - Move milk and frozen-portion bookkeeping to the server (#1436) (0ffbee8)
