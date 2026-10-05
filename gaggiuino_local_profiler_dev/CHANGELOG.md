@@ -1,3 +1,7 @@
+## dev-20261005_1625 — 2026-10-05
+
+- Split the bean library view and keep open inline forms on re-render (#1442) (4936acb)
+
 ## dev-20261005_1602 — 2026-10-05
 
 - Move the #1411 frozen-portion comment out of the way of the #1412 split (#1441) (0db0e66)
