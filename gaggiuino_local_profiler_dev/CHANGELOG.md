@@ -1,3 +1,8 @@
+## dev-20261005_1040 — 2026-10-05
+
+- dev-stats cost wording without a personal name (Part of #1407) (#1426) (25ce7e6)
+- Docs review before the next release: CHANGELOG, DOCS, README, SECURITY (#1425) (18566f4)
+
 ## dev-20261005_1028 — 2026-10-05
 
 - UI wording: say App instead of Add-on and drop the GaggiMate experimental label (#1424) (07bbbb3)
