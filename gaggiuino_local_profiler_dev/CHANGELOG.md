@@ -1,3 +1,7 @@
+## dev-20261005_0925 — 2026-10-05
+
+- UI preferences sync: persist pending changes, per-key rejection, no lost updates (#1415) (8052398)
+
 ## dev-20261005_0920 — 2026-10-05
 
 - Machine profile writes: make retries after a timeout idempotent (#1416) (28a6b3d)
