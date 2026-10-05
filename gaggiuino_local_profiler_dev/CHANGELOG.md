@@ -1,3 +1,8 @@
+## dev-20261005_1206 — 2026-10-05
+
+- Stop returning the MQTT broker password from the API (#1433) (7c9f30e)
+- Only serve requests for known host names (allowed_hosts) (#1432) (3d91af6)
+
 ## dev-20261005_1131 — 2026-10-05
 
 - Renovate: automerge green lock file maintenance on dev (#1419) (#1429) (903bbaa)
