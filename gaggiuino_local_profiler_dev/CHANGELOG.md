@@ -1,3 +1,7 @@
+## dev-20261005_0930 — 2026-10-05
+
+- Restoring a backup clears the stale machine profile cache (#1417) (8038d49)
+
 ## dev-20261005_0925 — 2026-10-05
 
 - UI preferences sync: persist pending changes, per-key rejection, no lost updates (#1415) (8052398)
