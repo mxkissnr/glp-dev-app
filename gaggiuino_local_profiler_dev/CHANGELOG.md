@@ -1,3 +1,7 @@
+## dev-20261005_0935 — 2026-10-05
+
+- Analytics month calendar keeps the month from page load (#1420) (192686f)
+
 ## dev-20261005_0930 — 2026-10-05
 
 - Restoring a backup clears the stale machine profile cache (#1417) (8038d49)
