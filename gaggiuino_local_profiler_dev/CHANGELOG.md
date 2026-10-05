@@ -1,3 +1,8 @@
+## dev-20261005_0847 — 2026-10-05
+
+- gaggimate: parse v6/v7 shot logs (#1397) (#1413) (fee184e)
+- Docs: bean-library swipe-to-close, shop reorder and frozen icicles (#1394) (7c9866c)
+
 ## dev-20261004_2040 — 2026-10-04
 
 - Machine icon: unknown reachability counts as off (#1393) (4b9a6b0)
