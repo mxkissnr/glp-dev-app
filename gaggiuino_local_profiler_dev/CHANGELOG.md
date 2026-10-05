@@ -1,3 +1,7 @@
+## dev-20261005_1723 — 2026-10-05
+
+- GaggiMate v1.9.0: instant shot sync, recorded phases, stop reason and machine warnings (#1443) (826e550)
+
 ## dev-20261005_1625 — 2026-10-05
 
 - Split the bean library view and keep open inline forms on re-render (#1442) (4936acb)
