@@ -1,3 +1,7 @@
+## dev-20261005_1745 — 2026-10-05
+
+- Run sync-dev-config as TypeScript in the dev build workflow (#1444) (2bd0de5)
+
 ## dev-20261005_1723 — 2026-10-05
 
 - GaggiMate v1.9.0: instant shot sync, recorded phases, stop reason and machine warnings (#1443) (826e550)
