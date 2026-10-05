@@ -1,3 +1,7 @@
+## dev-20261005_1539 — 2026-10-05
+
+- Move milk and frozen-portion bookkeeping to the server (#1436) (0ffbee8)
+
 ## dev-20261005_1226 — 2026-10-05
 
 - Stop returning the MQTT broker password from the API (#1435) (c9753a2)
