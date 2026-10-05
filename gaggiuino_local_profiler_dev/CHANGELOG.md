@@ -1,3 +1,8 @@
+## dev-20261005_1226 — 2026-10-05
+
+- Stop returning the MQTT broker password from the API (#1435) (c9753a2)
+- Small hardening items from the dev review (#1434) (5c8e729)
+
 ## dev-20261005_1206 — 2026-10-05
 
 - Stop returning the MQTT broker password from the API (#1433) (7c9f30e)
