@@ -1,3 +1,8 @@
+## dev-20261005_0906 — 2026-10-05
+
+- fix(deps): update module github.com/goccy/go-json to v0.11.2 (#1396) (9345f38)
+- ISO roast dates are not recognised, bean age stays empty (#1414) (14f17f1)
+
 ## dev-20261005_0851 — 2026-10-05
 
 - chore(deps): update dev-dependencies (#1395) (a816175)
