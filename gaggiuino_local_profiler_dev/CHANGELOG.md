@@ -1,3 +1,7 @@
+## dev-20261005_1028 — 2026-10-05
+
+- UI wording: say App instead of Add-on and drop the GaggiMate experimental label (#1424) (07bbbb3)
+
 ## dev-20261005_1014 — 2026-10-05
 
 - Download cut-out models on first use instead of shipping them in every image (#1422) (131de3a)
