@@ -1,3 +1,7 @@
+## dev-20261005_1014 — 2026-10-05
+
+- Download cut-out models on first use instead of shipping them in every image (#1422) (131de3a)
+
 ## dev-20261005_0935 — 2026-10-05
 
 - Analytics month calendar keeps the month from page load (#1420) (192686f)
