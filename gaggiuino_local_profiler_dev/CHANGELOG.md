@@ -1,3 +1,7 @@
+## dev-20261005_0920 — 2026-10-05
+
+- Machine profile writes: make retries after a timeout idempotent (#1416) (28a6b3d)
+
 ## dev-20261005_0906 — 2026-10-05
 
 - fix(deps): update module github.com/goccy/go-json to v0.11.2 (#1396) (9345f38)
