@@ -1,3 +1,7 @@
+## dev-20261005_0851 — 2026-10-05
+
+- chore(deps): update dev-dependencies (#1395) (a816175)
+
 ## dev-20261005_0847 — 2026-10-05
 
 - gaggimate: parse v6/v7 shot logs (#1397) (#1413) (fee184e)
