@@ -1,3 +1,7 @@
+## dev-20261006_1809 — 2026-10-06
+
+- Flavour wheel: no root cross-fade on open/close (#1482) (#1487) (0e522d2)
+
 ## dev-20261006_1748 — 2026-10-06
 
 - New achievements from the statistics facts (#1486) (5ece515)
