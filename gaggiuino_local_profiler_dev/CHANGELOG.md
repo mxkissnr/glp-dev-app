@@ -1,3 +1,9 @@
+## dev-20261006_1134 — 2026-10-06
+
+- Show the machine name set in the Gaggiuino firmware instead of the hostname (#1457) (211a077)
+- Shot annotation asks for milk on drinks without milk (#1456) (1991573)
+- Opening a bean in the library flashes the whole screen (#1455) (8aa6431)
+
 ## dev-20261006_1009 — 2026-10-06
 
 - Live tab: offer 'Set as default' for a non-default selected machine and hide foreign readings (#1451) (4e18786)
