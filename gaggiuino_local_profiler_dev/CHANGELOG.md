@@ -1,3 +1,7 @@
+## dev-20261006_1157 — 2026-10-06
+
+- No blue tap highlight on mobile (#1459) (c972a6f)
+
 ## dev-20261006_1134 — 2026-10-06
 
 - Show the machine name set in the Gaggiuino firmware instead of the hostname (#1457) (211a077)
