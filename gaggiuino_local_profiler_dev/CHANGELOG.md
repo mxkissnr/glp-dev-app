@@ -1,3 +1,7 @@
+## dev-20261006_2007 — 2026-10-06
+
+- Statistics look cramped on phones with a long period (#1492) (06eceec)
+
 ## dev-20261006_1832 — 2026-10-06
 
 - Bottom sheets: smooth slide and drag on phones (#1488) (#1491) (8d341e5)
