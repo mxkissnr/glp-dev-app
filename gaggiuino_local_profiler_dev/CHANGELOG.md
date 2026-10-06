@@ -1,3 +1,7 @@
+## dev-20261006_1241 — 2026-10-06
+
+- Library: list toggle loses its left border, shelf text misaligned next to frozen beans (#1462) (90ecfcc)
+
 ## dev-20261006_1157 — 2026-10-06
 
 - No blue tap highlight on mobile (#1459) (c972a6f)
