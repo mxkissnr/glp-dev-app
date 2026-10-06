@@ -1,3 +1,7 @@
+## dev-20261006_1832 — 2026-10-06
+
+- Bottom sheets: smooth slide and drag on phones (#1488) (#1491) (8d341e5)
+
 ## dev-20261006_1809 — 2026-10-06
 
 - Flavour wheel: no root cross-fade on open/close (#1482) (#1487) (0e522d2)
