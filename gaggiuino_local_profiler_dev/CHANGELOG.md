@@ -1,3 +1,7 @@
+## dev-20261006_0737 — 2026-10-06
+
+- Go + TypeScript only: record the rule, enforce it, port the remaining JavaScript (#1445) (c4ac7d1)
+
 ## dev-20261005_1745 — 2026-10-05
 
 - Run sync-dev-config as TypeScript in the dev build workflow (#1444) (2bd0de5)
