@@ -1,3 +1,7 @@
+## dev-20261006_0947 — 2026-10-06
+
+- GaggiMate v1.9.0: flush control and brew confirmation (#1450) (5d56bd4)
+
 ## dev-20261006_0824 — 2026-10-06
 
 - MQTT live transport feeds Gaggiuino data to a GaggiMate default machine (#1448) (d7bc146)
