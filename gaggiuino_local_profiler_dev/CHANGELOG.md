@@ -1,3 +1,7 @@
+## dev-20261006_1602 — 2026-10-06
+
+- Flaky Go test: TestRequireKnownHostOnBuiltHandler races background sync on cleanup (#1481) (540c64c)
+
 ## dev-20261006_1549 — 2026-10-06
 
 - Library bean sheet no longer throws on open (#1480) (29cf42c)
