@@ -1,3 +1,7 @@
+## dev-20261006_1703 — 2026-10-06
+
+- Statistics: verdict header and one toolbar (part of #1467) (#1484) (5c1f772)
+
 ## dev-20261006_1630 — 2026-10-06
 
 - Statistics: Did you know facts (part of #1467) (#1483) (13cc1f9)
