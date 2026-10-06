@@ -1,3 +1,7 @@
+## dev-20261006_2013 — 2026-10-06
+
+- Sheets: Home Assistant style header bar (#1489) (#1493) (6b4b8f8)
+
 ## dev-20261006_2007 — 2026-10-06
 
 - Statistics look cramped on phones with a long period (#1492) (06eceec)
