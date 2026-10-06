@@ -1,3 +1,7 @@
+## dev-20261006_2356 — 2026-10-06
+
+- Standby follow-up: stale countdown and unreachable preheat widget… (#1503) (47ed52c)
+
 ## dev-20261006_2327 — 2026-10-06
 
 - Live view shows standby for a GaggiMate in standby, UI (#1498) (#1502) (2c201a8)
