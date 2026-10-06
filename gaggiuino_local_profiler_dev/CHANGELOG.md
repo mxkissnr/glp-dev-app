@@ -1,3 +1,7 @@
+## dev-20261006_1630 — 2026-10-06
+
+- Statistics: Did you know facts (part of #1467) (#1483) (13cc1f9)
+
 ## dev-20261006_1602 — 2026-10-06
 
 - Flaky Go test: TestRequireKnownHostOnBuiltHandler races background sync on cleanup (#1481) (540c64c)
