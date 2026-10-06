@@ -1,3 +1,7 @@
+## dev-20261006_1009 — 2026-10-06
+
+- Live tab: offer 'Set as default' for a non-default selected machine and hide foreign readings (#1451) (4e18786)
+
 ## dev-20261006_0947 — 2026-10-06
 
 - GaggiMate v1.9.0: flush control and brew confirmation (#1450) (5d56bd4)
