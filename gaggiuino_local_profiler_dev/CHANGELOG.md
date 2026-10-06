@@ -1,3 +1,7 @@
+## dev-20261006_1508 — 2026-10-06
+
+- Statistics: origin map with routes, chips and details (part of #1467) (#1476) (dfe167b)
+
 ## dev-20261006_1433 — 2026-10-06
 
 - Statistics: score trend in score colours, recipe on average (part of… (#1475) (1cd6a80)
