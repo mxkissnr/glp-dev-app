@@ -1,3 +1,7 @@
+## dev-20261006_2327 — 2026-10-06
+
+- Live view shows standby for a GaggiMate in standby, UI (#1498) (#1502) (2c201a8)
+
 ## dev-20261006_2234 — 2026-10-06
 
 - Translate GaggiMate profile editor footer and sync html lang (#1499) (#1501) (366515d)
