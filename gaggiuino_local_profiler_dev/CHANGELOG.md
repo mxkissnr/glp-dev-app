@@ -1,3 +1,7 @@
+## dev-20261006_1748 — 2026-10-06
+
+- New achievements from the statistics facts (#1486) (5ece515)
+
 ## dev-20261006_1727 — 2026-10-06
 
 - Statistics: open sections, two columns, more fold (part of #1467) (#1485) (c48d04f)
