@@ -1,3 +1,8 @@
+## dev-20261006_1337 — 2026-10-06
+
+- Statistics: remove the month calendar (the activity graph already shows those days) (#1470) (6c5e47e)
+- Write down the design language as project rules (#1468) (78b2b4b)
+
 ## dev-20261006_1305 — 2026-10-06
 
 - Sticker cut-out editor is hard to use on a phone (#1463) (1c8b43d)
