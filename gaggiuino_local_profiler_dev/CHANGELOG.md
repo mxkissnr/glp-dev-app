@@ -1,3 +1,9 @@
+## dev-20261006_1411 — 2026-10-06
+
+- Statistics: coffee year with streaks and a shared detail popover/sheet… (#1474) (4b25f91)
+- Sticker editor: after a pinch zoom, taps sometimes stop editing (#1473) (0c7d154)
+- Sticker editor: clean active mode button and a visibly spinning tap ring (#1471) (4b5d8a1)
+
 ## dev-20261006_1337 — 2026-10-06
 
 - Statistics: remove the month calendar (the activity graph already shows those days) (#1470) (6c5e47e)
