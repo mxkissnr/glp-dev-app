@@ -1,3 +1,8 @@
+## dev-20261006_1549 — 2026-10-06
+
+- Library bean sheet no longer throws on open (#1480) (29cf42c)
+- Statistics: one bean shelf by score (part of #1467) (#1478) (ba32378)
+
 ## dev-20261006_1508 — 2026-10-06
 
 - Statistics: origin map with routes, chips and details (part of #1467) (#1476) (dfe167b)
