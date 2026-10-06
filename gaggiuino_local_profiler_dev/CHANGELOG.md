@@ -1,3 +1,7 @@
+## dev-20261006_1727 — 2026-10-06
+
+- Statistics: open sections, two columns, more fold (part of #1467) (#1485) (c48d04f)
+
 ## dev-20261006_1703 — 2026-10-06
 
 - Statistics: verdict header and one toolbar (part of #1467) (#1484) (5c1f772)
