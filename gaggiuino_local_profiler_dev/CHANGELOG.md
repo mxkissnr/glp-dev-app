@@ -1,3 +1,7 @@
+## dev-20261006_2234 — 2026-10-06
+
+- Translate GaggiMate profile editor footer and sync html lang (#1499) (#1501) (366515d)
+
 ## dev-20261006_2059 — 2026-10-06
 
 - Flavour wheel: no view transition (#1482) (#1494) (d66a85e)
