@@ -1,3 +1,8 @@
+## dev-20261006_0824 — 2026-10-06
+
+- MQTT live transport feeds Gaggiuino data to a GaggiMate default machine (#1448) (d7bc146)
+- docs: GaggiMate simulator acceptance procedure and Gaggiuino firmware MQTT note (#1446) (22695ec)
+
 ## dev-20261006_0737 — 2026-10-06
 
 - Go + TypeScript only: record the rule, enforce it, port the remaining JavaScript (#1445) (c4ac7d1)
