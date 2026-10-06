@@ -1,3 +1,7 @@
+## dev-20261006_1433 — 2026-10-06
+
+- Statistics: score trend in score colours, recipe on average (part of… (#1475) (1cd6a80)
+
 ## dev-20261006_1411 — 2026-10-06
 
 - Statistics: coffee year with streaks and a shared detail popover/sheet… (#1474) (4b25f91)
