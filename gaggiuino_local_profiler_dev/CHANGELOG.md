@@ -1,3 +1,7 @@
+## dev-20261006_2059 — 2026-10-06
+
+- Flavour wheel: no view transition (#1482) (#1494) (d66a85e)
+
 ## dev-20261006_2013 — 2026-10-06
 
 - Sheets: Home Assistant style header bar (#1489) (#1493) (6b4b8f8)
