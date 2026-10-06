@@ -1,3 +1,7 @@
+## dev-20261006_1305 — 2026-10-06
+
+- Sticker cut-out editor is hard to use on a phone (#1463) (1c8b43d)
+
 ## dev-20261006_1241 — 2026-10-06
 
 - Library: list toggle loses its left border, shelf text misaligned next to frozen beans (#1462) (90ecfcc)
