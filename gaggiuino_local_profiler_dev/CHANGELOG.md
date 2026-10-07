@@ -1,3 +1,7 @@
+## dev-20261007_2355 — 2026-10-07
+
+- Barcode scan falls back to a self-hosted BarcodeDetector ponyfill, see… (#1530) (ac7a8f3)
+
 ## dev-20261007_2229 — 2026-10-07
 
 - Restore skips ratings for shots missing from a backup (#1529) (e760a32)
