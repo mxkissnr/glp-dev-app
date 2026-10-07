@@ -1,3 +1,8 @@
+## dev-20261007_2229 — 2026-10-07
+
+- Restore skips ratings for shots missing from a backup (#1529) (e760a32)
+- Backup: only bundle images that an entry refers to, and clean up orphaned image files (#1528) (df6a46e)
+
 ## dev-20261007_2158 — 2026-10-07
 
 - Screenshots and demo: use the dev library with cut-out bean stickers (#1527) (5c659a1)
