@@ -1,3 +1,7 @@
+## dev-20261007_2158 — 2026-10-07
+
+- Screenshots and demo: use the dev library with cut-out bean stickers (#1527) (5c659a1)
+
 ## dev-20261007_2135 — 2026-10-07
 
 - docs: refresh screenshots and demo data from a new sanitized backup (#1513) (82a2225)
