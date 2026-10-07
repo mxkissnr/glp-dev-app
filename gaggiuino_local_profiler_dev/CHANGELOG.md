@@ -1,3 +1,10 @@
+## dev-20261007_2010 — 2026-10-07
+
+- chore(deps): bump brace-expansion to 5.0.12 (GHSA-q2hr-2g5m-vwhr) (#1508) (d512396)
+- ci(dev): mirror the app's translations folder into the dev manifest (#1506) (33645ed)
+- App options show raw keys in Home Assistant: add option translations (#1510) (64392cb)
+- Demo: achievements page is empty (fixture recorded without the lang query) (#1509) (af75579)
+
 ## dev-20261006_2356 — 2026-10-06
 
 - Standby follow-up: stale countdown and unreachable preheat widget… (#1503) (47ed52c)
