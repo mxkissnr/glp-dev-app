@@ -1,3 +1,7 @@
+## dev-20261007_2132 — 2026-10-07
+
+- Bug report form: use app wording, add machine firmware and install type (#1523) (b5a0dde)
+
 ## dev-20261007_2104 — 2026-10-07
 
 - Desktop topbar: Settings is cut off at 1400 px; make it a fixed gear icon (#1515) (64e8135)
