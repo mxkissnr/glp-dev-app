@@ -1,3 +1,9 @@
+## dev-20261007_2135 — 2026-10-07
+
+- docs: refresh screenshots and demo data from a new sanitized backup (#1513) (82a2225)
+- Desktop topbar: show that the tab row scrolls when tabs are cut off (#1524) (74aba0e)
+- Community: a form for new ideas in Discussions and a link from the issue chooser (#1522) (c2681de)
+
 ## dev-20261007_2132 — 2026-10-07
 
 - Bug report form: use app wording, add machine firmware and install type (#1523) (b5a0dde)
