@@ -1,3 +1,8 @@
+## dev-20261007_2104 — 2026-10-07
+
+- Desktop topbar: Settings is cut off at 1400 px; make it a fixed gear icon (#1515) (64e8135)
+- Screenshot script and demo recorder still wait for the old bean list (#1512) (2fd7d9f)
+
 ## dev-20261007_2010 — 2026-10-07
 
 - chore(deps): bump brace-expansion to 5.0.12 (GHSA-q2hr-2g5m-vwhr) (#1508) (d512396)
