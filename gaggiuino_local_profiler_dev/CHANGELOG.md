@@ -1,3 +1,7 @@
+## dev-20261008_0835 — 2026-10-08
+
+- Bean sheet Save button shows its label again (#1532) (74791b6)
+
 ## dev-20261007_2355 — 2026-10-07
 
 - Barcode scan falls back to a self-hosted BarcodeDetector ponyfill, see… (#1530) (ac7a8f3)
