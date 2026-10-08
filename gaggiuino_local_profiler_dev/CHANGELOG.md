@@ -1,3 +1,7 @@
+## dev-20261008_0900 — 2026-10-08
+
+- Statistics show the period next to section counters and which machine… (#1533) (43a3ed3)
+
 ## dev-20261008_0835 — 2026-10-08
 
 - Bean sheet Save button shows its label again (#1532) (74791b6)
