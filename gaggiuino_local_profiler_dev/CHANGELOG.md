@@ -1,3 +1,7 @@
+## dev-20261008_2306 — 2026-10-08
+
+- Live status badge says Ready during standby, heating and flushing; machine gauge shows 18° (#1546) (6f70acd)
+
 ## dev-20261008_2244 — 2026-10-08
 
 - New bean with a roast date: Save and add bag leaves an empty past bag and a bag without roast date (#1545) (30526b9)
