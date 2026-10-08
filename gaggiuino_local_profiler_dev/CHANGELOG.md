@@ -1,3 +1,8 @@
+## dev-20261008_2244 — 2026-10-08
+
+- New bean with a roast date: Save and add bag leaves an empty past bag and a bag without roast date (#1545) (30526b9)
+- Kiosk orders lose their milk and bean variant (variants array vs variant field) (#1544) (b4f800c)
+
 ## dev-20261008_1127 — 2026-10-08
 
 - Barcode scan: say why the camera did not start, and offer a photo… (#1537) (c9d8dea)
