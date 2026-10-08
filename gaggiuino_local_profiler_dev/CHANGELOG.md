@@ -1,3 +1,8 @@
+## dev-20261008_1127 — 2026-10-08
+
+- Barcode scan: say why the camera did not start, and offer a photo… (#1537) (c9d8dea)
+- docs: current model names in trailer examples (#1535) (76c4a3c)
+
 ## dev-20261008_0900 — 2026-10-08
 
 - Statistics show the period next to section counters and which machine… (#1533) (43a3ed3)
