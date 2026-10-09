@@ -1,3 +1,7 @@
+## dev-20261009_1922 — 2026-10-09
+
+- Profiles and firmware endpoints wait for timeouts when the machine is known to be offline (#1573) (49a894c)
+
 ## dev-20261009_1851 — 2026-10-09
 
 - MCP developer tool get_perf_stats: response times, memory and machine traffic of the running install (#1571) (027b550)
