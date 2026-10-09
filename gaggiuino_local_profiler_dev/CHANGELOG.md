@@ -1,3 +1,7 @@
+## dev-20261009_1751 — 2026-10-09
+
+- ci: add the manually triggered perf-compare workflow (#1558) (#1570) (fc27fed)
+
 ## dev-20261009_1659 — 2026-10-09
 
 - Perf-compare scripts: dataset generator, measurement and comparison,… (#1569) (a6b40f7)
