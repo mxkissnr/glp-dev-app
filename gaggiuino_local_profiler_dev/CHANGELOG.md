@@ -1,3 +1,7 @@
+## dev-20261009_1851 — 2026-10-09
+
+- MCP developer tool get_perf_stats: response times, memory and machine traffic of the running install (#1571) (027b550)
+
 ## dev-20261009_1751 — 2026-10-09
 
 - ci: add the manually triggered perf-compare workflow (#1558) (#1570) (fc27fed)
