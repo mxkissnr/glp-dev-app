@@ -1,3 +1,7 @@
+## dev-20261009_1003 — 2026-10-09
+
+- v3.4.0 acceptance: small UI findings (#1548) (fd2e7ed)
+
 ## dev-20261009_0954 — 2026-10-09
 
 - Go toolchain 1.27.2 and golang.org/x/net v0.60.0 for new govulncheck advisories (#1550) (14c4a4f)
