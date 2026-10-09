@@ -1,3 +1,7 @@
+## dev-20261009_2021 — 2026-10-09
+
+- Live sync slice 1: server data-changed publish (#1539) (#1574) (642baa3)
+
 ## dev-20261009_2013 — 2026-10-09
 
 - Profiles and firmware endpoints wait for timeouts when the machine is known to be offline (#1575) (f05b62b)
