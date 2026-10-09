@@ -1,3 +1,7 @@
+## dev-20261009_1659 — 2026-10-09
+
+- Perf-compare scripts: dataset generator, measurement and comparison,… (#1569) (a6b40f7)
+
 ## dev-20261009_1633 — 2026-10-09
 
 - fix(library): round bag remaining from its rounded consumed amount (#1553) (#1567) (c732135)
