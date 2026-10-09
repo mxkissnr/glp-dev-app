@@ -1,3 +1,7 @@
+## dev-20261009_2040 — 2026-10-09
+
+- Live sync slice 2: status revisions + MCP publish (#1539) (#1576) (5597c45)
+
 ## dev-20261009_2021 — 2026-10-09
 
 - Live sync slice 1: server data-changed publish (#1539) (#1574) (642baa3)
