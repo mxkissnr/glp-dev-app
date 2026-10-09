@@ -1,3 +1,7 @@
+## dev-20261009_1025 — 2026-10-09
+
+- Start a preheat session after switching the default to an off machine (#1552) (78104b8)
+
 ## dev-20261009_1003 — 2026-10-09
 
 - v3.4.0 acceptance: small UI findings (#1548) (fd2e7ed)
