@@ -1,3 +1,7 @@
+## dev-20261009_0954 — 2026-10-09
+
+- Go toolchain 1.27.2 and golang.org/x/net v0.60.0 for new govulncheck advisories (#1550) (14c4a4f)
+
 ## dev-20261008_2306 — 2026-10-08
 
 - Live status badge says Ready during standby, heating and flushing; machine gauge shows 18° (#1546) (6f70acd)
