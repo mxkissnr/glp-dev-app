@@ -1,3 +1,7 @@
+## dev-20261009_1351 — 2026-10-09
+
+- ci: report Go and frontend coverage, ratchet Vitest thresholds (#1565) (5fa1619)
+
 ## dev-20261009_1328 — 2026-10-09
 
 - chore: add needs-triage label to issue forms (#1559) (#1564) (fdf607c)
