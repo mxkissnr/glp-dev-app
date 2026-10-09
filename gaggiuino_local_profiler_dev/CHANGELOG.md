@@ -1,3 +1,8 @@
+## dev-20261009_1633 — 2026-10-09
+
+- fix(library): round bag remaining from its rounded consumed amount (#1553) (#1567) (c732135)
+- docs: link the public roadmap board (#1561) (#1566) (9a1605f)
+
 ## dev-20261009_1351 — 2026-10-09
 
 - ci: report Go and frontend coverage, ratchet Vitest thresholds (#1565) (5fa1619)
