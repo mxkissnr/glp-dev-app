@@ -1,3 +1,7 @@
+## dev-20261009_2013 — 2026-10-09
+
+- Profiles and firmware endpoints wait for timeouts when the machine is known to be offline (#1575) (f05b62b)
+
 ## dev-20261009_1922 — 2026-10-09
 
 - Profiles and firmware endpoints wait for timeouts when the machine is known to be offline (#1573) (49a894c)
