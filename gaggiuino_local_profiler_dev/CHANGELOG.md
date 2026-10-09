@@ -1,3 +1,8 @@
+## dev-20261009_1259 — 2026-10-09
+
+- ci: dev channel merges DEV_FEATURES branches; CI on feature and release branches (#1562) (cd170b4)
+- Document the release-oriented branch model, part of #1557 (#1563) (21e01d2)
+
 ## dev-20261009_1130 — 2026-10-09
 
 - Merge pull request #1555 from mxkissnr/main (0e84643)
