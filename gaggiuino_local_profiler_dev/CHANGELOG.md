@@ -1,3 +1,7 @@
+## dev-20261010_1155 — 2026-10-10
+
+- Announce background bean photo and geocode results to open pages (#1581) (d552519)
+
 ## dev-20261010_1047 — 2026-10-10
 
 - Open pages do not see changes made on another device until they reload (#1579) (9f949b1)
