@@ -1,3 +1,7 @@
+## dev-20261010_1047 — 2026-10-10
+
+- Open pages do not see changes made on another device until they reload (#1579) (9f949b1)
+
 ## dev-20261010_0955 — 2026-10-10
 
 - live sync slice 4: shots refresh live, docs and changelog (#1539) (#1578) (bdd2b8a)
