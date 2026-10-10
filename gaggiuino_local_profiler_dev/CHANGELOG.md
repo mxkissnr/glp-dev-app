@@ -1,3 +1,7 @@
+## dev-20261010_0955 — 2026-10-10
+
+- live sync slice 4: shots refresh live, docs and changelog (#1539) (#1578) (bdd2b8a)
+
 ## dev-20261010_0907 — 2026-10-10
 
 - Live sync slice 3: client core (#1539) (#1577) (3a98eea)
