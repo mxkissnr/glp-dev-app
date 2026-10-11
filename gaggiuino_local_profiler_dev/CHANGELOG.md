@@ -1,3 +1,7 @@
+## dev-20261011_1136 — 2026-10-11
+
+- chore(deps): bump source-map-js to 1.2.2 (#1583) (0e99473)
+
 ## dev-20261010_1155 — 2026-10-10
 
 - Announce background bean photo and geocode results to open pages (#1581) (d552519)
