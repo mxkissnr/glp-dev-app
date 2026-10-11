@@ -1,3 +1,7 @@
+## dev-20261011_1228 — 2026-10-11
+
+- Accessibility: 96 form fields have no associated label (#1584) (6dd9aee)
+
 ## dev-20261011_1136 — 2026-10-11
 
 - chore(deps): bump source-map-js to 1.2.2 (#1583) (0e99473)
