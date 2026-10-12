@@ -1,3 +1,7 @@
+## dev-20261012_2003 — 2026-10-12
+
+- Bring back the low-stock and preheat-ready Home Assistant notifications (#1677) (4c22c03)
+
 ## dev-20261012_1949 — 2026-10-12
 
 - Trashing opens a neighbouring shot, recipe averages skip unrated shots, .shot export with numeric grind works, all-shots CSV export stays within memory (#1676) (bdea093)
