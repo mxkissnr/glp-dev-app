@@ -1,3 +1,7 @@
+## dev-20261012_1057 — 2026-10-12
+
+- Large backups and umlaut passphrases restore again, see #1602 (#1638) (1391810)
+
 ## dev-20261012_1034 — 2026-10-12
 
 - Repo scripts produce wrong output: dev-stats AI share, close-dev-issues, changelog-collect (#1637) (1e9426e)
