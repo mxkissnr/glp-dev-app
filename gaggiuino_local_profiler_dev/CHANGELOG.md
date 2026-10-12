@@ -1,3 +1,7 @@
+## dev-20261012_1745 — 2026-10-12
+
+- Client races: shot list no longer shrinks on background refresh, stale responses are dropped, double saves are blocked (#1663) (45c414d)
+
 ## dev-20261012_1726 — 2026-10-12
 
 - Background polls no longer wipe what you are typing in the dial-in wizards, the orders view or the shot notes (#1662) (5693db7)
