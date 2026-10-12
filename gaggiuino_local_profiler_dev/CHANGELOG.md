@@ -1,3 +1,7 @@
+## dev-20261012_2041 — 2026-10-12
+
+- test: frontend tests that can fail, part 1 (Refs #1600) (#1681) (571c3d6)
+
 ## dev-20261012_2013 — 2026-10-12
 
 - Small frontend fixes: offline cache keeps only good pages, German flavor aliases match, clean dial-in values, sticker taps keep earlier edits (#1680) (f57b223)
