@@ -1,3 +1,7 @@
+## dev-20261012_1014 — 2026-10-12
+
+- Garbled profile list never prunes local profiles, see #1610 (#1635) (8b70e51)
+
 ## dev-20261012_1003 — 2026-10-12
 
 - Orders: PlaceOrder reintroduces the #1199 race and other order bugs (#1634) (81312ba)
