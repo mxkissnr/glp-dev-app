@@ -1,3 +1,7 @@
+## dev-20261012_2100 — 2026-10-12
+
+- test: shell tests that can fail, part 2 (Refs #1599) (#1684) (7439316)
+
 ## dev-20261012_2055 — 2026-10-12
 
 - test: frontend tests that can fail, part 2 (Refs #1600) (#1683) (32fab5a)
