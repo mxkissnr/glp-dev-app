@@ -1,3 +1,7 @@
+## dev-20261012_1320 — 2026-10-12
+
+- Restored coffee library uses the create and edit field rules, see #1603 (#1644) (4622ef5)
+
 ## dev-20261012_1304 — 2026-10-12
 
 - Restored order menu and settings use the API checks, see #1603 (#1643) (c6c1730)
