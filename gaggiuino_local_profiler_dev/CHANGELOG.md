@@ -1,3 +1,8 @@
+## dev-20261012_1034 — 2026-10-12
+
+- Repo scripts produce wrong output: dev-stats AI share, close-dev-issues, changelog-collect (#1637) (1e9426e)
+- fix(ci): close every issue in a closing-keyword list and skip negated ones on dev merges (#1636) (fbebdbd)
+
 ## dev-20261012_1014 — 2026-10-12
 
 - Garbled profile list never prunes local profiles, see #1610 (#1635) (8b70e51)
