@@ -1,3 +1,7 @@
+## dev-20261012_0902 — 2026-10-12
+
+- MQTT: client stays dead after a failed first connect, leaks on reconnect (#1631) (a26eb75)
+
 ## dev-20261012_0852 — 2026-10-12
 
 - CI: Go test gate fails on failing tests (pipefail) (#1630) (f8232fb)
