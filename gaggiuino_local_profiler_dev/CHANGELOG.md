@@ -1,3 +1,7 @@
+## dev-20261012_1931 — 2026-10-12
+
+- Badges notice every data change, the shop import always reads the product page, and the page scrapers are tested (#1674) (f9f195d)
+
 ## dev-20261012_1921 — 2026-10-12
 
 - Temporary geocoding failures are retried later; failed HA notifications and grinder-delete follow-ups are logged (#1673) (8ca706b)
