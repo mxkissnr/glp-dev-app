@@ -1,3 +1,7 @@
+## dev-20261012_1601 — 2026-10-12
+
+- Bean bag edits, freezing and reordering act on the bag actually in use (#1606) (#1659) (25781fd)
+
 ## dev-20261012_1547 — 2026-10-12
 
 - Saving a notification option can no longer reopen the coffee shop (#1614) (#1658) (99ab8e3)
