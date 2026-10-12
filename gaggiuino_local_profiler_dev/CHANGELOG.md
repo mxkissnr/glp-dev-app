@@ -1,3 +1,7 @@
+## dev-20261012_1820 — 2026-10-12
+
+- Multi-machine: profile editors and the profile dial-in write to the machine they were opened for (#1666) (adea6c9)
+
 ## dev-20261012_1817 — 2026-10-12
 
 - Multi-machine: the status poll keeps showing the active machine, and maintenance writes in the all-machines view go to the default machine (#1665) (2586455)
