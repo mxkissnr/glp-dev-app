@@ -1,3 +1,8 @@
+## dev-20261012_1433 — 2026-10-12
+
+- Maintenance: log date ignored, whole-map saves lose updates (#1649) (c2d8bbf)
+- Restore skips unknown keys, early rate limit (#1601 slice 2) (#1651) (98056ba)
+
 ## dev-20261012_1426 — 2026-10-12
 
 - Shot delete/purge races and stale score cache (#1609 slice 1) (#1648) (f6f1f23)
