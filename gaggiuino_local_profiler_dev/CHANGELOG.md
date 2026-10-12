@@ -1,3 +1,13 @@
+## dev-20261012_0923 — 2026-10-12
+
+- chore(deps): update ossf/scorecard-action action to v2.5.0 (#1594) (95926d4)
+- fix(deps): update go-dependencies (#1591) (60ec9e0)
+- chore(deps): update node.js to d6aa754 (#1588) (82b5d13)
+- chore(deps): update golang:1.27.2-alpine docker digest to f92b6ef (#1587) (0780ceb)
+- chore(deps): update github/codeql-action digest to 24c5418 (#1586) (a0311d2)
+- chore(deps): update actions/setup-node digest to 949feb2 (#1585) (316c3a6)
+- Ready-by target survives restarts and can switch the boiler on unattended (#1632) (1b45505)
+
 ## dev-20261012_0902 — 2026-10-12
 
 - MQTT: client stays dead after a failed first connect, leaks on reconnect (#1631) (a26eb75)
