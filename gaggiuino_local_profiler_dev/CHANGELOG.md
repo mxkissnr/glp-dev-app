@@ -1,3 +1,7 @@
+## dev-20261012_1426 — 2026-10-12
+
+- Shot delete/purge races and stale score cache (#1609 slice 1) (#1648) (f6f1f23)
+
 ## dev-20261012_1418 — 2026-10-12
 
 - HTTP server timeouts, rate-limit env validation, machine client… (#1650) (d65a206)
