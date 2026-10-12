@@ -1,3 +1,7 @@
+## dev-20261012_1249 — 2026-10-12
+
+- Validate embedded shot annotations and harden the restore tx (#1642) (bcf33d1)
+
 ## dev-20261012_1228 — 2026-10-12
 
 - Backups can become unrestorable (size cap, non-ASCII passphrase) (#1641) (861e194)
