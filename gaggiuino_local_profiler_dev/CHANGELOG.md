@@ -1,3 +1,7 @@
+## dev-20261012_1304 — 2026-10-12
+
+- Restored order menu and settings use the API checks, see #1603 (#1643) (c6c1730)
+
 ## dev-20261012_1249 — 2026-10-12
 
 - Validate embedded shot annotations and harden the restore tx (#1642) (bcf33d1)
