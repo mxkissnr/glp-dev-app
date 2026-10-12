@@ -1,3 +1,7 @@
+## dev-20261012_1545 — 2026-10-12
+
+- Shutdown drains requests before closing the DB, SSE recovers dropped refreshes, an empty token file no longer locks the app (#1612) (#1656) (7e017cb)
+
 ## dev-20261012_1537 — 2026-10-12
 
 - Brew-start and brew-end features also run with live push updates (#1613) (#1657) (2e7babb)
