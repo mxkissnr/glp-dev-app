@@ -1,3 +1,7 @@
+## dev-20261012_1338 — 2026-10-12
+
+- Restore writes data that the normal API would reject (#1645) (5b701eb)
+
 ## dev-20261012_1320 — 2026-10-12
 
 - Restored coffee library uses the create and edit field rules, see #1603 (#1644) (4622ef5)
