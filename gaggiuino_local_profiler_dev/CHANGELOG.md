@@ -1,3 +1,7 @@
+## dev-20261012_2049 — 2026-10-12
+
+- test: Go tests that can fail, part 1 (Refs #1599) (#1682) (2be109c)
+
 ## dev-20261012_2041 — 2026-10-12
 
 - test: frontend tests that can fail, part 1 (Refs #1600) (#1681) (571c3d6)
