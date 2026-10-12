@@ -1,3 +1,7 @@
+## dev-20261012_2115 — 2026-10-12
+
+- test: machine tests without real sleeps (Closes #1599) (#1686) (52e4f03)
+
 ## dev-20261012_2100 — 2026-10-12
 
 - test: shell tests that can fail, part 2 (Refs #1599) (#1684) (7439316)
