@@ -1,3 +1,7 @@
+## dev-20261012_1604 — 2026-10-12
+
+- A save or order action the server rejects shows an error instead of looking successful (#1614) (#1660) (aacfde9)
+
 ## dev-20261012_1601 — 2026-10-12
 
 - Bean bag edits, freezing and reordering act on the bag actually in use (#1606) (#1659) (25781fd)
