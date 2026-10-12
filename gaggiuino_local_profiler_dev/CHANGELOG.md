@@ -1,3 +1,7 @@
+## dev-20261012_1911 — 2026-10-12
+
+- Annotation edits are not blocked by old invalid fields, previous-shot lookup handles equal timestamps, consistent pre-migration snapshot (#1672) (9326c14)
+
 ## dev-20261012_1856 — 2026-10-12
 
 - The release check catches private note paths and internal hostnames in source (#1670) (3e88f7a)
