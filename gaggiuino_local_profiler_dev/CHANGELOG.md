@@ -1,3 +1,7 @@
+## dev-20261012_2013 — 2026-10-12
+
+- Small frontend fixes: offline cache keeps only good pages, German flavor aliases match, clean dial-in values, sticker taps keep earlier edits (#1680) (f57b223)
+
 ## dev-20261012_2010 — 2026-10-12
 
 - Bean ratings, frozen portions and bean analytics follow the linked bean, not just its name (#1678) (16e39c2)
