@@ -1,3 +1,7 @@
+## dev-20261012_1939 — 2026-10-12
+
+- Dates near midnight no longer jump a day, and grind setting 0 is kept (#1675) (989a046)
+
 ## dev-20261012_1931 — 2026-10-12
 
 - Badges notice every data change, the shop import always reads the product page, and the page scrapers are tested (#1674) (f9f195d)
