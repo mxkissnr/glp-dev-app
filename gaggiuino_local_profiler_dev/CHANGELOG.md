@@ -1,3 +1,7 @@
+## dev-20261012_1525 — 2026-10-12
+
+- Live updates reconnect on their own after a silently dropped connection (#1612) (#1655) (53b328e)
+
 ## dev-20261012_1513 — 2026-10-12
 
 - A backflush or descale recorded by a Gaggiuino marks the maintenance task done (#1639) (#1653) (553a596)
