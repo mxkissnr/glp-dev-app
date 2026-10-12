@@ -1,3 +1,7 @@
+## dev-20261012_0948 — 2026-10-12
+
+- Tests and smoke scripts read and delete real host data under /data (#1633) (45f0a4f)
+
 ## dev-20261012_0923 — 2026-10-12
 
 - chore(deps): update ossf/scorecard-action action to v2.5.0 (#1594) (95926d4)
