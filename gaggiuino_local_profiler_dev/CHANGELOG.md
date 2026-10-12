@@ -1,3 +1,7 @@
+## dev-20261012_0852 — 2026-10-12
+
+- CI: Go test gate fails on failing tests (pipefail) (#1630) (f8232fb)
+
 ## dev-20261012_0833 — 2026-10-12
 
 - Pressure hint: one icon, accurate omitted text, trimmed fragment (#1628) (#1629) (649f5ff)
