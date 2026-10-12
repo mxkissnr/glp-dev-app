@@ -1,3 +1,7 @@
+## dev-20261012_1513 — 2026-10-12
+
+- A backflush or descale recorded by a Gaggiuino marks the maintenance task done (#1639) (#1653) (553a596)
+
 ## dev-20261012_1506 — 2026-10-12
 
 - Server hardening: HTTP timeouts and unbounded growth on untrusted data (#1654) (65a7261)
