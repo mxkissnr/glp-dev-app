@@ -1,3 +1,7 @@
+## dev-20261012_1921 — 2026-10-12
+
+- Temporary geocoding failures are retried later; failed HA notifications and grinder-delete follow-ups are logged (#1673) (8ca706b)
+
 ## dev-20261012_1911 — 2026-10-12
 
 - Annotation edits are not blocked by old invalid fields, previous-shot lookup handles equal timestamps, consistent pre-migration snapshot (#1672) (9326c14)
