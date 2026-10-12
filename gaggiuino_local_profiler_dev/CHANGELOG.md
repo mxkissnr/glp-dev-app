@@ -1,3 +1,7 @@
+## dev-20261012_1726 — 2026-10-12
+
+- Background polls no longer wipe what you are typing in the dial-in wizards, the orders view or the shot notes (#1662) (5693db7)
+
 ## dev-20261012_1713 — 2026-10-12
 
 - Bean bag follow-ups: no stale roast date on bean save, 404 for unknown bags, unique frozen-portion ids, safe bag dragging (#1661) (0f6b10b)
