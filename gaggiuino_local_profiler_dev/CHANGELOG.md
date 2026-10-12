@@ -1,3 +1,7 @@
+## dev-20261012_1003 — 2026-10-12
+
+- Orders: PlaceOrder reintroduces the #1199 race and other order bugs (#1634) (81312ba)
+
 ## dev-20261012_0948 — 2026-10-12
 
 - Tests and smoke scripts read and delete real host data under /data (#1633) (45f0a4f)
