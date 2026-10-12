@@ -1,3 +1,7 @@
+## dev-20261012_1209 — 2026-10-12
+
+- Restore reports images it could not write, see #1602 (#1640) (ac0775c)
+
 ## dev-20261012_1057 — 2026-10-12
 
 - Large backups and umlaut passphrases restore again, see #1602 (#1638) (1391810)
