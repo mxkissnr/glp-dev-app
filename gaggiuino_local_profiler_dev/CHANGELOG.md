@@ -1,3 +1,7 @@
+## dev-20261012_0815 — 2026-10-12
+
+- Sub-5-bar shots now get a score — profile-relative pressure scoring (#1593) (70aeb48)
+
 ## dev-20261012_0502 — 2026-10-12
 
 - chore(deps): lock file maintenance (#1592) (7a9e512)
