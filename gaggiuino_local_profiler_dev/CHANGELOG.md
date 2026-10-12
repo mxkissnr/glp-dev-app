@@ -1,3 +1,7 @@
+## dev-20261012_1834 — 2026-10-12
+
+- docs: remove stale .claude settings, fix CLAUDE.md drift (Refs #1623) (#1667) (181368e)
+
 ## dev-20261012_1820 — 2026-10-12
 
 - Multi-machine: profile editors and the profile dial-in write to the machine they were opened for (#1666) (adea6c9)
