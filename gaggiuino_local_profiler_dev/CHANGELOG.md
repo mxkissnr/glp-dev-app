@@ -1,3 +1,7 @@
+## dev-20261012_1418 — 2026-10-12
+
+- HTTP server timeouts, rate-limit env validation, machine client… (#1650) (d65a206)
+
 ## dev-20261012_1354 — 2026-10-12
 
 - Data races in shot trash, sync blocklist and profile sync (#1647) (69645bc)
