@@ -1,3 +1,7 @@
+## dev-20261012_2010 — 2026-10-12
+
+- Bean ratings, frozen portions and bean analytics follow the linked bean, not just its name (#1678) (16e39c2)
+
 ## dev-20261012_2003 — 2026-10-12
 
 - Bring back the low-stock and preheat-ready Home Assistant notifications (#1677) (4c22c03)
