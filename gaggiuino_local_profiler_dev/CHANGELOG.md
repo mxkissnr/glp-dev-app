@@ -1,3 +1,7 @@
+## dev-20261012_1949 — 2026-10-12
+
+- Trashing opens a neighbouring shot, recipe averages skip unrated shots, .shot export with numeric grind works, all-shots CSV export stays within memory (#1676) (bdea093)
+
 ## dev-20261012_1939 — 2026-10-12
 
 - Dates near midnight no longer jump a day, and grind setting 0 is kept (#1675) (989a046)
