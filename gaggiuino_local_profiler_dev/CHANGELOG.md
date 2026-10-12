@@ -1,3 +1,7 @@
+## dev-20261012_1228 — 2026-10-12
+
+- Backups can become unrestorable (size cap, non-ASCII passphrase) (#1641) (861e194)
+
 ## dev-20261012_1209 — 2026-10-12
 
 - Restore reports images it could not write, see #1602 (#1640) (ac0775c)
