@@ -1,3 +1,7 @@
+## dev-20261012_1817 — 2026-10-12
+
+- Multi-machine: the status poll keeps showing the active machine, and maintenance writes in the all-machines view go to the default machine (#1665) (2586455)
+
 ## dev-20261012_1800 — 2026-10-12
 
 - Multi-machine writes with an unknown or invalid machine id fail instead of hitting the default machine (#1664) (cdf4840)
