@@ -1,3 +1,7 @@
+## dev-20261012_0833 — 2026-10-12
+
+- Pressure hint: one icon, accurate omitted text, trimmed fragment (#1628) (#1629) (649f5ff)
+
 ## dev-20261012_0815 — 2026-10-12
 
 - Sub-5-bar shots now get a score — profile-relative pressure scoring (#1593) (70aeb48)
