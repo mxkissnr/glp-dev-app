@@ -1,3 +1,7 @@
+## dev-20261012_1354 — 2026-10-12
+
+- Data races in shot trash, sync blocklist and profile sync (#1647) (69645bc)
+
 ## dev-20261012_1338 — 2026-10-12
 
 - Restore writes data that the normal API would reject (#1645) (5b701eb)
