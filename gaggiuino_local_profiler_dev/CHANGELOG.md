@@ -1,3 +1,7 @@
+## dev-20261012_1506 — 2026-10-12
+
+- Server hardening: HTTP timeouts and unbounded growth on untrusted data (#1654) (65a7261)
+
 ## dev-20261012_1440 — 2026-10-12
 
 - Cap live accumulators, bound lastShotId (#1601 slice 3) (#1652) (3a6ace6)
