@@ -1,3 +1,7 @@
+## dev-20261012_1856 — 2026-10-12
+
+- The release check catches private note paths and internal hostnames in source (#1670) (3e88f7a)
+
 ## dev-20261012_1849 — 2026-10-12
 
 - Remove private note references and a private hostname fallback from public source (#1669) (c0e932b)
