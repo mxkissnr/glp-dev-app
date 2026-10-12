@@ -1,3 +1,7 @@
+## dev-20261012_1537 — 2026-10-12
+
+- Brew-start and brew-end features also run with live push updates (#1613) (#1657) (2e7babb)
+
 ## dev-20261012_1525 — 2026-10-12
 
 - Live updates reconnect on their own after a silently dropped connection (#1612) (#1655) (53b328e)
