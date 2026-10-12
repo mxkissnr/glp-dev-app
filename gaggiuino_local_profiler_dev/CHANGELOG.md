@@ -1,3 +1,7 @@
+## dev-20261012_1440 — 2026-10-12
+
+- Cap live accumulators, bound lastShotId (#1601 slice 3) (#1652) (3a6ace6)
+
 ## dev-20261012_1433 — 2026-10-12
 
 - Maintenance: log date ignored, whole-map saves lose updates (#1649) (c2d8bbf)
