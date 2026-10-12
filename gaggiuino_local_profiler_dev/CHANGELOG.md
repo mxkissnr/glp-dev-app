@@ -1,3 +1,7 @@
+## dev-20261012_1713 — 2026-10-12
+
+- Bean bag follow-ups: no stale roast date on bean save, 404 for unknown bags, unique frozen-portion ids, safe bag dragging (#1661) (0f6b10b)
+
 ## dev-20261012_1604 — 2026-10-12
 
 - A save or order action the server rejects shows an error instead of looking successful (#1614) (#1660) (aacfde9)
