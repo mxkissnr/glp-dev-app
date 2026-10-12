@@ -1,3 +1,7 @@
+## dev-20261012_1838 — 2026-10-12
+
+- Image pipeline: no crash on 32-bit ARM, no location data kept on fallback, no stale thumbnails, imports never replace your own photo (#1668) (eb9ff93)
+
 ## dev-20261012_1834 — 2026-10-12
 
 - docs: remove stale .claude settings, fix CLAUDE.md drift (Refs #1623) (#1667) (181368e)
