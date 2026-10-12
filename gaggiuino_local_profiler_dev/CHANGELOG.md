@@ -1,3 +1,7 @@
+## dev-20261012_1849 — 2026-10-12
+
+- Remove private note references and a private hostname fallback from public source (#1669) (c0e932b)
+
 ## dev-20261012_1838 — 2026-10-12
 
 - Image pipeline: no crash on 32-bit ARM, no location data kept on fallback, no stale thumbnails, imports never replace your own photo (#1668) (eb9ff93)
