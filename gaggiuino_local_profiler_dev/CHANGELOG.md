@@ -1,3 +1,7 @@
+## dev-20261012_1547 — 2026-10-12
+
+- Saving a notification option can no longer reopen the coffee shop (#1614) (#1658) (99ab8e3)
+
 ## dev-20261012_1545 — 2026-10-12
 
 - Shutdown drains requests before closing the DB, SSE recovers dropped refreshes, an empty token file no longer locks the app (#1612) (#1656) (7e017cb)
