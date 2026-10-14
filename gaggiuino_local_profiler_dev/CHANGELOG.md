@@ -1,3 +1,7 @@
+## dev-20261014_1918 — 2026-10-14
+
+- Remove the dead 3.0 cutover backup; chown /data only when needed (#1698) (5d5069b)
+
 ## dev-20261014_1915 — 2026-10-14
 
 - Remove the dead 3.0 cutover backup; chown /data only when needed (#1698) (5d5069b)
