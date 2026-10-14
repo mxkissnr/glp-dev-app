@@ -1,3 +1,7 @@
+## dev-20261014_1949 — 2026-10-14
+
+- Issue #1622 slice 5: one package for the JS-style number parsers (#1703) (5562c41)
+
 ## dev-20261014_1945 — 2026-10-14
 
 - Consolidate duplicated logic, part 4: the library uses the shared keyed rate limiter (#1702) (7ea29a1)
