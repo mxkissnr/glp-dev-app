@@ -1,3 +1,7 @@
+## dev-20261014_1945 — 2026-10-14
+
+- Consolidate duplicated logic, part 4: the library uses the shared keyed rate limiter (#1702) (7ea29a1)
+
 ## dev-20261014_1934 — 2026-10-14
 
 - Importer: title-case umlaut-initial flavour notes, hoist static regexes (#1701) (d08f34f)
