@@ -1,3 +1,7 @@
+## dev-20261014_1845 — 2026-10-14
+
+- test: restore fake timers and globals, fix frozen-portion DST flake (#1695) (0a17944)
+
 ## dev-20261014_1834 — 2026-10-14
 
 - netguard: drop the DNS resolver address from resolve errors (#1693) (ffc93bc)
