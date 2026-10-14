@@ -1,3 +1,8 @@
+## dev-20261014_1934 — 2026-10-14
+
+- Importer: title-case umlaut-initial flavour notes, hoist static regexes (#1701) (d08f34f)
+- refactor: one helper for the concrete active machine id (Refs #1622) (#1700) (7036d17)
+
 ## dev-20261014_1923 — 2026-10-14
 
 - Consolidate duplicated logic, part 2: one roast-date parser instead of four (#1699) (c8d4d93)
