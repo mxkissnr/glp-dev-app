@@ -1,3 +1,7 @@
+## dev-20261014_1758 — 2026-10-14
+
+- Issue #1600 slice 3: test the real live-sync handlers instead of… (#1687) (44d090c)
+
 ## dev-20261014_1750 — 2026-10-14
 
 - test: fixed base for readySwitchOnAt so switch-ons never collide (Closes #1689) (#1690) (8b1df33)
