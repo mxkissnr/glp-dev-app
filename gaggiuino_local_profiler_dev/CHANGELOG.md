@@ -1,3 +1,8 @@
+## dev-20261014_1909 — 2026-10-14
+
+- Remove dead code, part 2: drop the Node-backend shots.json fallback (Refs #1621) (#1697) (1e5c6f7)
+- Issue #1621 slice 1: Remove dead code, part 1: Go (protobuf bool… (#1696) (dc5cd7f)
+
 ## dev-20261014_1845 — 2026-10-14
 
 - test: restore fake timers and globals, fix frozen-portion DST flake (#1695) (0a17944)
