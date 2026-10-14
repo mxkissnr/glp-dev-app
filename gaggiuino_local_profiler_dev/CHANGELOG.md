@@ -1,3 +1,7 @@
+## dev-20261014_1923 — 2026-10-14
+
+- Consolidate duplicated logic, part 2: one roast-date parser instead of four (#1699) (c8d4d93)
+
 ## dev-20261014_1918 — 2026-10-14
 
 - Remove the dead 3.0 cutover backup; chown /data only when needed (#1698) (5d5069b)
