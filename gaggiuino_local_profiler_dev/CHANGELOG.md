@@ -1,3 +1,7 @@
+## dev-20261014_1750 — 2026-10-14
+
+- test: fixed base for readySwitchOnAt so switch-ons never collide (Closes #1689) (#1690) (8b1df33)
+
 ## dev-20261012_2115 — 2026-10-12
 
 - test: machine tests without real sleeps (Closes #1599) (#1686) (52e4f03)
