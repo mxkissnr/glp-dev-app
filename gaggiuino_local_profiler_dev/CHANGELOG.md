@@ -1,3 +1,8 @@
+## dev-20261014_1834 — 2026-10-14
+
+- netguard: drop the DNS resolver address from resolve errors (#1693) (ffc93bc)
+- Issue #1600 slice 4: behaviour tests instead of source-text assertions (#1692) (9cab60b)
+
 ## dev-20261014_1758 — 2026-10-14
 
 - Issue #1600 slice 3: test the real live-sync handlers instead of… (#1687) (44d090c)
