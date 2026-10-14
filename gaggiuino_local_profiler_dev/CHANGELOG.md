@@ -1,3 +1,7 @@
+## dev-20261014_1915 — 2026-10-14
+
+- Remove the dead 3.0 cutover backup; chown /data only when needed (#1698) (5d5069b)
+
 ## dev-20261014_1909 — 2026-10-14
 
 - Remove dead code, part 2: drop the Node-backend shots.json fallback (Refs #1621) (#1697) (1e5c6f7)
