@@ -1,3 +1,7 @@
+## dev-20261015_1926 — 2026-10-15
+
+- Score CSS classes use the five-step scale too (#1714) (1fb57ce)
+
 ## dev-20261015_1923 — 2026-10-15
 
 - Issue #1621 remove dead code, collecting branch run R3 (#1713) (3860b25)
