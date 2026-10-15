@@ -1,3 +1,8 @@
+## dev-20261015_1710 — 2026-10-15
+
+- Consolidate duplicated logic, part 6: one options.json reader in internal/config (#1705) (a31b5db)
+- Consolidate duplicated logic, part 7: bean, grinder and basket creation no longer return an unused library copy (#1704) (a5c8d39)
+
 ## dev-20261014_1949 — 2026-10-14
 
 - Issue #1622 slice 5: one package for the JS-style number parsers (#1703) (5562c41)
