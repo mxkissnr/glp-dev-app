@@ -1,3 +1,7 @@
+## dev-20261015_1943 — 2026-10-15
+
+- Scoring: single-sample 0.0 °C thermocouple dropouts dominate the temperature score (#1715) (479fd66)
+
 ## dev-20261015_1926 — 2026-10-15
 
 - Score CSS classes use the five-step scale too (#1714) (1fb57ce)
