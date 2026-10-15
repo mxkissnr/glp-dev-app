@@ -1,3 +1,7 @@
+## dev-20261015_1720 — 2026-10-15
+
+- Consolidate duplicated logic, part 9: puck screen, milk and recipe creation no longer return an unused library copy (#1706) (535fd80)
+
 ## dev-20261015_1710 — 2026-10-15
 
 - Consolidate duplicated logic, part 6: one options.json reader in internal/config (#1705) (a31b5db)
