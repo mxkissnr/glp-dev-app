@@ -1,3 +1,8 @@
+## dev-20261017_1502 — 2026-10-17
+
+- fix: small corrections from the docs pass (#1727) (#1728) (16e5b78)
+- fix(sidebar): undo toast after moving a shot to the trash (#1716) (#1726) (6bdde62)
+
 ## dev-20261017_1440 — 2026-10-17
 
 - docs: correct drifted comments, docs and API spec (#1623) (#1725) (ddbc2a7)
