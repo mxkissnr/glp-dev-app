@@ -1,3 +1,7 @@
+## dev-20261017_1033 — 2026-10-17
+
+- refactor: split oversized files (#1627) (#1719) (a40ea31)
+
 ## dev-20261015_1943 — 2026-10-15
 
 - Scoring: single-sample 0.0 °C thermocouple dropouts dominate the temperature score (#1715) (479fd66)
