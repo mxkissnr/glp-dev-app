@@ -1,3 +1,7 @@
+## dev-20261017_1201 — 2026-10-17
+
+- perf: stop loading the full shot history on request paths (#1616) (#1720) (9704b7b)
+
 ## dev-20261017_1033 — 2026-10-17
 
 - refactor: split oversized files (#1627) (#1719) (a40ea31)
