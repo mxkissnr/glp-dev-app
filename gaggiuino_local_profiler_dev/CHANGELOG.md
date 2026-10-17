@@ -1,3 +1,7 @@
+## dev-20261017_1620 — 2026-10-17
+
+- fix(i18n): translate placeholders and onboarding text (#1620) (#1734) (3e184e4)
+
 ## dev-20261017_1609 — 2026-10-17
 
 - fix(i18n): unused keys, consistency test, backup text, rune limits (#1620) (#1733) (fc77ada)
