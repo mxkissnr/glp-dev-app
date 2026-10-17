@@ -1,3 +1,7 @@
+## dev-20261017_1609 — 2026-10-17
+
+- fix(i18n): unused keys, consistency test, backup text, rune limits (#1620) (#1733) (fc77ada)
+
 ## dev-20261017_1543 — 2026-10-17
 
 - security: low-severity hardening (#1626) (#1729) (b7f9b97)
