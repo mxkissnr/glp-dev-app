@@ -1,3 +1,7 @@
+## dev-20261017_1412 — 2026-10-17
+
+- fix(scores): tie the score-cache fingerprint to a named score version (#1718) (#1723) (a8f21de)
+
 ## dev-20261017_1350 — 2026-10-17
 
 - refactor(frontend): slim main.ts boot, drop unused window exports, guard storage (#1615) (#1722) (fd88572)
