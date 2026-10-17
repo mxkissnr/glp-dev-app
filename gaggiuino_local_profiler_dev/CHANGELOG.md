@@ -1,3 +1,7 @@
+## dev-20261017_1636 — 2026-10-17
+
+- fix(i18n): translate connection status texts (#1620) (#1735) (7df7cc9)
+
 ## dev-20261017_1620 — 2026-10-17
 
 - fix(i18n): translate placeholders and onboarding text (#1620) (#1734) (3e184e4)
