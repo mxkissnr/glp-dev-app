@@ -1,3 +1,7 @@
+## dev-20261017_1543 — 2026-10-17
+
+- security: low-severity hardening (#1626) (#1729) (b7f9b97)
+
 ## dev-20261017_1502 — 2026-10-17
 
 - fix: small corrections from the docs pass (#1727) (#1728) (16e5b78)
