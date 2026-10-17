@@ -1,3 +1,7 @@
+## dev-20261017_1421 — 2026-10-17
+
+- perf(achievements): evaluate from the score cache and light reads (#1721) (#1724) (cb44fcc)
+
 ## dev-20261017_1412 — 2026-10-17
 
 - fix(scores): tie the score-cache fingerprint to a named score version (#1718) (#1723) (a8f21de)
