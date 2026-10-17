@@ -1,3 +1,7 @@
+## dev-20261017_1440 — 2026-10-17
+
+- docs: correct drifted comments, docs and API spec (#1623) (#1725) (ddbc2a7)
+
 ## dev-20261017_1421 — 2026-10-17
 
 - perf(achievements): evaluate from the score cache and light reads (#1721) (#1724) (cb44fcc)
