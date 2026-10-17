@@ -1,3 +1,7 @@
+## dev-20261017_1350 — 2026-10-17
+
+- refactor(frontend): slim main.ts boot, drop unused window exports, guard storage (#1615) (#1722) (fd88572)
+
 ## dev-20261017_1201 — 2026-10-17
 
 - perf: stop loading the full shot history on request paths (#1616) (#1720) (9704b7b)
