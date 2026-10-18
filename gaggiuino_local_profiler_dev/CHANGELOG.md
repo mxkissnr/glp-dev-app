@@ -1,3 +1,7 @@
+## dev-20261018_0841 — 2026-10-18
+
+- CI and release pipeline integrity: manual image builds, unprotected branches, supply-chain delays (#1742) (d667c609)
+
 ## dev-20261018_0832 — 2026-10-18
 
 - Accessibility: unlabeled form fields and non-keyboard controls (#1740) (e78f6ec3)
