@@ -1,3 +1,7 @@
+## dev-20261018_1303 — 2026-10-18
+
+- Trust only the Supervisor's ingress address for Home Assistant Ingress requests (#1757) (5d3d3e8d)
+
 ## dev-20261018_1249 — 2026-10-18
 
 - Encode ids in frontend API paths: helper, library, machines, maintenance (#1756) (c0551e79)
