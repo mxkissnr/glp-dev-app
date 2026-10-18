@@ -1,3 +1,7 @@
+## dev-20261018_1836 — 2026-10-18
+
+- perf-compare: measure performance against the previous release during acceptance (#1771) (2127ada8)
+
 ## dev-20261018_1831 — 2026-10-18
 
 - dev-stats: human co-authors are counted as AI models (#1770) (f784c6ab)
