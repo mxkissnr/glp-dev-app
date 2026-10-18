@@ -1,3 +1,7 @@
+## dev-20261018_0907 — 2026-10-18
+
+- i18n: hard-coded strings, unused keys, contradicting texts (#1743) (c8fdaace)
+
 ## dev-20261018_0841 — 2026-10-18
 
 - CI and release pipeline integrity: manual image builds, unprotected branches, supply-chain delays (#1742) (d667c609)
