@@ -1,3 +1,8 @@
+## dev-20261018_1023 — 2026-10-18
+
+- Complete network guard address ranges (#1750) (8d40c79a)
+- Bound share-card axes and GaggiMate history sizes (#1749) (58ee36f0)
+
 ## dev-20261018_1012 — 2026-10-18
 
 - Validate stored shot image extensions (#1748) (96171884)
