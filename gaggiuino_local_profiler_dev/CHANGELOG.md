@@ -1,3 +1,7 @@
+## dev-20261018_0805 — 2026-10-18
+
+- ci: harden build, dev-channel, disclosure and upstream workflows (#1736) (af8a6bb6)
+
 ## dev-20261017_1636 — 2026-10-17
 
 - fix(i18n): translate connection status texts (#1620) (#1735) (7df7cc9)
