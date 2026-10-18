@@ -1,3 +1,7 @@
+## dev-20261018_1041 — 2026-10-18
+
+- Gaggiuino profile ids are parsed before use (#1751) (163950e5)
+
 ## dev-20261018_1023 — 2026-10-18
 
 - Complete network guard address ranges (#1750) (8d40c79a)
