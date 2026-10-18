@@ -1,3 +1,12 @@
+## dev-20261018_1807 — 2026-10-18
+
+- Merge pull request #1768 from mxkissnr/main (2e9dd9eb)
+- Merge pull request #1766 from mxkissnr/release/v3.5.0 (79975293)
+- Release v3.5.0: merge duplicate changelog lines, drop internal entry, neutral ingress wording (7ca08c19)
+- Release v3.5.0: render screenshots from the demo backup used for v3.4.0 (7bb250f3)
+- Release v3.5.0: refresh screenshots and dev-stats (2031392b)
+- Release v3.5.0: version bump, changelog, acceptance protocol (0a67d929)
+
 ## dev-20261018_1428 — 2026-10-18
 
 - Bean form: a save the server rejects fails silently (#1765) (32c437df)
