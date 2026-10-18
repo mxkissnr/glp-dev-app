@@ -1,3 +1,7 @@
+## dev-20261018_0821 — 2026-10-18
+
+- Light theme: fix unreadable text and missing tokens (#1618) (#1739) (b3302294)
+
 ## dev-20261018_0818 — 2026-10-18
 
 - Per-user rate-limit buckets behind HA Ingress (#1732) (#1738) (5dfbec71)
