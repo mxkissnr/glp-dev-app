@@ -1,3 +1,7 @@
+## dev-20261018_0818 — 2026-10-18
+
+- Per-user rate-limit buckets behind HA Ingress (#1732) (#1738) (5dfbec71)
+
 ## dev-20261018_0808 — 2026-10-18
 
 - i18n: translate remaining hard-coded UI strings in views (#1737) (27a3c376)
