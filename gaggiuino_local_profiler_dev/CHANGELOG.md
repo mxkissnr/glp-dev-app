@@ -1,3 +1,8 @@
+## dev-20261018_1428 — 2026-10-18
+
+- Bean form: a save the server rejects fails silently (#1765) (32c437df)
+- Translate the shot list and machine status aria-labels (#1764) (d005fca3)
+
 ## dev-20261018_1307 — 2026-10-18
 
 - Encode ids in the remaining frontend API paths and guard against regressions (#1758) (9dde1b2a)
