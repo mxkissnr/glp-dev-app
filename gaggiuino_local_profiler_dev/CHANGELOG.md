@@ -1,3 +1,7 @@
+## dev-20261018_1831 — 2026-10-18
+
+- dev-stats: human co-authors are counted as AI models (#1770) (f784c6ab)
+
 ## dev-20261018_1807 — 2026-10-18
 
 - Merge pull request #1768 from mxkissnr/main (2e9dd9eb)
