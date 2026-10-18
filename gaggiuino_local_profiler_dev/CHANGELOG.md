@@ -1,3 +1,9 @@
+## dev-20261018_1249 — 2026-10-18
+
+- Encode ids in frontend API paths: helper, library, machines, maintenance (#1756) (c0551e79)
+- Bind stored MQTT credentials to their broker and validate a restored API token (#1755) (1e7ae16d)
+- Fix required check names in CONTRIBUTING (#1754) (fdd0f4d0)
+
 ## dev-20261018_1047 — 2026-10-18
 
 - Only notify services are called; order and menu ids are checked (#1752) (6486e5c3)
