@@ -1,3 +1,7 @@
+## dev-20261018_0808 — 2026-10-18
+
+- i18n: translate remaining hard-coded UI strings in views (#1737) (27a3c376)
+
 ## dev-20261018_0805 — 2026-10-18
 
 - ci: harden build, dev-channel, disclosure and upstream workflows (#1736) (af8a6bb6)
