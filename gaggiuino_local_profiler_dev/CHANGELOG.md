@@ -1,3 +1,7 @@
+## dev-20261018_0937 — 2026-10-18
+
+- Accessibility: unlabeled form fields and non-keyboard controls (#1746) (69b9a998)
+
 ## dev-20261018_0918 — 2026-10-18
 
 - Light theme: unreadable text and non-token colours (#1745) (edfaf6c7)
