@@ -1,3 +1,7 @@
+## dev-20261018_1047 — 2026-10-18
+
+- Only notify services are called; order and menu ids are checked (#1752) (6486e5c3)
+
 ## dev-20261018_1041 — 2026-10-18
 
 - Gaggiuino profile ids are parsed before use (#1751) (163950e5)
