@@ -1,3 +1,7 @@
+## dev-20261018_0918 — 2026-10-18
+
+- Light theme: unreadable text and non-token colours (#1745) (edfaf6c7)
+
 ## dev-20261018_0915 — 2026-10-18
 
 - Analytics: lay out the coffee-year card by its own width (#1744) (db3f0d80)
