@@ -1,3 +1,7 @@
+## dev-20261018_0915 — 2026-10-18
+
+- Analytics: lay out the coffee-year card by its own width (#1744) (db3f0d80)
+
 ## dev-20261018_0907 — 2026-10-18
 
 - i18n: hard-coded strings, unused keys, contradicting texts (#1743) (c8fdaace)
