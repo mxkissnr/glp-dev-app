@@ -1,3 +1,9 @@
+## dev-20261019_1752 — 2026-10-19
+
+- Machine settings still wait for a timeout when the machine is known to be off (#1780) (80e28f58)
+- Maintenance log: translate the auto-synced note label (#1779) (f25645d2)
+- i18n: two screen-reader labels stay German, and a live language switch leaves parts of the page untranslated (#1778) (98cf21e8)
+
 ## dev-20261019_1726 — 2026-10-19
 
 - Live: rebuild the reference-shot dropdown after a machine switch (#1777) (41a52b84)
