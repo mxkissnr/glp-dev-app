@@ -1,3 +1,7 @@
+## dev-20261019_1726 — 2026-10-19
+
+- Live: rebuild the reference-shot dropdown after a machine switch (#1777) (41a52b84)
+
 ## dev-20261019_1718 — 2026-10-19
 
 - Fix broken scale icon and drop stray separator in shot verdict header (#1775) (#1776) (9202b4c8)
