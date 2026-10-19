@@ -1,3 +1,7 @@
+## dev-20261019_1718 — 2026-10-19
+
+- Fix broken scale icon and drop stray separator in shot verdict header (#1775) (#1776) (9202b4c8)
+
 ## dev-20261019_1109 — 2026-10-19
 
 - chore(deps): update dev-dependencies (#1774) (b0d171b2)
