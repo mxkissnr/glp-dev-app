@@ -1,3 +1,7 @@
+## dev-20261019_1759 — 2026-10-19
+
+- Remove the deprecated ?token= on /api/events (#1781) (66188b16)
+
 ## dev-20261019_1752 — 2026-10-19
 
 - Machine settings still wait for a timeout when the machine is known to be off (#1780) (80e28f58)
