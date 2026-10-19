@@ -1,3 +1,8 @@
+## dev-20261019_1819 — 2026-10-19
+
+- ci: post published releases to Discord #announcements (#1785) (02fa95c7)
+- docs: link the GLP Discord community (#1783) (82d519dd)
+
 ## dev-20261019_1759 — 2026-10-19
 
 - Remove the deprecated ?token= on /api/events (#1781) (66188b16)
