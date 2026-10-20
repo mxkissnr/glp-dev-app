@@ -1,3 +1,8 @@
+## dev-20261020_1528 — 2026-10-20
+
+- Bag roast date can't be corrected once the bag is in use; stored bean age stays wrong (#1789) (ed3fe9a6)
+- Remove the non-commercial claim from the licence line (#1787) (8c6e02c8)
+
 ## dev-20261019_1819 — 2026-10-19
 
 - ci: post published releases to Discord #announcements (#1785) (02fa95c7)
