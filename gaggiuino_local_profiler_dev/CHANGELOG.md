@@ -1,3 +1,8 @@
+## dev-20261021_1832 — 2026-10-21
+
+- chore(deps): update node.js to a5f4366 (#1773) (2ae88c07)
+- chore(deps): update github/codeql-action digest to 6f2ac81 (#1772) (a76f896e)
+
 ## dev-20261020_1528 — 2026-10-20
 
 - Bag roast date can't be corrected once the bag is in use; stored bean age stays wrong (#1789) (ed3fe9a6)
