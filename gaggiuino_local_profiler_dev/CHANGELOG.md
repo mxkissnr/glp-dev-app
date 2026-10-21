@@ -1,3 +1,8 @@
+## dev-20261021_1917 — 2026-10-21
+
+- Demo fixtures: shots fall out of the 14-day sidebar window, E2E smoke test fails since 2026-10-21 (#1795) (4f9d8f47)
+- Build with Go 1.27.3 (GO-2026-6809) (#1793) (81c0ab1d)
+
 ## dev-20261021_1832 — 2026-10-21
 
 - chore(deps): update node.js to a5f4366 (#1773) (2ae88c07)
