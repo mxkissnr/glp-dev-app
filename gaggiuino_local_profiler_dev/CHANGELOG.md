@@ -1,3 +1,11 @@
+## dev-20261023_2139 — 2026-10-23
+
+- Merge pull request #1799 from mxkissnr/main (1a8458f0)
+- Merge pull request #1797 from mxkissnr/release/v3.5.1 (ba5b7be6)
+- docs: add v3.5.1 acceptance protocol (all cases waived) (7b0a40e5)
+- Release v3.5.1 (d9079832)
+- docs: the cards are now part of glp-integration (#1791) (f4e19940)
+
 ## dev-20261021_1917 — 2026-10-21
 
 - Demo fixtures: shots fall out of the 14-day sidebar window, E2E smoke test fails since 2026-10-21 (#1795) (4f9d8f47)
