@@ -1,3 +1,7 @@
+## dev-20261025_1417 — 2026-10-25
+
+- Screenshots: one full-window format for every PNG, Live and Orders from the demo backup (#1810) (dc72804a)
+
 ## dev-20261025_1004 — 2026-10-25
 
 - ci: title the Discord release post "GLP App <tag>" (#1808) (acdb841c)
