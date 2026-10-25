@@ -1,3 +1,7 @@
+## dev-20261025_1548 — 2026-10-25
+
+- Scoped orders-only credential for the guest kiosk (#1813) (051f4932)
+
 ## dev-20261025_1530 — 2026-10-25
 
 - Scoped orders-only credential for the guest kiosk (#1812) (fc71b674)
