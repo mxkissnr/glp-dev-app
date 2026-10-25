@@ -1,3 +1,7 @@
+## dev-20261025_1710 — 2026-10-25
+
+- ci: fail the Go job when coverage drops below the release baseline (#1814) (a84e8f59)
+
 ## dev-20261025_1548 — 2026-10-25
 
 - Scoped orders-only credential for the guest kiosk (#1813) (051f4932)
