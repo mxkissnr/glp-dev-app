@@ -1,3 +1,7 @@
+## dev-20261025_0918 — 2026-10-25
+
+- docs: re-render README screenshots from the sanitized demo backup (#1804) (#1806) (b76b0e70)
+
 ## dev-20261025_0915 — 2026-10-25
 
 - Screenshots: render from the sanitized demo backup by default, not the synthetic seed (#1805) (2bd5984e)
