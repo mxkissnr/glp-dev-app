@@ -1,3 +1,7 @@
+## dev-20261025_0915 — 2026-10-25
+
+- Screenshots: render from the sanitized demo backup by default, not the synthetic seed (#1805) (2bd5984e)
+
 ## dev-20261025_0906 — 2026-10-25
 
 - docs: neobrutalist style for dev-stats charts, README and DEVELOPMENT.md (#1802) (#1803) (421c5209)
