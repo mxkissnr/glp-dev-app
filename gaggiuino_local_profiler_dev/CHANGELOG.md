@@ -1,3 +1,7 @@
+## dev-20261025_1530 — 2026-10-25
+
+- Scoped orders-only credential for the guest kiosk (#1812) (fc71b674)
+
 ## dev-20261025_1426 — 2026-10-25
 
 - docs: regenerate screenshots in one full-window format (#1809) (#1811) (cce14342)
