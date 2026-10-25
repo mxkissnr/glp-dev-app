@@ -1,3 +1,7 @@
+## dev-20261025_0906 — 2026-10-25
+
+- docs: neobrutalist style for dev-stats charts, README and DEVELOPMENT.md (#1802) (#1803) (421c5209)
+
 ## dev-20261023_2209 — 2026-10-23
 
 - feat(dev-stats): monthly AI commits per model line chart (#1800) (#1801) (068585e7)
