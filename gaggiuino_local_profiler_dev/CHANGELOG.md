@@ -1,3 +1,7 @@
+## dev-20261025_1004 — 2026-10-25
+
+- ci: title the Discord release post "GLP App <tag>" (#1808) (acdb841c)
+
 ## dev-20261025_0918 — 2026-10-25
 
 - docs: re-render README screenshots from the sanitized demo backup (#1804) (#1806) (b76b0e70)
