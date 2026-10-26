@@ -1,3 +1,8 @@
+## dev-20261026_1740 — 2026-10-26
+
+- CI: free the dpkg lock between Playwright install retries (#1822) (8e344735)
+- docs(acceptance): run the GaggiMate simulator from the published image (#1816) (ed333719)
+
 ## dev-20261025_1710 — 2026-10-25
 
 - ci: fail the Go job when coverage drops below the release baseline (#1814) (a84e8f59)
