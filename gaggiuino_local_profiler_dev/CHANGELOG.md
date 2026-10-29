@@ -1,3 +1,7 @@
+## dev-20261029_1832 — 2026-10-29
+
+- Bump golang.org/x/net to v0.62.0 (GO-2026-6860) (#1827) (aa9fa93c)
+
 ## dev-20261029_1818 — 2026-10-29
 
 - fix(deps): update dependency barcode-detector to v3.2.3 (#1820) (cba078b2)
