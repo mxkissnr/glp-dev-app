@@ -1,3 +1,7 @@
+## dev-20261029_1837 — 2026-10-29
+
+- Sync: stale blocklist after a machine shot-counter reset blocks every import (#1826) (f33864d7)
+
 ## dev-20261029_1832 — 2026-10-29
 
 - Bump golang.org/x/net to v0.62.0 (GO-2026-6860) (#1827) (aa9fa93c)
