@@ -1,3 +1,7 @@
+## dev-20261029_1818 — 2026-10-29
+
+- fix(deps): update dependency barcode-detector to v3.2.3 (#1820) (cba078b2)
+
 ## dev-20261026_1740 — 2026-10-26
 
 - CI: free the dpkg lock between Playwright install retries (#1822) (8e344735)
