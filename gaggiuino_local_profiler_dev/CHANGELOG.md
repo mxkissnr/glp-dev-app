@@ -1,3 +1,9 @@
+## dev-20261029_1859 — 2026-10-29
+
+- ci: grant attestation permissions to the dev image build callers (#1833) (5afd478e)
+- ci: daily vulnerability scan and Trivy image scan in the PR gate (#1832) (67b9ab78)
+- ci: build provenance, SBOM and attestation for release and dev images (#1831) (aff6df0b)
+
 ## dev-20261029_1837 — 2026-10-29
 
 - Sync: stale blocklist after a machine shot-counter reset blocks every import (#1826) (f33864d7)
