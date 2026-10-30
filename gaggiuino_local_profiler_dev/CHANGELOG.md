@@ -1,3 +1,7 @@
+## dev-20261030_1143 — 2026-10-30
+
+- Take photos with the camera directly from the app (#1846) (fdb00b3f)
+
 ## dev-20261030_1115 — 2026-10-30
 
 - Take photos with the camera directly from the app (#1844) (9db61b2f)
