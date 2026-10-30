@@ -1,3 +1,7 @@
+## dev-20261030_1034 — 2026-10-30
+
+- Take photos with the camera directly from the app (#1840) (df0fb78a)
+
 ## dev-20261030_1020 — 2026-10-30
 
 - Configurable bean freshness windows and low-stock threshold (#1839) (56f5a217)
