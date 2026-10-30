@@ -1,3 +1,7 @@
+## dev-20261030_1107 — 2026-10-30
+
+- ci: check the release tag before publishing (#1842) (7418175e)
+
 ## dev-20261030_1034 — 2026-10-30
 
 - Take photos with the camera directly from the app (#1840) (df0fb78a)
