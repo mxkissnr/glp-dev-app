@@ -1,3 +1,7 @@
+## dev-20261030_0946 — 2026-10-30
+
+- Take photos with the camera directly from the app (#1838) (58b147a8)
+
 ## dev-20261029_1859 — 2026-10-29
 
 - ci: grant attestation permissions to the dev image build callers (#1833) (5afd478e)
