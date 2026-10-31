@@ -1,3 +1,7 @@
+## dev-20261031_1905 — 2026-10-31
+
+- Mix beans in one shot: several bags with grams each, #1837 (#1843) (4c5523d5)
+
 ## dev-20261030_1143 — 2026-10-30
 
 - Take photos with the camera directly from the app (#1846) (fdb00b3f)
