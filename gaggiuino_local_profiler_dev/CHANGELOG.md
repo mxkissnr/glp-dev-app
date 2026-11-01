@@ -1,3 +1,7 @@
+## dev-20261101_2043 — 2026-11-01
+
+- Restore: a JSON backup loses every shot photo (#1854) (81f69f9d)
+
 ## dev-20261031_1905 — 2026-10-31
 
 - Mix beans in one shot: several bags with grams each, #1837 (#1843) (4c5523d5)
