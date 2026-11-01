@@ -1,3 +1,7 @@
+## dev-20261101_2109 — 2026-11-01
+
+- Mixed beans and freshness: three small display gaps from the v3.6.0 acceptance run (#1856) (c68e63c4)
+
 ## dev-20261101_2056 — 2026-11-01
 
 - Mixed beans and freshness: three small display gaps from the v3.6.0 acceptance run (#1855) (0e832d41)
