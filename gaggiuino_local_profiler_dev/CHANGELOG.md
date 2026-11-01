@@ -1,3 +1,7 @@
+## dev-20261101_2056 — 2026-11-01
+
+- Mixed beans and freshness: three small display gaps from the v3.6.0 acceptance run (#1855) (0e832d41)
+
 ## dev-20261101_2043 — 2026-11-01
 
 - Restore: a JSON backup loses every shot photo (#1854) (81f69f9d)
