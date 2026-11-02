@@ -1,3 +1,7 @@
+## dev-20261102_1748 — 2026-11-02
+
+- release:check: accept a source-tree stamp for screenshot freshness (#1871) (24311680)
+
 ## dev-20261102_1718 — 2026-11-02
 
 - ci: run Test and build on pushes to ppops/** branches (#1870) (9ceea5ad)
