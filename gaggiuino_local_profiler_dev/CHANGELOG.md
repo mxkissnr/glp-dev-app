@@ -1,3 +1,9 @@
+## dev-20261102_1547 — 2026-11-02
+
+- Merge pull request #1860 from mxkissnr/main (eaece6dc)
+- Merge pull request #1858 from mxkissnr/release/v3.6.0-1 (928552e5)
+- Release v3.6.0 (c731cadc)
+
 ## dev-20261102_0948 — 2026-11-02
 
 - chore(deps): update dev-dependencies (#1863) (40cd7894)
