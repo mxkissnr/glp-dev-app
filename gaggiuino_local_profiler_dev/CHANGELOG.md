@@ -1,3 +1,7 @@
+## dev-20261102_1944 — 2026-11-02
+
+- Shot photos keep their original and can be re-cropped (API), #1845… (#1875) (3010df6c)
+
 ## dev-20261102_1904 — 2026-11-02
 
 - Library photos keep their original and can be re-cropped (API), #1845… (#1874) (0445d272)
