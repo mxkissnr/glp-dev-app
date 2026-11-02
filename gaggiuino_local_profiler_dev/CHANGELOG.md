@@ -1,3 +1,7 @@
+## dev-20261102_1904 — 2026-11-02
+
+- Library photos keep their original and can be re-cropped (API), #1845… (#1874) (0445d272)
+
 ## dev-20261102_1852 — 2026-11-02
 
 - ci: build only amd64 in the Docker smoke test on ppops/** pushes (#1873) (ad74c29a)
