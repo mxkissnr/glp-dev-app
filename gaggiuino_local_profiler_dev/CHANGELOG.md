@@ -1,3 +1,7 @@
+## dev-20261102_1852 — 2026-11-02
+
+- ci: build only amd64 in the Docker smoke test on ppops/** pushes (#1873) (ad74c29a)
+
 ## dev-20261102_1748 — 2026-11-02
 
 - release:check: accept a source-tree stamp for screenshot freshness (#1871) (24311680)
