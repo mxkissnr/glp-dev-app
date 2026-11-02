@@ -1,3 +1,7 @@
+## dev-20261102_1646 — 2026-11-02
+
+- chore(deps): update alpine:3.24 docker digest to be26560 (#1861) (07caee48)
+
 ## dev-20261102_1638 — 2026-11-02
 
 - chore(deps): update node.js to c86ecea (#1819) (acdc8003)
