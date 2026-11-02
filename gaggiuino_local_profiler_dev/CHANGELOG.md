@@ -1,3 +1,8 @@
+## dev-20261102_0948 — 2026-11-02
+
+- chore(deps): update dev-dependencies (#1863) (40cd7894)
+- docs: install the companion integration via the HA 2026.11 Marketplace (#1834) (253d3a9c)
+
 ## dev-20261101_2109 — 2026-11-01
 
 - Mixed beans and freshness: three small display gaps from the v3.6.0 acceptance run (#1856) (c68e63c4)
