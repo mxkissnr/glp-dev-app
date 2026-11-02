@@ -1,3 +1,7 @@
+## dev-20261102_1615 — 2026-11-02
+
+- fix(deps): update dependency chart.js to v4.6.1 (#1864) (11640d7a)
+
 ## dev-20261102_1547 — 2026-11-02
 
 - Merge pull request #1860 from mxkissnr/main (eaece6dc)
