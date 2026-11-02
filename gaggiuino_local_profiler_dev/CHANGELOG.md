@@ -1,3 +1,7 @@
+## dev-20261102_1718 — 2026-11-02
+
+- ci: run Test and build on pushes to ppops/** branches (#1870) (9ceea5ad)
+
 ## dev-20261102_1653 — 2026-11-02
 
 - chore(deps): update github/codeql-action digest to 9b32540 (#1817) (f59b87e5)
