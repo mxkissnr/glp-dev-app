@@ -1,3 +1,7 @@
+## dev-20261103_0925 — 2026-11-03
+
+- Library photos keep their original and can be re-cropped, #1845 slice 5a (#1880) (d8a9324e)
+
 ## dev-20261103_0817 — 2026-11-03
 
 - Crop dialog returns the crop rectangle and the uncropped original,… (#1879) (d6a97bfa)
