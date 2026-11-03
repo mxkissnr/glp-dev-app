@@ -1,3 +1,7 @@
+## dev-20261103_2012 — 2026-11-03
+
+- Machine settings backups: per-machine schedule and retention, #1878… (#1892) (59cd6a1f)
+
 ## dev-20261103_1947 — 2026-11-03
 
 - PNG bean photos from a shop import are treated as sticker cut-outs (#1891) (3c5f93ea)
