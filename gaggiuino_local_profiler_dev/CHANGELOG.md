@@ -1,3 +1,7 @@
+## dev-20261103_1128 — 2026-11-03
+
+- Older photo hint in the crop dialog, #1845 slice 5b (#1881) (b0b48f70)
+
 ## dev-20261103_0925 — 2026-11-03
 
 - Library photos keep their original and can be re-cropped, #1845 slice 5a (#1880) (d8a9324e)
