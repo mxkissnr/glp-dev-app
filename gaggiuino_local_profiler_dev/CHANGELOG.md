@@ -1,3 +1,7 @@
+## dev-20261103_1947 — 2026-11-03
+
+- PNG bean photos from a shop import are treated as sticker cut-outs (#1891) (3c5f93ea)
+
 ## dev-20261103_1924 — 2026-11-03
 
 - Cropping a transparent photo gives a white background instead of black,… (#1890) (75bbd124)
