@@ -1,3 +1,7 @@
+## dev-20261103_1824 — 2026-11-03
+
+- Machine settings backups: list, back up now and delete routes, #1878… (#1887) (72dfa67a)
+
 ## dev-20261103_1324 — 2026-11-03
 
 - Machine settings backups: backend foundation and daily automatic… (#1885) (75e92f4f)
