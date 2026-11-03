@@ -1,3 +1,7 @@
+## dev-20261103_1151 — 2026-11-03
+
+- Firmware update view follows the migration, #1876 part b (#1882) (21bcb663)
+
 ## dev-20261103_1128 — 2026-11-03
 
 - Older photo hint in the crop dialog, #1845 slice 5b (#1881) (b0b48f70)
