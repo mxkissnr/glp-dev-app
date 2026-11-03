@@ -1,3 +1,7 @@
+## dev-20261103_2037 — 2026-11-03
+
+- Announce the app to Home Assistant via Supervisor discovery (#1893) (3f9caf48)
+
 ## dev-20261103_2012 — 2026-11-03
 
 - Machine settings backups: per-machine schedule and retention, #1878… (#1892) (59cd6a1f)
