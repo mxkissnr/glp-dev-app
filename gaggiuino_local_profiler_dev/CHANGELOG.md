@@ -1,3 +1,7 @@
+## dev-20261103_1249 — 2026-11-03
+
+- Bean photos and sticker cut-outs can be re-cropped later, #1845 slice 6a (#1883) (15bb2c9c)
+
 ## dev-20261103_1151 — 2026-11-03
 
 - Firmware update view follows the migration, #1876 part b (#1882) (21bcb663)
