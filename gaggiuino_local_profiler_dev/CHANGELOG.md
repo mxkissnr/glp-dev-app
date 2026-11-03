@@ -1,3 +1,8 @@
+## dev-20261103_1924 — 2026-11-03
+
+- Cropping a transparent photo gives a white background instead of black,… (#1890) (75bbd124)
+- Adjust the crop of a saved photo later (#1888) (835bd9bf)
+
 ## dev-20261103_1834 — 2026-11-03
 
 - Shot photos can be re-cropped later (#1886) (150f56f4)
