@@ -1,3 +1,7 @@
+## dev-20261103_0817 — 2026-11-03
+
+- Crop dialog returns the crop rectangle and the uncropped original,… (#1879) (d6a97bfa)
+
 ## dev-20261103_0809 — 2026-11-03
 
 - Backups restore the uncropped photo originals, #1845 slice 3 (#1877) (6f3ad609)
