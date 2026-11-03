@@ -1,3 +1,7 @@
+## dev-20261103_1834 — 2026-11-03
+
+- Shot photos can be re-cropped later (#1886) (150f56f4)
+
 ## dev-20261103_1824 — 2026-11-03
 
 - Machine settings backups: list, back up now and delete routes, #1878… (#1887) (72dfa67a)
