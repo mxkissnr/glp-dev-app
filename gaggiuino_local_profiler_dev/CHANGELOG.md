@@ -1,3 +1,7 @@
+## dev-20261103_0809 — 2026-11-03
+
+- Backups restore the uncropped photo originals, #1845 slice 3 (#1877) (6f3ad609)
+
 ## dev-20261102_1944 — 2026-11-02
 
 - Shot photos keep their original and can be re-cropped (API), #1845… (#1875) (3010df6c)
