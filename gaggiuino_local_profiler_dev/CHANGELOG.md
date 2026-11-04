@@ -1,3 +1,7 @@
+## dev-20261104_1356 — 2026-11-04
+
+- Document the Watchdog switch for a hanging app (#1894) (5d849655)
+
 ## dev-20261103_2037 — 2026-11-03
 
 - Announce the app to Home Assistant via Supervisor discovery (#1893) (3f9caf48)
