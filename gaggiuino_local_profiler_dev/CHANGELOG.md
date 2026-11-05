@@ -1,3 +1,7 @@
+## dev-20261105_1811 — 2026-11-05
+
+- Machine settings backups: read, download and upload a backup, #1878… (#1898) (126227b2)
+
 ## dev-20261105_1706 — 2026-11-05
 
 - Machine settings backups travel in the GLP backup, #1878 slice 6 (#1895) (013df0c5)
