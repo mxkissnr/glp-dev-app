@@ -1,3 +1,7 @@
+## dev-20261105_1657 — 2026-11-05
+
+- Machine settings backups: backup before firmware updates with override,… (#1896) (f53621a0)
+
 ## dev-20261104_1356 — 2026-11-04
 
 - Document the Watchdog switch for a hanging app (#1894) (5d849655)
