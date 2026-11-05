@@ -29,6 +29,10 @@ ingress: true
 ingress_port: 8099
 services:
   - mqtt:want
+# #1848: same entry as the stable app. Supervisor rejects the app's announcement
+# without it. build-dev.yaml only rewrites version:, so this stays.
+discovery:
+  - gaggiuino_profiler
 ports:
   8099/tcp: 8098
 ports_description:
