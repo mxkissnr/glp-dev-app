@@ -1,3 +1,7 @@
+## dev-20261105_1706 — 2026-11-05
+
+- Machine settings backups travel in the GLP backup, #1878 slice 6 (#1895) (013df0c5)
+
 ## dev-20261105_1657 — 2026-11-05
 
 - Machine settings backups: backup before firmware updates with override,… (#1896) (f53621a0)
