@@ -1,3 +1,8 @@
+## dev-20261106_1450 — 2026-11-06
+
+- fix(deps): update go-dependencies (#1902) (9a093054)
+- fix(deps): update dependency onnxruntime-web to v1.31.1 (#1901) (0268188a)
+
 ## dev-20261106_1000 — 2026-11-06
 
 - chore(deps): update dev-dependencies (#1900) (8dfef405)
