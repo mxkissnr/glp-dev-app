@@ -1,3 +1,7 @@
+## dev-20261106_1000 — 2026-11-06
+
+- chore(deps): update dev-dependencies (#1900) (8dfef405)
+
 ## dev-20261106_0550 — 2026-11-06
 
 - Machine settings backups: compare engine for two backups, #1878 (#1899) (93c8eb99)
