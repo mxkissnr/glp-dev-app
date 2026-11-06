@@ -1,3 +1,7 @@
+## dev-20261106_0550 — 2026-11-06
+
+- Machine settings backups: compare engine for two backups, #1878 (#1899) (93c8eb99)
+
 ## dev-20261105_1811 — 2026-11-05
 
 - Machine settings backups: read, download and upload a backup, #1878… (#1898) (126227b2)
