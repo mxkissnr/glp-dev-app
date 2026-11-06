@@ -1,3 +1,7 @@
+## dev-20261106_1950 — 2026-11-06
+
+- Machine settings backups: restore flow and automatic-backup settings in… (#1909) (f3593bee)
+
 ## dev-20261106_1811 — 2026-11-06
 
 - Machine settings backups: the backups sheet with list, back up now,… (#1908) (2d6741e6)
