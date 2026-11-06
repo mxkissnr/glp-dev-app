@@ -1,3 +1,7 @@
+## dev-20261106_2043 — 2026-11-06
+
+- Machine settings backups: compare view for two backups, #1878 (#1910) (61f09b53)
+
 ## dev-20261106_1950 — 2026-11-06
 
 - Machine settings backups: restore flow and automatic-backup settings in… (#1909) (f3593bee)
