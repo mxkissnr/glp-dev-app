@@ -1,3 +1,7 @@
+## dev-20261106_2356 — 2026-11-06
+
+- Shop import fails on Shopify shops with HTTP 429 (#1917) (8b810734)
+
 ## dev-20261106_2239 — 2026-11-06
 
 - Machine backups sheet: dark checkboxes and a popover that stays inside… (#1914) (39b6721d)
