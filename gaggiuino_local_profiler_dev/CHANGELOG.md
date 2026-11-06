@@ -1,3 +1,7 @@
+## dev-20261106_2114 — 2026-11-06
+
+- Machine settings backups: wire the sheet into the machine settings,… (#1911) (ffbbc24a)
+
 ## dev-20261106_2043 — 2026-11-06
 
 - Machine settings backups: compare view for two backups, #1878 (#1910) (61f09b53)
