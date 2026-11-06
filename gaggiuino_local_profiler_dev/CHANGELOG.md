@@ -1,3 +1,7 @@
+## dev-20261106_1619 — 2026-11-06
+
+- Machine settings backups: back up before every restore and restore… (#1906) (fb435819)
+
 ## dev-20261106_1550 — 2026-11-06
 
 - Machine settings backups: restore a backup onto its machine, #1878 (#1905) (47f62ec2)
