@@ -1,3 +1,7 @@
+## dev-20261106_1811 — 2026-11-06
+
+- Machine settings backups: the backups sheet with list, back up now,… (#1908) (2d6741e6)
+
 ## dev-20261106_1708 — 2026-11-06
 
 - Machine settings backups: frontend API client, #1878 (#1907) (bf231e9f)
