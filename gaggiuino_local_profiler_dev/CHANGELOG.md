@@ -1,3 +1,7 @@
+## dev-20261106_1708 — 2026-11-06
+
+- Machine settings backups: frontend API client, #1878 (#1907) (bf231e9f)
+
 ## dev-20261106_1619 — 2026-11-06
 
 - Machine settings backups: back up before every restore and restore… (#1906) (fb435819)
