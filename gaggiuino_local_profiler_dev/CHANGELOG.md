@@ -1,3 +1,8 @@
+## dev-20261106_2207 — 2026-11-06
+
+- chore(deps): update node.js to v26 (#1904) (9f69d607)
+- chore(deps): update dependency node to v26 (#1903) (0070cf9c)
+
 ## dev-20261106_2114 — 2026-11-06
 
 - Machine settings backups: wire the sheet into the machine settings,… (#1911) (ffbbc24a)
