@@ -1,3 +1,7 @@
+## dev-20261106_1550 — 2026-11-06
+
+- Machine settings backups: restore a backup onto its machine, #1878 (#1905) (47f62ec2)
+
 ## dev-20261106_1450 — 2026-11-06
 
 - fix(deps): update go-dependencies (#1902) (9a093054)
