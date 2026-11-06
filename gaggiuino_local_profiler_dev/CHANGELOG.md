@@ -1,3 +1,8 @@
+## dev-20261106_2239 — 2026-11-06
+
+- Machine backups sheet: dark checkboxes and a popover that stays inside… (#1914) (39b6721d)
+- docs: CLAUDE.md says CI uses Node 26 (#1913) (f759542e)
+
 ## dev-20261106_2207 — 2026-11-06
 
 - chore(deps): update node.js to v26 (#1904) (9f69d607)
