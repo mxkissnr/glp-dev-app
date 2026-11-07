@@ -1,3 +1,7 @@
+## dev-20261107_2206 — 2026-11-07
+
+- Maintenance task details in a popover or sheet, #1923 (#1925) (95ba505f)
+
 ## dev-20261107_1916 — 2026-11-07
 
 - Score model registry for dev builds, #1922 (#1924) (bc469ccf)
