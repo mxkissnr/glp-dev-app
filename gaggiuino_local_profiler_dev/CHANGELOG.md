@@ -1,3 +1,7 @@
+## dev-20261107_1046 — 2026-11-07
+
+- Dev config sync copies trailing comments into the schema block and drops the keys after it (#1921) (0883f7c8)
+
 ## dev-20261107_0938 — 2026-11-07
 
 - Verify hot backups of the WAL database restore cleanly (#1919) (556ea032)
