@@ -1,3 +1,7 @@
+## dev-20261107_1916 — 2026-11-07
+
+- Score model registry for dev builds, #1922 (#1924) (bc469ccf)
+
 ## dev-20261107_1046 — 2026-11-07
 
 - Dev config sync copies trailing comments into the schema block and drops the keys after it (#1921) (0883f7c8)
