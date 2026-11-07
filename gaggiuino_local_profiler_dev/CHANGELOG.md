@@ -1,3 +1,7 @@
+## dev-20261107_0938 — 2026-11-07
+
+- Verify hot backups of the WAL database restore cleanly (#1919) (556ea032)
+
 ## dev-20261107_0830 — 2026-11-07
 
 - Share card: font faces are shared across concurrent requests (#1918) (f9347033)
