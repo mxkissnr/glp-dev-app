@@ -1,3 +1,7 @@
+## dev-20261107_0830 — 2026-11-07
+
+- Share card: font faces are shared across concurrent requests (#1918) (f9347033)
+
 ## dev-20261107_0001 — 2026-11-07
 
 - Shot chart as a PNG for Home Assistant, #1851 (#1916) (da2165e6)
