@@ -1,3 +1,7 @@
+## dev-20261107_0001 — 2026-11-07
+
+- Shot chart as a PNG for Home Assistant, #1851 (#1916) (da2165e6)
+
 ## dev-20261106_2356 — 2026-11-06
 
 - Shop import fails on Shopify shops with HTTP 429 (#1917) (8b810734)
