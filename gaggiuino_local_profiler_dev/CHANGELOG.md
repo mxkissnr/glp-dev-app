@@ -1,3 +1,7 @@
+## dev-20261108_1137 — 2026-11-08
+
+- New bean with a roast date but no weight lists its only bag as Past (#1939) (9e52e4bf)
+
 ## dev-20261108_1124 — 2026-11-08
 
 - Dev builds: switchable shot score models and blind rating (groundwork for #1505) (#1938) (5105f7ce)
