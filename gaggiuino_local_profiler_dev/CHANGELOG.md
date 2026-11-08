@@ -1,3 +1,7 @@
+## dev-20261108_1109 — 2026-11-08
+
+- Coffee shelf: no grey stack frame behind sticker cut-outs (#1937) (81c40835)
+
 ## dev-20261108_1056 — 2026-11-08
 
 - Maintenance guide: bring the Guide button back, #1928 (#1936) (b36de422)
