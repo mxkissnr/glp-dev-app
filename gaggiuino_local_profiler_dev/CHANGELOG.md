@@ -1,3 +1,7 @@
+## dev-20261108_1056 — 2026-11-08
+
+- Maintenance guide: bring the Guide button back, #1928 (#1936) (b36de422)
+
 ## dev-20261108_1049 — 2026-11-08
 
 - Maintenance: add-entry and custom-task forms in the sheet, #1923 (#1935) (1bf6a19c)
