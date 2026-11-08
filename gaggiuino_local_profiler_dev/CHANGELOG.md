@@ -1,3 +1,7 @@
+## dev-20261108_2254 — 2026-11-08
+
+- Default grinder: prefill the grinder in use and only its grind settings (#1966) (178abe06)
+
 ## dev-20261108_2124 — 2026-11-08
 
 - ci: tidy up workflow defaults (#1959) (#1965) (8b253e37)
