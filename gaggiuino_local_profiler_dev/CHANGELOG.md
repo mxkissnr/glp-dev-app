@@ -1,3 +1,7 @@
+## dev-20261108_1124 — 2026-11-08
+
+- Dev builds: switchable shot score models and blind rating (groundwork for #1505) (#1938) (5105f7ce)
+
 ## dev-20261108_1109 — 2026-11-08
 
 - Coffee shelf: no grey stack frame behind sticker cut-outs (#1937) (81c40835)
