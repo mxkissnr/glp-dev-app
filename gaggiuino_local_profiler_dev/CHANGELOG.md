@@ -1,3 +1,7 @@
+## dev-20261108_1049 — 2026-11-08
+
+- Maintenance: add-entry and custom-task forms in the sheet, #1923 (#1935) (1bf6a19c)
+
 ## dev-20261108_1020 — 2026-11-08
 
 - Dev builds: switchable shot score models and blind rating (groundwork for #1505) (#1934) (a0d5fd8c)
