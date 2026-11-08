@@ -1,3 +1,7 @@
+## dev-20261108_0929 — 2026-11-08
+
+- Maintenance: task rows and log rows, #1923 (#1930) (308eaf7d)
+
 ## dev-20261108_0921 — 2026-11-08
 
 - Score models: drop test hook from production code, #1922 (#1929) (d4e2b0da)
