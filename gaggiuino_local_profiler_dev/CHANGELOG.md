@@ -1,3 +1,7 @@
+## dev-20261108_1229 — 2026-11-08
+
+- New bean: Save opens the new-bag form, #1933 (#1941) (56f70e42)
+
 ## dev-20261108_1157 — 2026-11-08
 
 - Maintenance page in the bean library design language (#1940) (56c46b44)
