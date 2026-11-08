@@ -1,3 +1,7 @@
+## dev-20261108_1243 — 2026-11-08
+
+- Maintenance: small coffee touches, docs and changelog, #1923 (#1942) (d8e219df)
+
 ## dev-20261108_1229 — 2026-11-08
 
 - New bean: Save opens the new-bag form, #1933 (#1941) (56f70e42)
