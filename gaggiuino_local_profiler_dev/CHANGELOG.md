@@ -1,3 +1,7 @@
+## dev-20261108_1314 — 2026-11-08
+
+- Browser demo: saving a coffee fails because a circular import is read at module load (#1944) (5d76a1cc)
+
 ## dev-20261108_1243 — 2026-11-08
 
 - Maintenance: small coffee touches, docs and changelog, #1923 (#1942) (d8e219df)
