@@ -1,3 +1,7 @@
+## dev-20261108_2059 — 2026-11-08
+
+- Bean age: frozen portions should age far slower, consistently everywhere (#1964) (0f5dd22a)
+
 ## dev-20261108_1809 — 2026-11-08
 
 - chore(deps): update dependency vite to v8.3.6 (#1951) (a5050c44)
