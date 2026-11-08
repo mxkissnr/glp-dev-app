@@ -1,3 +1,14 @@
+## dev-20261108_1607 — 2026-11-08
+
+- Merge pull request #1948 from mxkissnr/main (c3820863)
+- Merge pull request #1946 from mxkissnr/release/v3.7.0 (d11535cf)
+- Refresh development stats for v3.7.0 (2cd7c15f)
+- Screenshots for v3.7.0 (e4f2e0f7)
+- Keep What's New within its entry cap and drop the consumed changelog-fragment test (70b2dcb7)
+- Screenshots for v3.7.0 (e13e598a)
+- Release v3.7.0: version bump, changelog, What's New, docs, acceptance protocol (0e43a8e5)
+- Collect changelog fragments for v3.7.0 (8340c53e)
+
 ## dev-20261108_1314 — 2026-11-08
 
 - Browser demo: saving a coffee fails because a circular import is read at module load (#1944) (5d76a1cc)
