@@ -1,3 +1,7 @@
+## dev-20261108_1020 — 2026-11-08
+
+- Dev builds: switchable shot score models and blind rating (groundwork for #1505) (#1934) (a0d5fd8c)
+
 ## dev-20261108_1001 — 2026-11-08
 
 - Maintenance guide: close the task sheet when the checklist opens, #1928 (#1931) (06477a12)
