@@ -1,3 +1,7 @@
+## dev-20261108_1001 — 2026-11-08
+
+- Maintenance guide: close the task sheet when the checklist opens, #1928 (#1931) (06477a12)
+
 ## dev-20261108_0929 — 2026-11-08
 
 - Maintenance: task rows and log rows, #1923 (#1930) (308eaf7d)
