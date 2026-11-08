@@ -1,3 +1,7 @@
+## dev-20261108_2124 — 2026-11-08
+
+- ci: tidy up workflow defaults (#1959) (#1965) (8b253e37)
+
 ## dev-20261108_2059 — 2026-11-08
 
 - Bean age: frozen portions should age far slower, consistently everywhere (#1964) (0f5dd22a)
