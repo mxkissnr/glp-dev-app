@@ -1,3 +1,7 @@
+## dev-20261108_1809 — 2026-11-08
+
+- chore(deps): update dependency vite to v8.3.6 (#1951) (a5050c44)
+
 ## dev-20261108_1607 — 2026-11-08
 
 - Merge pull request #1948 from mxkissnr/main (c3820863)
