@@ -1,3 +1,7 @@
+## dev-20261108_0921 — 2026-11-08
+
+- Score models: drop test hook from production code, #1922 (#1929) (d4e2b0da)
+
 ## dev-20261108_0453 — 2026-11-08
 
 - Maintenance page in the bean library design language (#1927) (3bfec9d4)
