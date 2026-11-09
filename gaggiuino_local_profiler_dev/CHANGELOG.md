@@ -1,3 +1,10 @@
+## dev-20261109_2148 — 2026-11-09
+
+- ci: only accept feature/* branches in DEV_FEATURES (#1983) (50aa8f60)
+- ci: make zizmor a blocking check (#1980) (#1986) (1e538246)
+- ci: verify published release images against their build attestation daily (#1985) (ede4d4d6)
+- chore(renovate): review GitHub Actions updates by hand (#1984) (37587a16)
+
 ## dev-20261109_2126 — 2026-11-09
 
 - Offer to remove empty beans from the active list (#1958) (#1978) (ce5c0496)
