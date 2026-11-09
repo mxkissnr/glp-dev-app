@@ -1,3 +1,7 @@
+## dev-20261109_0537 — 2026-11-09
+
+- chore(deps): update zizmorcore/zizmor-action action to v0.8.1 (#1969) (2c04fa89)
+
 ## dev-20261109_0424 — 2026-11-09
 
 - chore(deps): update dependency playwright to v1.65.0 (#1968) (34731557)
