@@ -1,3 +1,7 @@
+## dev-20261109_1036 — 2026-11-09
+
+- Configurable in-app popups: What's New after an update and new achievements (#1974) (2a8dfda3)
+
 ## dev-20261109_0912 — 2026-11-09
 
 - Taste tags on shots as structured input for grind advice (#1973) (53bae1df)
