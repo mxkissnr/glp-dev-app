@@ -1,3 +1,7 @@
+## dev-20261109_1256 — 2026-11-09
+
+- Use dropdowns consistently for fields with a fixed set of options… (#1975) (b01615e5)
+
 ## dev-20261109_1036 — 2026-11-09
 
 - Configurable in-app popups: What's New after an update and new achievements (#1974) (2a8dfda3)
