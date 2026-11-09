@@ -1,3 +1,7 @@
+## dev-20261109_0912 — 2026-11-09
+
+- Taste tags on shots as structured input for grind advice (#1973) (53bae1df)
+
 ## dev-20261109_0851 — 2026-11-09
 
 - Backup restore keeps the disabled flag of maintenance tasks (#1970) (#1972) (65288e7a)
