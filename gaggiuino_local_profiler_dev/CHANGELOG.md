@@ -1,3 +1,7 @@
+## dev-20261109_0643 — 2026-11-09
+
+- Maintenance: count grinder tasks per grinder and allow pausing a task (#1971) (a98aa953)
+
 ## dev-20261109_0537 — 2026-11-09
 
 - chore(deps): update zizmorcore/zizmor-action action to v0.8.1 (#1969) (2c04fa89)
