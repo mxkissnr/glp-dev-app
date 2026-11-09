@@ -1,3 +1,7 @@
+## dev-20261109_0851 — 2026-11-09
+
+- Backup restore keeps the disabled flag of maintenance tasks (#1970) (#1972) (65288e7a)
+
 ## dev-20261109_0643 — 2026-11-09
 
 - Maintenance: count grinder tasks per grinder and allow pausing a task (#1971) (a98aa953)
