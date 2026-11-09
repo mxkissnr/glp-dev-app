@@ -1,3 +1,7 @@
+## dev-20261109_2158 — 2026-11-09
+
+- Grinder scales: define stepped or stepless ranges so grind settings have one format (#1987) (9779d41a)
+
 ## dev-20261109_2148 — 2026-11-09
 
 - ci: only accept feature/* branches in DEV_FEATURES (#1983) (50aa8f60)
