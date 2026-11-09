@@ -1,3 +1,7 @@
+## dev-20261109_0424 — 2026-11-09
+
+- chore(deps): update dependency playwright to v1.65.0 (#1968) (34731557)
+
 ## dev-20261108_2254 — 2026-11-08
 
 - Default grinder: prefill the grinder in use and only its grind settings (#1966) (178abe06)
