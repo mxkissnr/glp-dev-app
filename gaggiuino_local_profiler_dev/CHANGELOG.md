@@ -1,3 +1,7 @@
+## dev-20261109_2126 — 2026-11-09
+
+- Offer to remove empty beans from the active list (#1958) (#1978) (ce5c0496)
+
 ## dev-20261109_1552 — 2026-11-09
 
 - Offer to remove empty beans from the active list (#1958) (#1978) (ce5c0496)
