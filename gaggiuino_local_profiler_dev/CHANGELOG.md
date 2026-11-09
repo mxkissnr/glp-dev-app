@@ -1,3 +1,8 @@
+## dev-20261109_1552 — 2026-11-09
+
+- Offer to remove empty beans from the active list (#1958) (#1978) (ce5c0496)
+- docs: add interaction rules and checklist to design guide (#1976) (fde0b9c1)
+
 ## dev-20261109_1256 — 2026-11-09
 
 - Use dropdowns consistently for fields with a fixed set of options… (#1975) (b01615e5)
