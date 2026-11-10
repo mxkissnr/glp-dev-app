@@ -1,3 +1,7 @@
+## dev-20261110_1815 — 2026-11-10
+
+- Design rules: define how controls behave so the UI works the same everywhere (#1997) (ded7643b)
+
 ## dev-20261110_1739 — 2026-11-10
 
 - Design rules (1/16): lint rejects native alert, confirm and datalist,… (#1996) (39a305e0)
