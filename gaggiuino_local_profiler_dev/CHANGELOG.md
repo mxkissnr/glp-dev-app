@@ -1,3 +1,7 @@
+## dev-20261110_1739 — 2026-11-10
+
+- Design rules (1/16): lint rejects native alert, confirm and datalist,… (#1996) (39a305e0)
+
 ## dev-20261110_1708 — 2026-11-10
 
 - ci: report attestation API errors as job failures (#1992) (#1995) (53d982aa)
