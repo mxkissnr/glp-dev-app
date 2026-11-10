@@ -1,3 +1,7 @@
+## dev-20261110_1708 — 2026-11-10
+
+- ci: report attestation API errors as job failures (#1992) (#1995) (53d982aa)
+
 ## dev-20261110_1639 — 2026-11-10
 
 - docs: let contributors claim an issue before building (#1993) (#1994) (a98c9327)
