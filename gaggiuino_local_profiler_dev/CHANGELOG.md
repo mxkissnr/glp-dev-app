@@ -1,3 +1,7 @@
+## dev-20261110_1958 — 2026-11-10
+
+- Design rules (4/16): machine settings use the app dialog, and dates get one shared format (#1999) (2b9261c5)
+
 ## dev-20261110_1931 — 2026-11-10
 
 - Design rules (3/16): short option lists render as visible pills (#1998) (f51091a4)
