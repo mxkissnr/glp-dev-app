@@ -1,3 +1,7 @@
+## dev-20261110_1604 — 2026-11-10
+
+- fix: keep the profile name of shots synced from a Gaggiuino's history (#1990) (58a67d35)
+
 ## dev-20261109_2158 — 2026-11-09
 
 - Grinder scales: define stepped or stepless ranges so grind settings have one format (#1987) (9779d41a)
