@@ -1,3 +1,7 @@
+## dev-20261110_1639 — 2026-11-10
+
+- docs: let contributors claim an issue before building (#1993) (#1994) (a98c9327)
+
 ## dev-20261110_1604 — 2026-11-10
 
 - fix: keep the profile name of shots synced from a Gaggiuino's history (#1990) (58a67d35)
