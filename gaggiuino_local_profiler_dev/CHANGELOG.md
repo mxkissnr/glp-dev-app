@@ -1,3 +1,7 @@
+## dev-20261110_1931 — 2026-11-10
+
+- Design rules (3/16): short option lists render as visible pills (#1998) (f51091a4)
+
 ## dev-20261110_1815 — 2026-11-10
 
 - Design rules: define how controls behave so the UI works the same everywhere (#1997) (ded7643b)
