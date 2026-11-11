@@ -1,3 +1,7 @@
+## dev-20261111_2012 — 2026-11-11
+
+- Design rules (11/16): number fields name their unit in the label (#2009) (55569803)
+
 ## dev-20261111_1956 — 2026-11-11
 
 - Design rules (10/16): every number field accepts a comma, and switches behave like switches (#2008) (9eb64a37)
