@@ -1,3 +1,7 @@
+## dev-20261111_1821 — 2026-11-11
+
+- Design rules (8/16): orders, maintenance and the profile editor follow the rules (#2006) (23e98a83)
+
 ## dev-20261111_1754 — 2026-11-11
 
 - Design rules (7/16): deleting and saving library items uses the app dialog and reports failures (#2005) (5b431299)
