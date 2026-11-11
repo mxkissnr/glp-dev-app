@@ -1,3 +1,7 @@
+## dev-20261111_1754 — 2026-11-11
+
+- Design rules (7/16): deleting and saving library items uses the app dialog and reports failures (#2005) (5b431299)
+
 ## dev-20261111_1735 — 2026-11-11
 
 - Design rules (6/16): bean import and the GaggiMate editor follow the rules (#2004) (7a7b8a59)
