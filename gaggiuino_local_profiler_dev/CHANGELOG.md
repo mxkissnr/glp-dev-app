@@ -1,3 +1,7 @@
+## dev-20261111_2151 — 2026-11-11
+
+- Design rules (12/16): analytics and dial-in loading states (#2012) (5f4ab8dd)
+
 ## dev-20261111_2012 — 2026-11-11
 
 - Design rules (11/16): number fields name their unit in the label (#2009) (55569803)
