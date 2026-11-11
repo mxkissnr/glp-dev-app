@@ -1,3 +1,7 @@
+## dev-20261111_1718 — 2026-11-11
+
+- CI: build with Go 1.27.4 and retry the Playwright install without apt (#2003) (ff96288e)
+
 ## dev-20261110_2052 — 2026-11-10
 
 - Design rules (5/16): backup, restore and shot errors stop using browser… (#2000) (bbb1090e)
