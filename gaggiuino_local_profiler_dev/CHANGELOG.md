@@ -1,3 +1,7 @@
+## dev-20261111_2202 — 2026-11-11
+
+- Design rules (13/16): library and orders loading states (#2011) (ff75ed3f)
+
 ## dev-20261111_2151 — 2026-11-11
 
 - Design rules (12/16): analytics and dial-in loading states (#2012) (5f4ab8dd)
