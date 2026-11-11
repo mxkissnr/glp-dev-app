@@ -1,3 +1,7 @@
+## dev-20261111_1735 — 2026-11-11
+
+- Design rules (6/16): bean import and the GaggiMate editor follow the rules (#2004) (7a7b8a59)
+
 ## dev-20261111_1718 — 2026-11-11
 
 - CI: build with Go 1.27.4 and retry the Playwright install without apt (#2003) (ff96288e)
