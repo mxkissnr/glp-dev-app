@@ -1,3 +1,7 @@
+## dev-20261112_1536 — 2026-11-12
+
+- Third-party notices list every bundled library and font (#2027) (#2035) (40ad5461)
+
 ## dev-20261112_1522 — 2026-11-12
 
 - fix: say "app" instead of "add-on" in the repository name and debug page (#2034) (9233c5b9)
