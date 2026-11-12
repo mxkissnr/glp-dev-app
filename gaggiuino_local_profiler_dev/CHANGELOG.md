@@ -1,3 +1,7 @@
+## dev-20261112_1315 — 2026-11-12
+
+- fix(achievements): unlock badges that already hold a progress row (#2029) (e2b3fc7a)
+
 ## dev-20261112_1252 — 2026-11-12
 
 - chore(deps): lock file maintenance (#1952) (bafde525)
