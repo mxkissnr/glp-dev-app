@@ -1,3 +1,7 @@
+## dev-20261112_1332 — 2026-11-12
+
+- Restoring a backup discards pending machine profile changes (#2030) (6a3472ca)
+
 ## dev-20261112_1315 — 2026-11-12
 
 - fix(achievements): unlock badges that already hold a progress row (#2029) (e2b3fc7a)
