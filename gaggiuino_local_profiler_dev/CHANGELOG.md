@@ -1,3 +1,7 @@
+## dev-20261112_1817 — 2026-11-12
+
+- GaggiMate shot log v8: hardware scale weight, new exit reasons (#2039) (8656ae3f)
+
 ## dev-20261112_1753 — 2026-11-12
 
 - GaggiMate shot log v8: hardware scale weight, new exit reasons (#2036) (2eb1d473)
