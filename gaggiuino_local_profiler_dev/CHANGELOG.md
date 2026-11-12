@@ -1,3 +1,7 @@
+## dev-20261112_1507 — 2026-11-12
+
+- Confirm dialog opens twice, pasted decimal comma empties number fields, preference sync can stall (#2033) (0f53871b)
+
 ## dev-20261112_1501 — 2026-11-12
 
 - Restoring a backup discards pending machine profile changes (#2032) (b70b5dd4)
