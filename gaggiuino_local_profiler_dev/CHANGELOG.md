@@ -1,3 +1,7 @@
+## dev-20261112_1522 — 2026-11-12
+
+- fix: say "app" instead of "add-on" in the repository name and debug page (#2034) (9233c5b9)
+
 ## dev-20261112_1507 — 2026-11-12
 
 - Confirm dialog opens twice, pasted decimal comma empties number fields, preference sync can stall (#2033) (0f53871b)
