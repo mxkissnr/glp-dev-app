@@ -1,3 +1,7 @@
+## dev-20261112_1345 — 2026-11-12
+
+- Library forms: silent save failures and duplicate entries on double tap… (#2031) (8a0b6816)
+
 ## dev-20261112_1332 — 2026-11-12
 
 - Restoring a backup discards pending machine profile changes (#2030) (6a3472ca)
