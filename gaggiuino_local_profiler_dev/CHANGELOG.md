@@ -1,3 +1,8 @@
+## dev-20261112_1909 — 2026-11-12
+
+- Issue #2038 slice s1 (#2041) (8602672b)
+- Design rules: follow Home Assistant's interaction patterns (#2040) (f0cffe72)
+
 ## dev-20261112_1817 — 2026-11-12
 
 - GaggiMate shot log v8: hardware scale weight, new exit reasons (#2039) (8656ae3f)
