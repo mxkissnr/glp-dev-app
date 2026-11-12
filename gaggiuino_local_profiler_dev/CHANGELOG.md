@@ -1,3 +1,7 @@
+## dev-20261112_1057 — 2026-11-12
+
+- Bean autosave stops rewriting the bag; pill groups and recipe step delete get names (#2019) (e3d18f85)
+
 ## dev-20261112_0929 — 2026-11-12
 
 - Orders keep their list on a failed refresh, bean autosave catches up, pill labels follow the language (#2017) (19163eda)
