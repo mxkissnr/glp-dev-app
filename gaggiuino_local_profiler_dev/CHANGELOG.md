@@ -1,3 +1,7 @@
+## dev-20261112_1753 — 2026-11-12
+
+- GaggiMate shot log v8: hardware scale weight, new exit reasons (#2036) (2eb1d473)
+
 ## dev-20261112_1536 — 2026-11-12
 
 - Third-party notices list every bundled library and font (#2027) (#2035) (40ad5461)
