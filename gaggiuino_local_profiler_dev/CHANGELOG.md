@@ -1,3 +1,9 @@
+## dev-20261112_1252 — 2026-11-12
+
+- chore(deps): lock file maintenance (#1952) (bafde525)
+- chore(deps): update github/codeql-action digest to 33d7b85 (#1950) (8d2b4566)
+- chore(deps): update docker/login-action digest to 8aa5831 (#1949) (14660b2d)
+
 ## dev-20261112_1057 — 2026-11-12
 
 - Bean autosave stops rewriting the bag; pill groups and recipe step delete get names (#2019) (e3d18f85)
