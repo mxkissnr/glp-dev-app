@@ -1,3 +1,7 @@
+## dev-20261112_0929 — 2026-11-12
+
+- Orders keep their list on a failed refresh, bean autosave catches up, pill labels follow the language (#2017) (19163eda)
+
 ## dev-20261112_0833 — 2026-11-12
 
 - Design rules (16/16): grinders and beans autosave, bean form pills (#2015) (f70de1fa)
