@@ -1,3 +1,7 @@
+## dev-20261112_0749 — 2026-11-12
+
+- Design rules (15/16): beans and bags without browser pop-ups (#2013) (fd1a01af)
+
 ## dev-20261111_2202 — 2026-11-11
 
 - Design rules (13/16): library and orders loading states (#2011) (ff75ed3f)
