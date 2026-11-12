@@ -1,3 +1,7 @@
+## dev-20261112_0833 — 2026-11-12
+
+- Design rules (16/16): grinders and beans autosave, bean form pills (#2015) (f70de1fa)
+
 ## dev-20261112_0756 — 2026-11-12
 
 - Design rules (14/16): baskets, puck screens and recipes autosave (#2014) (95d9ab83)
