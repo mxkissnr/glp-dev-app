@@ -1,3 +1,7 @@
+## dev-20261112_0756 — 2026-11-12
+
+- Design rules (14/16): baskets, puck screens and recipes autosave (#2014) (95d9ab83)
+
 ## dev-20261112_0749 — 2026-11-12
 
 - Design rules (15/16): beans and bags without browser pop-ups (#2013) (fd1a01af)
