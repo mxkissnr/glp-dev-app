@@ -1,3 +1,7 @@
+## dev-20261113_1151 — 2026-11-13
+
+- Settings page: fix the oversized verdict icon, row insets, cut-off labels and the locked navigation switch (#2054) (09e27c5a)
+
 ## dev-20261113_1129 — 2026-11-13
 
 - Dial-In page in the Home Assistant page pattern, one name in every language (#2051) (0abcbf40)
