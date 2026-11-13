@@ -1,3 +1,7 @@
+## dev-20261113_1129 — 2026-11-13
+
+- Dial-In page in the Home Assistant page pattern, one name in every language (#2051) (0abcbf40)
+
 ## dev-20261113_1057 — 2026-11-13
 
 - Issue #2038 slice s6 (#2050) (f483cb52)
