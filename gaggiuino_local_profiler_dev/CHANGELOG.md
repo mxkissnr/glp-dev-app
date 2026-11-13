@@ -1,3 +1,7 @@
+## dev-20261113_1312 — 2026-11-13
+
+- feat: bean roast level drives freshness windows, with an optional per-bean best-for-use range (#1977) (#2020) (95a164bd)
+
 ## dev-20261113_1246 — 2026-11-13
 
 - Declare postcss as a pinned devDependency (#2058) (ebb204c6)
