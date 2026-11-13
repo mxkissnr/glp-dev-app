@@ -1,3 +1,7 @@
+## dev-20261113_0809 — 2026-11-13
+
+- Dev stats: show prepaid DeepSeek credit in the Cost section (#2044) (89718a12)
+
 ## dev-20261112_1937 — 2026-11-12
 
 - Issue #2038 slice s2 (#2042) (3d73d70c)
