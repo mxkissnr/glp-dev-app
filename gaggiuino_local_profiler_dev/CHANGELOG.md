@@ -1,3 +1,7 @@
+## dev-20261113_1222 — 2026-11-13
+
+- Dev build on phones: the bottom of every page sits under the navigation bar (#2055) (17fa8c52)
+
 ## dev-20261113_1151 — 2026-11-13
 
 - Settings page: fix the oversized verdict icon, row insets, cut-off labels and the locked navigation switch (#2054) (09e27c5a)
