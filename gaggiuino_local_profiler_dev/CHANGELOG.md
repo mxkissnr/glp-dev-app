@@ -1,3 +1,7 @@
+## dev-20261113_1322 — 2026-11-13
+
+- Issue #2056 slice s1 (#2059) (b199d75b)
+
 ## dev-20261113_1312 — 2026-11-13
 
 - feat: bean roast level drives freshness windows, with an optional per-bean best-for-use range (#1977) (#2020) (95a164bd)
