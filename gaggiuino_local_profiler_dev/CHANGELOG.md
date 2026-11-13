@@ -1,3 +1,7 @@
+## dev-20261113_1246 — 2026-11-13
+
+- Declare postcss as a pinned devDependency (#2058) (ebb204c6)
+
 ## dev-20261113_1222 — 2026-11-13
 
 - Dev build on phones: the bottom of every page sits under the navigation bar (#2055) (17fa8c52)
