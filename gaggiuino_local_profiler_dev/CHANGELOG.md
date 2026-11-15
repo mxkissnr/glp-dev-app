@@ -1,3 +1,7 @@
+## dev-20261115_2018 — 2026-11-15
+
+- Link proven profiles to beans and suggest profiles for similar beans (#2067) (5aea3422)
+
 ## dev-20261115_1947 — 2026-11-15
 
 - Issue #2025 slice s3 (#2065) (78cb3dc1)
