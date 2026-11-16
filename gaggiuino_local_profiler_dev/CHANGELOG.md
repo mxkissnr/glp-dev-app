@@ -1,3 +1,7 @@
+## dev-20261116_1945 — 2026-11-16
+
+- Library forms: autosave hides Save while editing and shows saved or not… (#2102) (e76667e1)
+
 ## dev-20261116_1722 — 2026-11-16
 
 - Third-party notices name the repository path of the bundled fonts (#2101) (7feca36f)
