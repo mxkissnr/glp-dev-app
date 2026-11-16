@@ -1,3 +1,13 @@
+## dev-20261116_2223 — 2026-11-16
+
+- Merge pull request #2106 from mxkissnr/main (aedccc49)
+- Merge pull request #2104 from mxkissnr/release/v3.8.0 (85a298ed)
+- Thank external contributors in the 3.8.0 changelog (3097b246)
+- Regenerate dev-stats for 3.8.0 (e31ffd57)
+- Regenerate README screenshots for 3.8.0 from the demo backup (1b22835c)
+- Raise coverage thresholds for 3.8.0 (78b182cc)
+- Prepare v3.8.0: version bump, changelog, what's new, docs (8b8ee87d)
+
 ## dev-20261116_2032 — 2026-11-16
 
 - Shot chart follows width changes after the list folds or the window… (#2103) (27eaf064)
