@@ -1,3 +1,8 @@
+## dev-20261116_1134 — 2026-11-16
+
+- CI: run the publishing jobs in deployment environments (#2078) (06c9ffb1)
+- Document proven and suggested profiles per bean (#2074) (4340ebe5)
+
 ## dev-20261116_0700 — 2026-11-16
 
 - Link proven profiles to beans and suggest profiles for similar beans (#2073) (1b136b0c)
