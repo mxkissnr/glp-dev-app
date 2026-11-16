@@ -1,3 +1,7 @@
+## dev-20261116_0700 — 2026-11-16
+
+- Link proven profiles to beans and suggest profiles for similar beans (#2073) (1b136b0c)
+
 ## dev-20261116_0656 — 2026-11-16
 
 - chore(deps): update node.js to e6bedef (#2072) (bbbca9bd)
