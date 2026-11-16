@@ -1,3 +1,8 @@
+## dev-20261116_1259 — 2026-11-16
+
+- Issue #2079 slice s2 (#2085) (be872daa)
+- Third-party notices: add the GNU GPL v3.0 text for the app and resvg-go (#2084) (bd1c51da)
+
 ## dev-20261116_1226 — 2026-11-16
 
 - Issue #2080 slice s1 (#2083) (df9a8041)
