@@ -1,3 +1,7 @@
+## dev-20261116_1158 — 2026-11-16
+
+- Achievements: call the "Coming up" list "Almost there", and describe the filter correctly in the docs (#2082) (69fe9868)
+
 ## dev-20261116_1134 — 2026-11-16
 
 - CI: run the publishing jobs in deployment environments (#2078) (06c9ffb1)
