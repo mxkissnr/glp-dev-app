@@ -1,3 +1,7 @@
+## dev-20261116_1205 — 2026-11-16
+
+- Issue #2079 slice s1 (#2081) (3db0ccb1)
+
 ## dev-20261116_1158 — 2026-11-16
 
 - Achievements: call the "Coming up" list "Almost there", and describe the filter correctly in the docs (#2082) (69fe9868)
