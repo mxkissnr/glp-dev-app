@@ -1,3 +1,7 @@
+## dev-20261116_2032 — 2026-11-16
+
+- Shot chart follows width changes after the list folds or the window… (#2103) (27eaf064)
+
 ## dev-20261116_1945 — 2026-11-16
 
 - Library forms: autosave hides Save while editing and shows saved or not… (#2102) (e76667e1)
