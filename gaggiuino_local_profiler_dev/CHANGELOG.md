@@ -1,3 +1,7 @@
+## dev-20261116_1722 — 2026-11-16
+
+- Third-party notices name the repository path of the bundled fonts (#2101) (7feca36f)
+
 ## dev-20261116_1426 — 2026-11-16
 
 - Issue #2089 (#2090) (d21af8bb)
