@@ -1,3 +1,7 @@
+## dev-20261117_1709 — 2026-11-17
+
+- [Bug] GaggiMate history sync fails with .slog bad magic error (index.bin returning text/html) (#2113) (507536a4)
+
 ## dev-20261117_1358 — 2026-11-17
 
 - Use one status badge component on every page (#2110) (8e4a3802)
