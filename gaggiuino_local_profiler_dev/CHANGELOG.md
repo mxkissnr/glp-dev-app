@@ -1,3 +1,7 @@
+## dev-20261117_0819 — 2026-11-17
+
+- Recompute the stored bean age of shots annotated before the shared rule… (#2107) (074a4720)
+
 ## dev-20261116_2223 — 2026-11-16
 
 - Merge pull request #2106 from mxkissnr/main (aedccc49)
