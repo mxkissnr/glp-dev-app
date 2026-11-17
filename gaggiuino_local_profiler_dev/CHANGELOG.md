@@ -1,3 +1,7 @@
+## dev-20261117_1144 — 2026-11-17
+
+- Filter chips: one chip component with aria-pressed on every page (#2093) (#2109) (4fd2b85a)
+
 ## dev-20261117_0832 — 2026-11-17
 
 - Design system foundation: control radius, shared components and a ratchet guard (#2108) (e56c64c3)
