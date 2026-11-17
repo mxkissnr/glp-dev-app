@@ -1,3 +1,7 @@
+## dev-20261117_0832 — 2026-11-17
+
+- Design system foundation: control radius, shared components and a ratchet guard (#2108) (e56c64c3)
+
 ## dev-20261117_0819 — 2026-11-17
 
 - Recompute the stored bean age of shots annotated before the shared rule… (#2107) (074a4720)
