@@ -1,3 +1,7 @@
+## dev-20261117_1358 — 2026-11-17
+
+- Use one status badge component on every page (#2110) (8e4a3802)
+
 ## dev-20261117_1144 — 2026-11-17
 
 - Filter chips: one chip component with aria-pressed on every page (#2093) (#2109) (4fd2b85a)
