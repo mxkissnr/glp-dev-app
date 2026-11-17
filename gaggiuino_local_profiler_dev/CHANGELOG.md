@@ -1,3 +1,7 @@
+## dev-20261117_1926 — 2026-11-17
+
+- Use one button component with four variants (#2114) (12f21178)
+
 ## dev-20261117_1709 — 2026-11-17
 
 - [Bug] GaggiMate history sync fails with .slog bad magic error (index.bin returning text/html) (#2113) (507536a4)
