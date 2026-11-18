@@ -1,3 +1,7 @@
+## dev-20261118_1742 — 2026-11-18
+
+- Keep the desktop shot list open when picking a shot (#2115) (#2116) (7714a607)
+
 ## dev-20261118_1712 — 2026-11-18
 
 - Bean form: aroma and origin chip changes are not autosaved (#2121) (32065495)
