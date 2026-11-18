@@ -1,3 +1,16 @@
+## dev-20261118_1910 — 2026-11-18
+
+- Merge pull request #2130 from mxkissnr/sync/v3.8.1-into-dev (dd04c8fa)
+- Drop the changelog fragments already released in 3.8.1 (6f8e46a8)
+- Merge remote-tracking branch 'origin/main' into sync/main-to-dev-3.8.1 (207c796e)
+- Merge pull request #2128 from mxkissnr/release/v3.8.1 (8a185512)
+- Regenerate README screenshots for 3.8.1 from the demo backup (458d977b)
+- Release v3.8.1: version bump, changelog, acceptance protocol, dev-stats (7051ae80)
+- Merge pull request #2124 from mxkissnr/backport/3.8.1 (972b960c)
+- Keep the desktop shot list open when picking a shot (#2115) (#2116) (18f29b6c)
+- Bean form: aroma and origin chip changes are not autosaved (#2121) (9b272ecf)
+- [Bug] GaggiMate history sync fails with .slog bad magic error (index.bin returning text/html) (#2113) (04294420)
+
 ## dev-20261118_1742 — 2026-11-18
 
 - Keep the desktop shot list open when picking a shot (#2115) (#2116) (7714a607)
