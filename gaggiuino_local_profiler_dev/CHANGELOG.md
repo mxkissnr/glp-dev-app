@@ -1,3 +1,8 @@
+## dev-20261118_2110 — 2026-11-18
+
+- GaggiMate warnings backflush and descaling show untranslated (#2132) (e53322b2)
+- Add AGENTS.md for every AI coding agent and tighten CLAUDE.md (#2131) (ad70e9ae)
+
 ## dev-20261118_1910 — 2026-11-18
 
 - Merge pull request #2130 from mxkissnr/sync/v3.8.1-into-dev (dd04c8fa)
