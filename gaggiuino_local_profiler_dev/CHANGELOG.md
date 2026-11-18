@@ -1,3 +1,7 @@
+## dev-20261118_2142 — 2026-11-18
+
+- Document why the empty-bag offer marker is written while browsing (#2133) (2577269e)
+
 ## dev-20261118_2110 — 2026-11-18
 
 - GaggiMate warnings backflush and descaling show untranslated (#2132) (e53322b2)
