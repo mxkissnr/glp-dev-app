@@ -1,3 +1,7 @@
+## dev-20261119_1731 — 2026-11-19
+
+- Move the remaining non -btn action buttons to the shared button component (#2140) (31616a4f)
+
 ## dev-20261119_1655 — 2026-11-19
 
 - Settings: help card with wiki, Discord and issue links (#2137) (d56c79c7)
