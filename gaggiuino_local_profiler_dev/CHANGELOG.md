@@ -1,3 +1,7 @@
+## dev-20261119_1844 — 2026-11-19
+
+- GaggiMate: marking backflush or descaling done also resets the machine's counter (#2142) (e975a28c)
+
 ## dev-20261119_1731 — 2026-11-19
 
 - Move the remaining non -btn action buttons to the shared button component (#2140) (31616a4f)
