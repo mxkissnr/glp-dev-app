@@ -1,3 +1,7 @@
+## dev-20261119_0838 — 2026-11-19
+
+- Finish the design system: section titles, spacing, transitions, inline styles (#2134) (4274f9a3)
+
 ## dev-20261118_2142 — 2026-11-18
 
 - Document why the empty-bag offer marker is written while browsing (#2133) (2577269e)
