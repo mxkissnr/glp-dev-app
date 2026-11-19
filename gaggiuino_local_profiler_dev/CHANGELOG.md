@@ -1,3 +1,7 @@
+## dev-20261119_1640 — 2026-11-19
+
+- Show destructive confirmations with a danger button (#2136) (b9435e07)
+
 ## dev-20261119_0838 — 2026-11-19
 
 - Finish the design system: section titles, spacing, transitions, inline styles (#2134) (4274f9a3)
