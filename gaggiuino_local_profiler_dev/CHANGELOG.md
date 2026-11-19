@@ -1,3 +1,7 @@
+## dev-20261119_1655 — 2026-11-19
+
+- Settings: help card with wiki, Discord and issue links (#2137) (d56c79c7)
+
 ## dev-20261119_1640 — 2026-11-19
 
 - Show destructive confirmations with a danger button (#2136) (b9435e07)
