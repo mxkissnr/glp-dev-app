@@ -1,3 +1,7 @@
+## dev-20261119_1907 — 2026-11-19
+
+- Dialog, form and card titles: move to the sheet header and one title style (#2143) (85bb6407)
+
 ## dev-20261119_1844 — 2026-11-19
 
 - GaggiMate: marking backflush or descaling done also resets the machine's counter (#2142) (e975a28c)
