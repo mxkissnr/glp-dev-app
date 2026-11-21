@@ -1,3 +1,7 @@
+## dev-20261121_1528 — 2026-11-21
+
+- Compare two beans side by side (#2151) (99060e94)
+
 ## dev-20261121_1252 — 2026-11-21
 
 - Orders page in the Home Assistant page pattern (#2148) (#2150) (4d4170d9)
