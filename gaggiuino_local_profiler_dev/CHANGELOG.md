@@ -1,3 +1,7 @@
+## dev-20261121_2205 — 2026-11-21
+
+- Live tab in the Home Assistant page pattern (#2155) (2e1173ec)
+
 ## dev-20261121_1528 — 2026-11-21
 
 - Compare two beans side by side (#2151) (99060e94)
