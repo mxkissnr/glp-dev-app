@@ -1,3 +1,7 @@
+## dev-20261121_0859 — 2026-11-21
+
+- GaggiMate: show the display's system state on the Live tab instead of… (#2146) (c79aab32)
+
 ## dev-20261121_0837 — 2026-11-21
 
 - New-bean form: one save action instead of two (#2135) (#2145) (a1084991)
