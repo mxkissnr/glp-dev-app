@@ -1,3 +1,7 @@
+## dev-20261121_0935 — 2026-11-21
+
+- Remaining dialog titles: crop, sticker, scan and backup dialogs use the sheet header (#2147) (bf992fb3)
+
 ## dev-20261121_0859 — 2026-11-21
 
 - GaggiMate: show the display's system state on the Live tab instead of… (#2146) (c79aab32)
