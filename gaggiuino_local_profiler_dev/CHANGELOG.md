@@ -1,3 +1,7 @@
+## dev-20261121_0837 — 2026-11-21
+
+- New-bean form: one save action instead of two (#2135) (#2145) (a1084991)
+
 ## dev-20261119_1907 — 2026-11-19
 
 - Dialog, form and card titles: move to the sheet header and one title style (#2143) (85bb6407)
