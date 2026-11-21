@@ -1,3 +1,7 @@
+## dev-20261121_1033 — 2026-11-21
+
+- New-bean form: keep the save buttons visible and drop the extra Cancel (#2149) (f9becdd5)
+
 ## dev-20261121_0935 — 2026-11-21
 
 - Remaining dialog titles: crop, sticker, scan and backup dialogs use the sheet header (#2147) (bf992fb3)
