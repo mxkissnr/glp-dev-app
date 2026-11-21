@@ -1,3 +1,7 @@
+## dev-20261121_1252 — 2026-11-21
+
+- Orders page in the Home Assistant page pattern (#2148) (#2150) (4d4170d9)
+
 ## dev-20261121_1033 — 2026-11-21
 
 - New-bean form: keep the save buttons visible and drop the extra Cancel (#2149) (f9becdd5)
