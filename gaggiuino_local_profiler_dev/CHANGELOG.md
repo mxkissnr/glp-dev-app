@@ -1,3 +1,7 @@
+## dev-20261122_1240 — 2026-11-22
+
+- chore(deps): update dev-dependencies (#2160) (c98708f2)
+
 ## dev-20261122_1224 — 2026-11-22
 
 - Profile editors: chart first, phase timeline and one sheet header (#2159) (396b03c5)
