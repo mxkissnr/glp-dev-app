@@ -1,3 +1,7 @@
+## dev-20261122_1224 — 2026-11-22
+
+- Profile editors: chart first, phase timeline and one sheet header (#2159) (396b03c5)
+
 ## dev-20261122_1156 — 2026-11-22
 
 - CI: lighter and cancellable runs on agent branches (#2158) (994026e4)
