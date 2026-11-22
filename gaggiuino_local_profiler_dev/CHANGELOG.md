@@ -1,3 +1,7 @@
+## dev-20261122_0958 — 2026-11-22
+
+- Shots list and shot detail in the Home Assistant page pattern (#2152) (#2157) (90f83f5d)
+
 ## dev-20261121_2205 — 2026-11-21
 
 - Live tab in the Home Assistant page pattern (#2155) (2e1173ec)
