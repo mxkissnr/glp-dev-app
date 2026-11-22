@@ -1,3 +1,7 @@
+## dev-20261122_1846 — 2026-11-22
+
+- Profile editor: store machine profiles locally and never open an empty… (#2171) (8256d8e4)
+
 ## dev-20261122_1829 — 2026-11-22
 
 - Shot detail: bean and grinder rows open the notes sheet at their own field, with distinct icons (#2170) (a91697af)
