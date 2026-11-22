@@ -1,3 +1,7 @@
+## dev-20261122_2201 — 2026-11-22
+
+- Add TTF copies of the app fonts for the share card (#2173) (b7a3ce29)
+
 ## dev-20261122_1846 — 2026-11-22
 
 - Profile editor: store machine profiles locally and never open an empty… (#2171) (8256d8e4)
