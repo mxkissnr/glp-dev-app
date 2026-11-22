@@ -1,3 +1,7 @@
+## dev-20261122_1156 — 2026-11-22
+
+- CI: lighter and cancellable runs on agent branches (#2158) (994026e4)
+
 ## dev-20261122_0958 — 2026-11-22
 
 - Shots list and shot detail in the Home Assistant page pattern (#2152) (#2157) (90f83f5d)
