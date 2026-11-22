@@ -1,3 +1,8 @@
+## dev-20261122_1750 — 2026-11-22
+
+- Profile editor: save updates the profile, REST create keeps phase types and curves (#2169) (b8952fe4)
+- GaggiMate profile editor: unrounded time axis, cut-off phase labels and… (#2168) (8a4a0ae3)
+
 ## dev-20261122_1240 — 2026-11-22
 
 - chore(deps): update dev-dependencies (#2160) (c98708f2)
