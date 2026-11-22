@@ -1,3 +1,7 @@
+## dev-20261122_1829 — 2026-11-22
+
+- Shot detail: bean and grinder rows open the notes sheet at their own field, with distinct icons (#2170) (a91697af)
+
 ## dev-20261122_1750 — 2026-11-22
 
 - Profile editor: save updates the profile, REST create keeps phase types and curves (#2169) (b8952fe4)
