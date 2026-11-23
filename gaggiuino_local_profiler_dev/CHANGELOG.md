@@ -1,3 +1,7 @@
+## dev-20261123_0700 — 2026-11-23
+
+- Third-party notices: script to update version headings after dependency… (#2185) (864c4d85)
+
 ## dev-20261123_0649 — 2026-11-23
 
 - Menus: icons for the remaining overflow menus and a ⋯ menu for library… (#2184) (041d7b56)
