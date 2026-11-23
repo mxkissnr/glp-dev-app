@@ -1,3 +1,7 @@
+## dev-20261123_2137 — 2026-11-23
+
+- README screenshots: content must fill the frame, no empty background… (#2193) (c19981ab)
+
 ## dev-20261123_2126 — 2026-11-23
 
 - Security: bump indirect gorilla/websocket for GO-2026-6278 (vuln gate red on every PR) (#2195) (8235a7e2)
