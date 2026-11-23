@@ -1,3 +1,7 @@
+## dev-20261123_0615 — 2026-11-23
+
+- chore(deps): lock file maintenance (#2181) (ac9136cc)
+
 ## dev-20261123_0546 — 2026-11-23
 
 - Share card: move the PNG shot card to the new design (#2178 on current dev) (#2182) (92a4becb)
