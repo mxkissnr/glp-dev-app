@@ -1,3 +1,7 @@
+## dev-20261123_2126 — 2026-11-23
+
+- Security: bump indirect gorilla/websocket for GO-2026-6278 (vuln gate red on every PR) (#2195) (8235a7e2)
+
 ## dev-20261123_0832 — 2026-11-23
 
 - Share card: score in the UI font like the app, drop the embedded Fraunces (#2192) (191e7c41)
