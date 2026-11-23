@@ -1,3 +1,7 @@
+## dev-20261123_0745 — 2026-11-23
+
+- Verdict numbers in the UI font on every page (#2190) (0942d1ba)
+
 ## dev-20261123_0725 — 2026-11-23
 
 - Statistics and Maintenance: verdict title in the UI font, number in the display face (#2188) (29313866)
