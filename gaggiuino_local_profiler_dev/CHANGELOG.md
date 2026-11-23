@@ -1,3 +1,7 @@
+## dev-20261123_0649 — 2026-11-23
+
+- Menus: icons for the remaining overflow menus and a ⋯ menu for library… (#2184) (041d7b56)
+
 ## dev-20261123_0644 — 2026-11-23
 
 - fix(deps): update go-dependencies (#2180) (f2bf712b)
