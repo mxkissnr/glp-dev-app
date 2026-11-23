@@ -1,3 +1,7 @@
+## dev-20261123_0531 — 2026-11-23
+
+- Menus: bring the remaining overflow menus and the share menu to the shared menu pattern (#2176) (5a558b88)
+
 ## dev-20261122_2201 — 2026-11-22
 
 - Add TTF copies of the app fonts for the share card (#2173) (b7a3ce29)
