@@ -1,3 +1,7 @@
+## dev-20261123_0725 — 2026-11-23
+
+- Statistics and Maintenance: verdict title in the UI font, number in the display face (#2188) (29313866)
+
 ## dev-20261123_0700 — 2026-11-23
 
 - Third-party notices: script to update version headings after dependency… (#2185) (864c4d85)
