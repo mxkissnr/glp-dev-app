@@ -1,3 +1,7 @@
+## dev-20261123_0832 — 2026-11-23
+
+- Share card: score in the UI font like the app, drop the embedded Fraunces (#2192) (191e7c41)
+
 ## dev-20261123_0745 — 2026-11-23
 
 - Verdict numbers in the UI font on every page (#2190) (0942d1ba)
