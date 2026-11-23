@@ -1,3 +1,8 @@
+## dev-20261123_0644 — 2026-11-23
+
+- fix(deps): update go-dependencies (#2180) (f2bf712b)
+- fix(deps): update dependency barcode-detector to v3.2.4 (#2179) (99076da0)
+
 ## dev-20261123_0615 — 2026-11-23
 
 - chore(deps): lock file maintenance (#2181) (ac9136cc)
