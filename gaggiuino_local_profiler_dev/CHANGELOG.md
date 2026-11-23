@@ -1,3 +1,8 @@
+## dev-20261123_0546 — 2026-11-23
+
+- Share card: move the PNG shot card to the new design (#2178 on current dev) (#2182) (92a4becb)
+- Demo smoke: judge the shot chart fit on one settled reading (#2177) (1f3a33ea)
+
 ## dev-20261123_0531 — 2026-11-23
 
 - Menus: bring the remaining overflow menus and the share menu to the shared menu pattern (#2176) (5a558b88)
