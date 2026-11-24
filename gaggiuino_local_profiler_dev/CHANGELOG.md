@@ -1,3 +1,7 @@
+## dev-20261124_0804 — 2026-11-24
+
+- Profile editors: Escape does not close them and focus is not trapped (#2199) (00633e3a)
+
 ## dev-20261124_0620 — 2026-11-24
 
 - Dev builds: experimental score model with pressure adherence (#1505)… (#2197) (b06bca54)
