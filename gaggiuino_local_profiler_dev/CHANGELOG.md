@@ -1,3 +1,8 @@
+## dev-20261124_1843 — 2026-11-24
+
+- Live tab only works for the default machine: the switch endpoint ignores machineId (#2212) (4075380b)
+- Statistics: coffee world map says "0 countries" while the map shows points (#2211) (48e769a8)
+
 ## dev-20261124_1702 — 2026-11-24
 
 - Merge pull request #2209 from mxkissnr/main (62692c6f)
