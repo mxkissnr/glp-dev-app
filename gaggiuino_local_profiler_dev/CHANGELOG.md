@@ -1,3 +1,7 @@
+## dev-20261124_0540 — 2026-11-24
+
+- Per-profile target shot time: judge extraction time against the profile, not a fixed 25–35 s (#2196) (c1e5e9fe)
+
 ## dev-20261123_2137 — 2026-11-23
 
 - README screenshots: content must fill the frame, no empty background… (#2193) (c19981ab)
