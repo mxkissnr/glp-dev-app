@@ -1,3 +1,7 @@
+## dev-20261124_2017 — 2026-11-24
+
+- Statistics world map: make the home country a setting instead of guessing it from the browser language (#2215) (0c751a17)
+
 ## dev-20261124_1901 — 2026-11-24
 
 - Statistics and shot chart: duplicate date labels on the score trend… (#2213) (3ac469ec)
