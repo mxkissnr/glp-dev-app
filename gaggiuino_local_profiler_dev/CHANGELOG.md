@@ -1,3 +1,14 @@
+## dev-20261124_1702 — 2026-11-24
+
+- Merge pull request #2209 from mxkissnr/main (62692c6f)
+- Merge pull request #2207 from mxkissnr/release/v3.9.0 (a8d584a0)
+- docs: regenerate dev-stats for v3.9.0 (b53f66ca)
+- docs: regenerate README screenshots for v3.9.0 (62dfa83e)
+- chore(release): keep What's New at eight entries (3879246c)
+- docs: regenerate dev-stats for v3.9.0 (e964ea41)
+- docs: regenerate README screenshots for v3.9.0 (2fa36b9b)
+- chore(release): v3.9.0 (af35912a)
+
 ## dev-20261124_1614 — 2026-11-24
 
 - fix(ui): line up the From/To fields in the target time dialog (#2206) (ae19c17e)
