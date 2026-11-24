@@ -1,3 +1,7 @@
+## dev-20261124_1901 — 2026-11-24
+
+- Statistics and shot chart: duplicate date labels on the score trend… (#2213) (3ac469ec)
+
 ## dev-20261124_1843 — 2026-11-24
 
 - Live tab only works for the default machine: the switch endpoint ignores machineId (#2212) (4075380b)
