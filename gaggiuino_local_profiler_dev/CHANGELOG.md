@@ -1,3 +1,7 @@
+## dev-20261124_0620 — 2026-11-24
+
+- Dev builds: experimental score model with pressure adherence (#1505)… (#2197) (b06bca54)
+
 ## dev-20261124_0540 — 2026-11-24
 
 - Per-profile target shot time: judge extraction time against the profile, not a fixed 25–35 s (#2196) (c1e5e9fe)
