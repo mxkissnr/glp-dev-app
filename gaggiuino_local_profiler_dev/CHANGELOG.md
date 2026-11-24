@@ -1,3 +1,8 @@
+## dev-20261124_1614 — 2026-11-24
+
+- fix(ui): line up the From/To fields in the target time dialog (#2206) (ae19c17e)
+- fix(ui): confirmation dialogs dim the page like the other modals (#2205) (f1ac2f14)
+
 ## dev-20261124_0804 — 2026-11-24
 
 - Profile editors: Escape does not close them and focus is not trapped (#2199) (00633e3a)
