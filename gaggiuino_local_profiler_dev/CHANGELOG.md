@@ -1,3 +1,8 @@
+## dev-20261125_2045 — 2026-11-25
+
+- test: correct the phone map comment in the e2e overflow test (#2217) (08d11be7)
+- Mobile: no horizontal scrolling — shot notes photo row, library actions and tabs, achievement chips, calendar (#2216) (82bfa91a)
+
 ## dev-20261124_2017 — 2026-11-24
 
 - Statistics world map: make the home country a setting instead of guessing it from the browser language (#2215) (0c751a17)
