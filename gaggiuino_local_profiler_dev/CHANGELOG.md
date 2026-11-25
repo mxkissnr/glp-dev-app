@@ -1,3 +1,7 @@
+## dev-20261125_2120 — 2026-11-25
+
+- chore(deps): update dev-dependencies (#2218) (22dc62c5)
+
 ## dev-20261125_2045 — 2026-11-25
 
 - test: correct the phone map comment in the e2e overflow test (#2217) (08d11be7)
