@@ -1,3 +1,7 @@
+## dev-20261126_2109 — 2026-11-26
+
+- Donate anonymised shots for score research (export file for the Discord donation channel) (#2223) (5c16052d)
+
 ## dev-20261126_1735 — 2026-11-26
 
 - Score: resolve what a shot's profile controls and what is free (stop mode, per-phase control) (#2222) (b7c32a9b)
