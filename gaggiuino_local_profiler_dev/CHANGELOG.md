@@ -1,3 +1,7 @@
+## dev-20261126_1735 — 2026-11-26
+
+- Score: resolve what a shot's profile controls and what is free (stop mode, per-phase control) (#2222) (b7c32a9b)
+
 ## dev-20261125_2120 — 2026-11-25
 
 - chore(deps): update dev-dependencies (#2218) (22dc62c5)
