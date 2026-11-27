@@ -1,3 +1,7 @@
+## dev-20261127_0726 — 2026-11-27
+
+- Score: match shots without phaseIndex against their profile's phases instead of a per-sample guess (#2224) (c78d13a5)
+
 ## dev-20261126_2109 — 2026-11-26
 
 - Donate anonymised shots for score research (export file for the Discord donation channel) (#2223) (5c16052d)
