@@ -1,3 +1,7 @@
+## dev-20261127_2149 — 2026-11-27
+
+- Dates and times follow the browser's region, not only the UI language (no AM/PM or month-first dates for English UI outside the US) (#2236) (58b167af)
+
 ## dev-20261127_1951 — 2026-11-27
 
 - Gaggiuino main-7cb0a86: accept settings backup v2 and keep Cafe Mode per-user tokens out of backups and the browser (#2235) (c8490530)
