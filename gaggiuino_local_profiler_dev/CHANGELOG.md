@@ -1,3 +1,7 @@
+## dev-20261127_1951 — 2026-11-27
+
+- Gaggiuino main-7cb0a86: accept settings backup v2 and keep Cafe Mode per-user tokens out of backups and the browser (#2235) (c8490530)
+
 ## dev-20261127_1832 — 2026-11-27
 
 - Firmware update: a half-finished update (new controller, old frontend)… (#2234) (222bd055)
