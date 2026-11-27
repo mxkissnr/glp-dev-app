@@ -1,3 +1,7 @@
+## dev-20261127_1832 — 2026-11-27
+
+- Firmware update: a half-finished update (new controller, old frontend)… (#2234) (222bd055)
+
 ## dev-20261127_1703 — 2026-11-27
 
 - Grinder scales: multi-part dial notation (number.tick, rotation.number.click, macro+letter) and keep trailing .0 (#2230) (d1f7600f)
