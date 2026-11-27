@@ -1,3 +1,7 @@
+## dev-20261127_1506 — 2026-11-27
+
+- Quick rating right after a shot: stars and taste tag in two taps, and taste tags in the donation export (#2228) (efc0b16b)
+
 ## dev-20261127_0726 — 2026-11-27
 
 - Score: match shots without phaseIndex against their profile's phases instead of a per-sample guess (#2224) (c78d13a5)
