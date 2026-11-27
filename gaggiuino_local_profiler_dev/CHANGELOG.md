@@ -1,3 +1,7 @@
+## dev-20261127_1703 — 2026-11-27
+
+- Grinder scales: multi-part dial notation (number.tick, rotation.number.click, macro+letter) and keep trailing .0 (#2230) (d1f7600f)
+
 ## dev-20261127_1506 — 2026-11-27
 
 - Quick rating right after a shot: stars and taste tag in two taps, and taste tags in the donation export (#2228) (efc0b16b)
