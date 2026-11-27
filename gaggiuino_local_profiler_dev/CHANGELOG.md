@@ -1,3 +1,7 @@
+## dev-20261127_2217 — 2026-11-27
+
+- Grinder scale form: hidden fields still show, the layout picker resets silently, and the dial fields need clearer labels (#2237) (b7879d4b)
+
 ## dev-20261127_2149 — 2026-11-27
 
 - Dates and times follow the browser's region, not only the UI language (no AM/PM or month-first dates for English UI outside the US) (#2236) (58b167af)
