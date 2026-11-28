@@ -1,3 +1,7 @@
+## dev-20261128_1116 — 2026-11-28
+
+- Date locale: derive the region from a bare browser language when no locale has one (still AM/PM for "de" without region) (#2241) (7fd87194)
+
 ## dev-20261128_0935 — 2026-11-28
 
 - Date locale: use the first browser language that has a region, then the system region (#2239) (ab76ac4b)
