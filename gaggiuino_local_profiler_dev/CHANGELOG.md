@@ -1,3 +1,7 @@
+## dev-20261128_1211 — 2026-11-28
+
+- Score: a shot in which the pump never ran gets a perfect score (#2244) (725e63d9)
+
 ## dev-20261128_1116 — 2026-11-28
 
 - Date locale: derive the region from a bare browser language when no locale has one (still AM/PM for "de" without region) (#2241) (7fd87194)
