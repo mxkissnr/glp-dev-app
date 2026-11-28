@@ -1,3 +1,7 @@
+## dev-20261128_0935 — 2026-11-28
+
+- Date locale: use the first browser language that has a region, then the system region (#2239) (ab76ac4b)
+
 ## dev-20261127_2217 — 2026-11-27
 
 - Grinder scale form: hidden fields still show, the layout picker resets silently, and the dial fields need clearer labels (#2237) (b7879d4b)
