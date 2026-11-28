@@ -1,3 +1,7 @@
+## dev-20261128_1218 — 2026-11-28
+
+- ci: security scan report survives a single findings artifact and closes clean branches' issues (#2246) (106afee9)
+
 ## dev-20261128_1211 — 2026-11-28
 
 - Score: a shot in which the pump never ran gets a perfect score (#2244) (725e63d9)
